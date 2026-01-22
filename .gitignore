@@ -2,3 +2,5 @@
 .project/
 dist/
 .context/
+tsgo
+dist*/
