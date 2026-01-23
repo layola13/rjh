@@ -1,0 +1,48 @@
+{
+  "name": "unified-file-splitter",
+  "version": "3.0.0",
+  "description": "统一JavaScript文件拆分工具 - 支持webpack打包文件和高级拆分策略",
+  "main": "unified-file-splitter.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run unified-file-splitter.ts",
+    "split": "bun run unified-file-splitter.ts split",
+    "scan": "bun run unified-file-splitter.ts scan",
+    "analyze": "bun run unified-file-splitter.ts analyze",
+    "split-js": "bun run unified-file-splitter.ts split -i ./js -o ./js_unified -s 200",
+    "split-js-advanced": "bun run unified-file-splitter.ts split -i ./js -o ./js_unified -s 200 --advanced",
+    "split-preserve-hierarchy": "bun run unified-file-splitter.ts split -i ./js -o ./js_unified -s 200 --preserve-hierarchy",
+    "analyze-large": "bun run unified-file-splitter.ts analyze -i ./js_unified -s 50",
+    "build": "bun build unified-file-splitter.ts --outdir ./dist --target bun",
+    "start": "bun run dist/unified-file-splitter.js",
+    "legacy-v1": "bun run file-splitter.ts split",
+    "legacy-v2": "bun run file-splitter-v2.ts split",
+    "legacy-advanced": "bun run advanced-function-splitter.ts split"
+  },
+  "keywords": [
+    "javascript",
+    "file-splitter",
+    "webpack",
+    "babel",
+    "ast",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/generator": "^7.23.0",
+    "@babel/parser": "^7.23.0",
+    "@babel/traverse": "^7.23.0",
+    "commander": "^11.1.0",
+    "openai": "^6.16.0"
+  },
+  "devDependencies": {
+    "@types/babel__generator": "^7.6.5",
+    "@types/babel__parser": "^7.1.1",
+    "@types/babel__traverse": "^7.20.2",
+    "bun-types": "latest"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}
