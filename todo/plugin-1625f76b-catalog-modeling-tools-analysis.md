@@ -1635,3 +1635,953 @@ plugins-hs-1625f76b包含**12个专用属性栏处理器**:
 | `customizedlightbandpropertybarhandler.js` | 灯带 | 自定义灯带属性 |
 | `customizedmoldingpropertybarhandler.js` | 线脚 | 自定义线脚属性 |
 | `customizedmoldingpropertybarhandler_2.js` | 
+线脚v2 | 线脚属性v2 |
+| `ncustomizedlightslotpropertybarhandler.js` | 新灯槽 | 新版灯槽属性 |
+| `ncustomizedlightbandpropertybarhandler.js` | 新灯带 | 新版灯带属性 |
+| `ncustomizedmoldingpropertybarhandler.js` | 新线脚 | 新版线脚属性 |
+| `ncustomizedbeampropertybarhandler.js` | 新梁 | 新版梁属性 |
+| `ncustomizedstructurepropertybarhandler.js` | 新结构 | 新版结构属性 |
+| `ncpbackgroundwallbasepropertybarhandler.js` | NCP背景墙 | 新版背景墙属性 |
+| `ncpceilingpropertybarhandler.js` | NCP吊顶 | 新版吊顶属性 |
+| `columnpropertybarhandler.js` | 柱子 | 柱子属性 |
+| `parametriccontentbasepropertybarhandler.js` | 参数化内容 | 参数化对象基类 |
+
+### 16.2 PropertyBarHandler模式
+
+所有Handler遵循统一模式:
+
+```typescript
+class CustomizedLightSlotPropertyBarHandler {
+  constructor() {
+    this.app = HSApp.App.getApp();
+    this.catalogPlugin = this.app.pluginManager.getPlugin(
+      HSFPConstants.PluginType.Catalog
+    );
+    this.cmdMgr = this.app.cmdManager;
+    
+    // 特定信号
+    this.lightSlotSizeChangeSignal = new HSCore.Util.Signal(this);
+  }
+  
+  // 获取属性数据
+  getPropertyData(entity) { }
+  
+  // 更新属性
+  updateProperty(entity, property, value) { }
+  
+  // 提交修改
+  commit(entity, changes) { }
+}
+```
+
+---
+
+## ⏱️ 17. 还原计划
+
+### 17.1 还原策略
+
+#### 阶段1: 基础插件 (Week 1, 5个插件, 无依赖)
+
+```
+优先级P0 - 可并行开发:
+├── CommonUI (60文件, 2天)
+├── Compass (15文件, 0.5天)
+├── Client (20文件, 1天)
+├── ConstraintLayout (30文件, 1.5天)
+└── CollaborateEdit (15文件, 0.5天)
+
+总计: 140文件, 5.5天 → 1周 (2人并行)
+```
+
+#### 阶段2: Catalog核心 (Week 2-4, 1个插件)
+
+```
+Catalog插件 (200文件, 3周):
+├── Week 2: 核心框架 + Handler
+│   ├── CatalogPlugin主类
+│   ├── Handler基础实现
+│   ├── BaseApiManager集成
+│   └── 信号系统搭建
+│
+├── Week 3: 页面组件
+│   ├── AI相关页面 (7个)
+│   ├── 商户页面 (4个)
+│   ├── 独立面板
+│   └── 容器组件
+│
+└── Week 4: 高级功能
+    ├── 自定义产品管理
+    ├── 模板查询
+    ├── 收藏集成
+    └── 信号完善
+```
+
+#### 阶段3: 工具层插件 (Week 5-6, 2个插件)
+
+```
+ContextualTools (80文件, 1周):
+├── 插件主类
+├── Handler实现
+├── 状态栏系统
+├── 信号系统
+└── Web模式支持
+
+ContentTag (30文件, 2天):
+├── 插件主类
+├── Handler实现
+└── 标签管理
+```
+
+#### 阶段4: 内容操作 (Week 7-8, 1个插件)
+
+```
+ContentManipulation (100文件, 2周):
+├── Week 7: 命令系统
+│   ├── 13个Cmd类
+│   └── 命令注册
+│
+└── Week 8: Gizmo与交互
+    ├── Gizmo注册系统
+    ├── Sizecard组件
+    ├── 12个PropertyBarHandler
+    └── 适配器
+```
+
+#### 阶段5: 材质样式 (Week 9-10, 3个插件)
+
+```
+ContentMaterialReplace (50文件, 4天):
+├── 插件主类 (依赖9个)
+├── Handler实现
+├── 材质替换逻辑
+└── Catalog集成
+
+ContentStyler (40文件, 3天):
+├── 插件主类 (依赖9个)
+├── Handler实现
+└── 样式复制逻辑
+
+CustomizedProductPlugin (31文件, 3天):
+├── 插件主类 (依赖9个)
+├── Handler实现
+└── 产品管理
+```
+
+#### 阶段6: 辅助功能 (Week 11, 1个插件)
+
+```
+Commission佣金系统 (25文件, 1周):
+├── 插件主类
+├── 佣金计算
+├── 商家管理
+└── 数据持久化
+```
+
+### 17.2 时间估算汇总
+
+| 阶段 | 插件数 | 文件数 | 人周 | 日历周 | 团队 |
+|------|--------|--------|------|--------|------|
+| **阶段1** | 5 | 140 | 1 | 1周 | 2人 |
+| **阶段2** | 1 | 200 | 6 | 3周 | 2人 |
+| **阶段3** | 2 | 110 | 3 | 1.5周 | 2人 |
+| **阶段4** | 1 | 100 | 4 | 2周 | 2人 |
+| **阶段5** | 3 | 121 | 2 | 1周 | 2人 |
+| **阶段6** | 1 | 25 | 1 | 0.5周 | 2人 |
+| **总计** | **13** | **696** | **17** | **9周** | **2人** |
+
+**优化后**: 考虑并行开发，实际**7周**可完成
+
+---
+
+## 🔑 18. 关键技术点
+
+### 18.1 信号驱动架构
+
+```typescript
+// Catalog的信号系统
+class CatalogPlugin {
+  // 定义10+个信号
+  signalItemClicked: Signal;
+  signalItemMouseOver: Signal;
+  signalShowCatalog: Signal;
+  // ...
+  
+  getSignal() {
+    // 从CatalogSignalManager获取信号实例
+    this.signalItemClicked = this.catalogSignalManager.signalItemClicked;
+    this.signalItemMouseOver = this.catalogSignalManager.signalItemMouseOver;
+    // ...
+  }
+}
+
+// 其他插件监听Catalog信号
+this.signalHook.listen(
+  catalogPlugin.signalSizeGrow,
+  this.onSizeGrow
+);
+```
+
+### 18.2 依赖注入模式
+
+```typescript
+onActive(context, deps) {
+  // 从deps中获取依赖插件
+  const contextualTools = deps[HSFPConstants.PluginType.ContextualTools];
+  const propertyBar = deps[HSFPConstants.PluginType.PropertyBar];
+  const catalog = deps[HSFPConstants.PluginType.Catalog];
+  
+  // 使用依赖
+  this._contextualToolsPlugin = contextualTools;
+  this._propertyBarPlugin = propertyBar;
+  this._catalogPlugin = catalog;
+}
+```
+
+### 18.3 Handler职责分离
+
+```typescript
+// 插件类: 轻量级,只负责生命周期
+class MyPlugin extends IPlugin {
+  constructor() {
+    super({ ... });
+    this.handler = new MyHandler();  // 委托给Handler
+  }
+  
+  onActive(context, deps) {
+    this.handler.init(context, deps);  // Handler处理复杂逻辑
+  }
+}
+
+// Handler类: 重量级,负责业务逻辑
+class MyHandler {
+  init(context, deps) {
+    // 复杂的初始化逻辑
+    this._registerCommands();
+    this._registerGizmos();
+    this._setupUI();
+    this._listenSignals();
+  }
+}
+```
+
+### 18.4 命令注册策略
+
+```typescript
+// 方式1: 直接注册
+cmdMgr.register(
+  CommandType.PlaceProduct,
+  CommandType.Sequence,
+  PlaceProductCommand
+);
+
+// 方式2: 注入参数
+cmdMgr.register(
+  CommandType.OpenIndependentPanel,
+  OpenIndependentPanelCommand,
+  (args) => [this].concat(args)  // 注入插件实例
+);
+
+// 方式3: 批量注册
+cmdMgr.register([
+  [CommandType.CreateTgWall, CmdCreateTgWall],
+  [CommandType.CreateRectTgWall, CmdCreateRectTgWall],
+  [CommandType.CreatePolygonTgWall, CmdCreatePolygonTgWall]
+]);
+```
+
+---
+
+## 🧪 19. 测试策略
+
+### 19.1 单元测试重点
+
+#### Catalog插件测试
+
+```typescript
+describe('CatalogPlugin', () => {
+  let plugin: CatalogPlugin;
+  let mockContext: IPluginContext;
+  
+  beforeEach(() => {
+    plugin = new CatalogPlugin();
+    mockContext = createMockContext();
+  });
+  
+  it('should register commands on activate', () => {
+    plugin.onActive(mockContext, {});
+    
+    expect(mockContext.app.cmdManager.register).toHaveBeenCalledWith(
+      HSFPConstants.CommandType.PlaceProduct,
+      expect.any(Function)
+    );
+  });
+  
+  it('should show catalog on activate', () => {
+    plugin.onActive(mockContext, {});
+    
+    expect(plugin.catalogShow).toBe(true);
+  });
+  
+  it('should handle dependencies correctly', () => {
+    const deps = {
+      [HSFPConstants.PluginType.Favorite]: mockFavoritePlugin
+    };
+    
+    plugin.onActive(mockContext, deps);
+    
+    expect(plugin.handler.init).toHaveBeenCalled();
+  });
+});
+```
+
+#### ContextualTools测试
+
+```typescript
+describe('ContextualToolsPlugin', () => {
+  it('should populate status bar on selection', () => {
+    const plugin = new ContextualToolsPlugin();
+    plugin.onActive(mockContext, mockDeps);
+    
+    // 模拟选择对象
+    mockContext.app.selectionManager.select(mockEntity);
+    
+    // 触发刷新
+    mockContext.app.signalContextualtoolRefresh.dispatch();
+    
+    expect(plugin.signalPopulateStatusBar).toHaveBeenDispatched();
+  });
+});
+```
+
+### 19.2 集成测试
+
+```typescript
+describe('Plugin Integration', () => {
+  it('Catalog should work with Favorite', async () => {
+    // 加载Favorite插件
+    await pluginManager.asyncLoad(HSFPConstants.PluginType.Favorite);
+    
+    // 加载Catalog插件
+    const catalog 
+= await pluginManager.asyncLoad(HSFPConstants.PluginType.Catalog);
+    
+    // 验证依赖已加载
+    expect(catalog).toBeDefined();
+    expect(pluginManager.getPlugin(HSFPConstants.PluginType.Favorite)).toBeDefined();
+    
+    // 测试功能
+    catalog.showCatalog();
+    expect(catalog.catalogShow).toBe(true);
+  });
+  
+  it('ContextualTools should refresh on selection change', () => {
+    const ctxTools = pluginManager.getPlugin(HSFPConstants.PluginType.ContextualTools);
+    const catalog = pluginManager.getPlugin(HSFPConstants.PluginType.Catalog);
+    
+    // 验证依赖
+    expect(ctxTools).toBeDefined();
+    expect(catalog).toBeDefined();
+    
+    // 模拟选择变化
+    app.selectionManager.select(mockEntity);
+    
+    // 验证刷新
+    expect(ctxTools.signalPopulateStatusBar).toHaveBeenDispatched();
+  });
+});
+```
+
+### 19.3 E2E测试场景
+
+```typescript
+// 场景1: 放置家具流程
+test('Place furniture from catalog', async () => {
+  // 1. 打开Catalog
+  const catalog = pluginManager.getPlugin(HSFPConstants.PluginType.Catalog);
+  catalog.showCatalog();
+  
+  // 2. 点击家具项
+  await catalog.signalItemClicked.dispatch({ itemId: 'sofa-001' });
+  
+  // 3. 执行PlaceProduct命令
+  const cmd = cmdManager.createCommand(
+    HSFPConstants.CommandType.PlaceProduct,
+    ['sofa-001']
+  );
+  await cmdManager.execute(cmd);
+  
+  // 4. 验证对象已添加
+  expect(scene.contents.length).toBeGreaterThan(0);
+});
+
+// 场景2: 材质替换流程
+test('Replace material workflow', async () => {
+  // 1. 选择对象
+  selectionManager.select(furniture);
+  
+  // 2. 打开材质替换面板
+  const materialReplace = pluginManager.getPlugin(
+    HSFPConstants.PluginType.ContentMaterialReplace
+  );
+  
+  // 3. 选择新材质
+  await materialReplace.handler.selectMaterial('wood-oak');
+  
+  // 4. 验证材质已更新
+  expect(furniture.getMaterial().seekId).toBe('wood-oak');
+});
+```
+
+---
+
+## 📋 20. 还原详细步骤
+
+### 20.1 Week 1: 基础插件 (5个)
+
+#### Day 1-2: CommonUI
+
+```bash
+# 1. 创建目录
+mkdir -p src/plugins/plugin-1625f76b/common-ui
+
+# 2. 还原核心文件
+src/plugins/plugin-1625f76b/common-ui/
+├── index.ts              # module_137761.js
+├── dropdown-menu.tsx     # module_241921.js
+├── popup-window.tsx      # module_424414.js
+├── drag-popup.tsx        # module_91658.js
+├── mouse-tooltip.tsx     # module_448098.js
+└── utils.ts              # module_970102.js
+
+# 3. 注册插件
+HSApp.Plugin.registerPlugin(
+  HSFPConstants.PluginType.CommonUI,
+  CommonUIPlugin
+);
+```
+
+#### Day 3: Compass + Client + CollaborateEdit
+
+```bash
+# 并行开发3个小插件
+src/plugins/plugin-1625f76b/
+├── compass/
+│   └── index.ts          # module_620684.js
+├── client/
+│   └── index.ts          # module_886743.js
+└── collaborate-edit/
+    └── index.ts          # module_432076.js
+```
+
+#### Day 4-5: ConstraintLayout
+
+```bash
+src/plugins/plugin-1625f76b/constraint-layout/
+├── index.ts              # constraintlayoutplugin.js
+├── layout-engine.ts
+├── constraint-rules.ts
+└── auto-arrange.ts
+```
+
+### 20.2 Week 2-4: Catalog插件 (200文件)
+
+#### Week 2: 核心框架
+
+```typescript
+// Day 1-2: 插件主类与Handler
+src/plugins/plugin-1625f76b/catalog/
+├── index.ts                         # module_33249.js (CatalogPlugin)
+├── handler/
+│   ├── index.ts                     # handler.js
+│   ├── handler-2.ts                 # handler_2.js
+│   ├── handler-3.ts                 # handler_3.js
+│   └── handler-4.ts                 # handler_4.js
+
+// Day 3-4: API管理器集成
+├── api/
+│   ├── base-api-manager.ts
+│   ├── data-manager.ts
+│   └── events-manager.ts
+
+// Day 5: 信号系统
+├── signals/
+│   ├── catalog-signal-manager.ts
+│   └── signal-definitions.ts
+```
+
+#### Week 3: 页面组件
+
+```typescript
+src/plugins/plugin-1625f76b/catalog/pages/
+├── ai/
+│   ├── ai-moodboard-page.tsx       # aimoodboardpage.js
+│   ├── my-ai-moodboard-page.tsx    # myaimoodboardpage.js
+│   ├── enterprise-ai-moodboard.tsx # enterpriseaimoodboardpage.js
+│   ├── ai-create-page.tsx          # aicreatepage.js
+│   ├── my-ai-modeler-page.tsx      # myaimodelerpage.js
+│   └── ai-result-page.tsx          # airesultpage.js
+│
+├── merchant/
+│   ├── landing-page-container.tsx  # merchantlandingpagecontainer.js
+│   ├── list-page-container.tsx     # merchantlistpagecontainer.js
+│   ├── team-brand-page.tsx         # teambrandpagecontainer.js
+│   └── team-brand-list.tsx         # teambrandlistpagecontainer.js
+│
+└── common/
+    ├── page-type.ts                # pagetype.js
+    └── ...
+```
+
+#### Week 4: 高级功能
+
+```typescript
+src/plugins/plugin-1625f76b/catalog/
+├── customized-product/
+│   ├── add-product.ts
+│   ├── update-product.ts
+│   ├── delete-product.ts
+│   └── product-manager.ts
+│
+├── template/
+│   ├── query-template.ts
+│   └── template-builder.ts
+│
+├── utils/
+│   ├── material-utils.ts           # materialutils.js
+│   ├── entity-selector.ts          # entityselector.js
+│   ├── property-tree-parse.ts      # propertytreeparseutil.js
+│   └── replace-util.ts             # replaceutil.js
+│
+└── ui/
+    ├── independent-panel.tsx
+    ├── catalog-container.tsx
+    └── image-viewer.tsx
+```
+
+### 20.3 Week 5-6: 工具层
+
+#### Week 5: ContextualTools
+
+```typescript
+src/plugins/plugin-1625f76b/contextual-tools/
+├── index.ts                         # module_665765.js
+├── handler.ts                       # module_129567.js
+├── statusbar/
+│   ├── statusbar-manager.ts
+│   ├── statusbar-item.ts
+│   └── populate-statusbar.ts
+├── signals.ts
+└── web-mode-support.ts
+```
+
+#### Week 6 (前半): ContentTag
+
+```typescript
+src/plugins/plugin-1625f76b/content-tag/
+├── index.ts                         # module_525129.js
+├── handler.ts                       # module_275156.js (Handler)
+├── tag-manager.ts
+└── floorplan-tag.ts
+```
+
+### 20.4 Week 7-8: ContentManipulation
+
+#### Week 7: 命令系统
+
+```typescript
+src/plugins/plugin-1625f76b/content-manipulation/
+├── index.ts                         # module_59104.js
+├── handler.ts                       # module_455497.js
+│
+├── commands/
+│   ├── move/
+│   │   ├── cmd-move-in-hard-decoration.ts
+│   │   ├── cmd-move-ncp-bgwall-unit.ts
+│   │   ├── cmd-move-ncp-bgwall-wfa.ts
+│   │   ├── cmd-move-parametric-bgwall.ts
+│   │   └── cmd-content-material-move-replace.ts
+│   │
+│   ├── rotate/
+│   │   ├── cmd-rotate-content.ts
+│   │   ├── cmd-rotate-contents.ts
+│   │   └── cmd-rotate-in-hard-decoration.ts
+│   │
+│   ├── resize/
+│   │   └── cmd-resize-in-hard-decoration.ts
+│   │
+│   └── layout/
+│       ├── cmd-apply-moodboard-layout.ts
+│       └── cmd-content-arc-array.ts
+```
+
+#### Week 8: Gizmo与属性栏
+
+```typescript
+src/plugins/plugin-1625f76b/content-manipulation/
+├── gizmo/
+│   ├── gizmo-registry.ts
+│   ├── manipulation-gizmo.ts
+│   └── sizecard-gizmo.ts
+│
+├── propertybar-handlers/
+│   ├── customized-lightslot-handler.ts
+│   ├── customized-lightband-handler.ts
+│   ├── customized-molding-handler.ts
+│   ├── ncustomized-lightslot-handler.ts
+│   ├── ncustomized-molding-handler.ts
+│   ├── ncustomized-beam-handler.ts
+│   ├── ncustomized-structure-handler.ts
+│   ├── ncp-backgroundwall-handler.ts
+│   ├── ncp-ceiling-handler.ts
+│   ├── column-handler.ts
+│   └── parametric-content-base-handler.ts
+│
+└── adapters/
+    ├── change-ncp-backgroundwall-adapter.ts
+    └── change-parametric-content-adapter.ts
+```
+
+### 20.5 Week 9-10: 材质样式
+
+```typescript
+src/plugins/plugin-1625f76b/
+├── content-material-replace/
+│   ├── index.ts                     # module_847940.js
+│   ├── handler.ts
+│   ├── material-catalog.ts
+│   └── replace-engine.ts
+│
+├── content-styler/
+│   ├── index.ts                     # module_572294.js
+│   ├── handler.ts
+│   └── style-copier.ts
+│
+└── customized-product/
+    ├── index.ts                     # module_204423.js
+    ├── handler.ts
+    └── product-env.ts
+```
+
+### 20.6 Week 11: Commission
+
+```typescript
+src/plugins/plugin-1625f76b/commission/
+├── index.ts                         # module_26129.js
+├── handler.ts                       # handler_4.js
+├── commission-calculator.ts
+└── store-manager.ts
+```
+
+---
+
+## 📊 21. 模块依赖树
+
+### 21.1 还原优先级排序
+
+```
+优先级P0 (必须先完成):
+├── CommonUI (Day 1-2)
+├── Compass (Day 3)
+├── Client (Day 3)
+├── ConstraintLayout (Day 4-5)
+└── CollaborateEdit (Day 3)
+
+优先级P1 (依赖P0):
+├── Catalog (Week 2-4)
+└── ContextualTools (Week 5)
+
+优先级P2 (依赖P0-P1):
+├── ContentTag (Week 6前半)
+├── ContentManipulation (Week 7-8)
+└── Commission (Week 11)
+
+优先级P3 (依赖多个插件):
+├── ContentMaterialReplace (Week 9, 需等待9个外部插件)
+├── ContentStyler (Week 9-10, 需等待9个外部插件)
+└── CustomizedProductPlugin (Week 10, 需等待9个外部插件)
+```
+
+### 21.2 关键路径
+
+```
+第三方库 (npm)
+  ↓
+CommonUI (Week 1)
+  ↓
+Catalog (Week 2-4) ← 
+依赖Favorite等4个外部插件
+  ↓
+ContextualTools (Week 5) ← 依赖Catalog等3个
+  ↓
+ContentManipulation (Week 7-8) ← 依赖ContextualTools等3个
+  ↓
+ContentMaterialReplace (Week 9) ← 依赖9个外部插件
+  ↓
+集成测试 (Week 11)
+
+总关键路径: 11周
+```
+
+---
+
+## 🎯 22. 核心价值与定位
+
+### 22.1 在整体架构中的角色
+
+```
+Homestyler架构:
+├── core-hs.bundle (几何引擎)
+├── app-hs.bundle (应用框架)
+├── hs.bundle (UI框架)
+│
+└── plugins-hs-1625f76b ← 【核心UI与内容操作层】
+    ├── Catalog (内容资源管理)
+    ├── ContextualTools (动态工具栏)
+    ├── ContentManipulation (内容操作)
+    ├── CommonUI (UI组件库)
+    └── 9个辅助插件
+```
+
+### 22.2 关键特性
+
+#### 1. 最大的UI系统
+
+- **Catalog**: Homestyler最重要的用户界面
+- **17个页面组件**: AI、商户、模板等
+- **信号驱动**: 10+个信号实现解耦
+
+#### 2. 完整的内容操作工具链
+
+```
+ContentManipulation (移动/缩放/旋转)
+    ↓
+ContentMaterialReplace (材质替换)
+    ↓
+ContentStyler (样式复制)
+    ↓
+ContentTag (标签管理)
+```
+
+#### 3. 动态UI系统
+
+- **ContextualTools**: 根据选择对象动态显示工具
+- **PropertyBar集成**: 12个专用属性栏处理器
+- **Web/Desktop双模式**: 支持不同平台
+
+#### 4. 插件间协作枢纽
+
+- **被依赖**: Catalog被6个子插件依赖
+- **依赖外部**: 依赖13个其他bundle的插件
+- **信号桥接**: 转发和协调多个插件信号
+
+---
+
+## ⚠️ 23. 还原风险与挑战
+
+### 23.1 技术风险
+
+| 风险项 | 风险等级 | 影响 | 缓解措施 |
+|--------|---------|------|---------|
+| **Catalog复杂度高** | 🔴 高 | 可能延期1-2周 | 分阶段交付,优先核心功能 |
+| **依赖外部插件多** | 🟡 中 | 3个插件需等待外部 | 先Mock接口,后期集成 |
+| **信号系统复杂** | 🟡 中 | 调试困难 | 建立信号追踪工具 |
+| **React组件多** | 🟡 中 | UI还原工作量大 | 复用组件库,提取公共组件 |
+| **API集成** | 🟢 低 | 后端接口对接 | 先用Mock数据 |
+
+### 23.2 依赖风险
+
+**外部插件依赖**:
+
+```typescript
+// 这3个插件需要等待9个外部插件完成
+ContentMaterialReplace: 9个依赖
+ContentStyler: 9个依赖  
+CustomizedProductPlugin: 9个依赖
+
+// 来自其他bundle:
+- PropertyBar (plugins-hs-adc1df6b)
+- LeftMenu, RightMenu (plugins-hs-73381696或205d0ccf)
+- Toolbar, StatusBar (plugins-hs-205d0ccf)
+- ViewSwitch (plugins-hs-dd89ef02)
+- PageHeader (plugins-hs-adc1df6b)
+- ResizeWidget, SingleRoom (plugins-hs-205d0ccf)
+```
+
+**缓解策略**:
+1. ✅ 优先完成无依赖的5个插件
+2. ✅ Catalog和ContextualTools可独立开发
+3. ✅ 高依赖插件用Mock替代外部依赖
+4. ✅ 最后阶段再集成真实依赖
+
+### 23.3 进度风险
+
+**关键里程碑**:
+
+| 里程碑 | 时间点 | 交付物 | 风险 |
+|--------|--------|--------|------|
+| **M1** | Week 1 | 5个基础插件 | 🟢 低 |
+| **M2** | Week 4 | Catalog完成 | 🟡 中 |
+| **M3** | Week 6 | 工具层完成 | 🟢 低 |
+| **M4** | Week 8 | ContentManipulation完成 | 🟡 中 |
+| **M5** | Week 10 | 所有插件完成 | 🔴 高 |
+
+---
+
+## 💼 24. 资源需求
+
+### 24.1 人力配置
+
+| 阶段 | 角色1 | 角色2 | 协作方式 |
+|------|-------|-------|---------|
+| **Week 1** | CommonUI + ConstraintLayout | Compass + Client + Collab | 并行开发 |
+| **Week 2-4** | Catalog核心 | Catalog页面 | 模块分工 |
+| **Week 5-6** | ContextualTools | ContentTag | 并行开发 |
+| **Week 7-8** | 命令系统 | Gizmo+PropertyBar | 模块分工 |
+| **Week 9-10** | 材质替换 | 样式复制+自定义产品 | 并行开发 |
+| **Week 11** | Commission | 集成测试 | 收尾阶段 |
+
+### 24.2 技能要求
+
+**必备技能**:
+- ✅ TypeScript + ES6
+- ✅ React 17 + Hooks
+- ✅ 设计模式 (Observer, Factory, Command)
+- ✅ 信号系统理解
+
+**加分技能**:
+- ✅ Three.js经验
+- ✅ Webpack配置
+- ✅ UI/UX设计
+- ✅ 电商业务理解
+
+---
+
+## 📚 25. 参考资料
+
+### 25.1 核心源码文件
+
+| 文件 | Module ID | 功能 | 行数 | 优先级 |
+|------|-----------|------|------|--------|
+| `module_33249.js` | 33249 | Catalog主插件 | 582 | P0 |
+| `module_665765.js` | 665765 | ContextualTools主插件 | 183 | P0 |
+| `module_59104.js` | 59104 | ContentManipulation主插件 | 109 | P0 |
+| `module_137761.js` | 137761 | CommonUI主插件 | 171 | P0 |
+| `module_129567.js` | 129567 | ContextualTools Handler | ~800 | P0 |
+| `module_455497.js` | 455497 | ContentManipulation Handler | ~600 | P0 |
+| `constraintlayoutplugin.js` | - | ConstraintLayout主插件 | 681 | P1 |
+| `module_847940.js` | 847940 | ContentMaterialReplace | 99 | P1 |
+| `module_572294.js` | 572294 | ContentStyler | 91 | P1 |
+
+### 25.2 相关文档
+
+- [dist-plugin-system-complete-architecture.md](./dist-plugin-system-complete-architecture.md) - 插件系统架构
+- [plugin-205d0ccf-constraint-system-analysis.md](./plugin-205d0ccf-constraint-system-analysis.md) - 第一大插件分析
+- [dist-only-restoration-plan.md](./dist-only-restoration-plan.md) - 完整还原方案
+
+---
+
+## 🎓 26. 学习路径
+
+### 26.1 新手开发者 (Week 1)
+
+```
+Day 1-2: 理解插件架构
+- 阅读 IPlugin 基类
+- 理解依赖注入
+- 学习信号机制
+
+Day 3-5: 熟悉Catalog
+- 研究Catalog插件结构
+- 理解目录管理逻辑
+- 学习BaseApiManager
+
+Day 6-7: 实践
+- 修改CommonUI组件
+- 添加简单功能
+- 编写单元测试
+```
+
+### 26.2 进阶开发者 (Week 2-3)
+
+```
+Week 2: Catalog深入
+- 实现页面组件
+- 集成API管理器
+- 完善信号系统
+
+Week 3: ContextualTools
+- 状态栏管理
+- 动态工具更新
+- Web模式适配
+```
+
+---
+
+## 🔧 27. 开发工具链
+
+### 27.1 推荐工具
+
+```bash
+# 代码编辑
+VS Code + TypeScript插件
+
+# 调试
+Chrome DevTools + React DevTools
+
+# 测试
+Jest + React Testing Library
+
+# 构建
+Webpack 5 + Babel
+
+# 代码质量
+ESLint + Prettier + Husky
+```
+
+### 27.2 开发脚本
+
+```json
+// package.json
+{
+  "scripts": {
+    "dev": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint src/**/*.ts src/**/*.tsx",
+    "type-check": "tsc --noEmit"
+  }
+}
+```
+
+---
+
+## 📊 28. 总结
+
+### 28.1 关键统计
+
+📊 **规模指标**
+- **总文件数**: 696个
+- **子插件数**: 13个
+- **代码行数**: ~105,800行
+- **命令数**: 13个
+- **Handler数**: 18个
+- **页面组件**: 17个
+- **PropertyBarHandler**: 12个
+
+⏱️ **时间估算**
+- **总工期**: 11周 (优化后7周)
+- **核心开发**: 9周
+- **测试集成**: 2周
+- **团队规模**: 2人
+
+💰 **成本估算**
+- **人周**: 22人周
+- **人力成本**: ~44万元 (200元/小时)
+
+### 28.2 核心价值
+
+**1. UI系统支柱**
+- Catalog是用户主要交互界面
+- ContextualTools提供动态工具体验
+- 
