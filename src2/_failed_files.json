@@ -1,0 +1,384 @@
+[
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/holestyle.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/holestyle.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/splitteragent.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/splitteragent.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/a_23.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/a_23.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/drawpolytype.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/drawpolytype.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/index.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/index.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/audit.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/audit.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/toolmanager.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/toolmanager.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/emptytrackposition.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/emptytrackposition.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/utils.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/utils.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/doubleearspolygon.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/doubleearspolygon.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/halfwheel.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/halfwheel.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/semisegmentpro.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/semisegmentpro.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/arc.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/arc.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/shapemanager.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/shapemanager.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/frame.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/frame.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/kfc3polygon.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/kfc3polygon.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/observable.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/observable.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/halfkfc2polygon.js",
+    "outputPath": "src2/js/chunk-6ee3de60.1b731f5b_core_dewebpack/halfkfc2polygon.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-25e2018e.41deed4c_parse_dewebpack/module_20_2.js",
+    "outputPath": "src2/js/chunk-25e2018e.41deed4c_parse_dewebpack/module_20_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-25e2018e.41deed4c_parse_dewebpack/module_1.js",
+    "outputPath": "src2/js/chunk-25e2018e.41deed4c_parse_dewebpack/module_1.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_loaders_dist_gltf_2_0_gltfloader_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_loaders_dist_gltf_2_0_gltfloader_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_loaders_dist_gltf_1_0_gltfloader_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_loaders_dist_gltf_1_0_gltfloader_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_serializers_dist_gltf_2_0_gltfanimation_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_serializers_dist_gltf_2_0_gltfanimation_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_19.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_19.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_164.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_164.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_163.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_163.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_gui_dist_2d_controls_control_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_gui_dist_2d_controls_control_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/threescene_2.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/threescene_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_serializers_dist_gltf_2_0_gltfexporter_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_lts_serializers_dist_gltf_2_0_gltfexporter_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_121_extracted/module_lts_serializers_dist_gltf_2_0_gltfmaterialexporter_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_121_extracted/module_lts_serializers_dist_gltf_2_0_gltfmaterialexporter_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_121_extracted/module_lts_serializers_dist_gltf_2_0_gltfexporter_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_121_extracted/module_lts_serializers_dist_gltf_2_0_gltfexporter_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_51.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_51.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/byte_extracted/module_lts_loaders_dist_gltf_2_0_gltfloader_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/byte_extracted/module_lts_loaders_dist_gltf_2_0_gltfloader_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_117_extracted/module_lts_gui_dist_3d_materials_mrdl_shaders_mrdlsliderbar_vertex_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_117_extracted/module_lts_gui_dist_3d_materials_mrdl_shaders_mrdlsliderbar_vertex_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_117_extracted/module_lts_gui_dist_3d_materials_mrdl_shaders_mrdlfrontplate_vertex_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_117_extracted/module_lts_gui_dist_3d_materials_mrdl_shaders_mrdlfrontplate_vertex_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_117_extracted/module_lts_gui_dist_2d_controls_control_js.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_117_extracted/module_lts_gui_dist_2d_controls_control_js.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_gui.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_gui.d.ts",
+    "error": {},
+    "errorType": "other"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_22.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_22.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_16.js",
+    "outputPath": "src2/js/chunk-129f1ede.6d9dbc39_babylon_dewebpack/module_16.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/app.89b1a2ec_dewebpack/module_e917.js",
+    "outputPath": "src2/js/app.89b1a2ec_dewebpack/module_e917.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/app.89b1a2ec_dewebpack/module_ff06.js",
+    "outputPath": "src2/js/app.89b1a2ec_dewebpack/module_ff06.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/app.89b1a2ec_dewebpack/module_e1c5.js",
+    "outputPath": "src2/js/app.89b1a2ec_dewebpack/module_e1c5.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/app.89b1a2ec_dewebpack/module_cc8b.js",
+    "outputPath": "src2/js/app.89b1a2ec_dewebpack/module_cc8b.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/app.89b1a2ec_dewebpack/module_1e28.js",
+    "outputPath": "src2/js/app.89b1a2ec_dewebpack/module_1e28.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/app.89b1a2ec_dewebpack/module_79e6.js",
+    "outputPath": "src2/js/app.89b1a2ec_dewebpack/module_79e6.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-vendors.3a6a51f8_vue_dewebpack/a_3.js",
+    "outputPath": "src2/js/chunk-vendors.3a6a51f8_vue_dewebpack/a_3.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-vendors.3a6a51f8_vue_dewebpack/a_14.js",
+    "outputPath": "src2/js/chunk-vendors.3a6a51f8_vue_dewebpack/a_14.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist2/js/chunk-vendors.3a6a51f8_vue_dewebpack/a_10.js",
+    "outputPath": "src2/js/chunk-vendors.3a6a51f8_vue_dewebpack/a_10.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  }
+]

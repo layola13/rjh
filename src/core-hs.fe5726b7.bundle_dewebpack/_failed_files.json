@@ -1,0 +1,517 @@
+[
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/fgiparser.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/fgiparser.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/mixpaintupdaterv3.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/mixpaintupdaterv3.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/baseboardtopopatherv120.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/baseboardtopopatherv120.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/wallutil_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/wallutil_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/threeutil.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/threeutil.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/migratefacegroup.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/migratefacegroup.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/mergepoint.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/mergepoint.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/floorplandisplayareaenum.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/floorplandisplayareaenum.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/contentclipper.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/contentclipper.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/wallpathresolver.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/wallpathresolver.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/intelligentlightsutil.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/intelligentlightsutil.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/sketch2dbuilder.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/sketch2dbuilder.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/meshcontent.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/meshcontent.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/mixpaintv2_io.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/mixpaintv2_io.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/exportlights.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/exportlights.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/fgiparser.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/fgiparser.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/exportlights.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/exportlights.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/module_43988.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/module_43988.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/vraytypeenum.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum_extracted/vraytypeenum.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/module_77996.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/module_77996.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/xlength.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/xlength.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/parametricopening_io.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/parametricopening_io.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/constants_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/constants_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/baseboardtopopather.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/baseboardtopopather.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/contentutil.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/contentutil.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/painthandler.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/painthandler.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ncpconstantenum.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ncpconstantenum.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/materialdata.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/materialdata.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/geometrymanager_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/geometrymanager_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ncpbackgroundwallbase_io.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ncpbackgroundwallbase_io.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/module_43988.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/module_43988.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/customizedmodel.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/customizedmodel.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/wallmolding.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/wallmolding.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/planeprojector.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/planeprojector.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/paintsutil.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/paintsutil.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/surfaceobj.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/surfaceobj.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ruletypeenum.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/faceflagenum.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/faceflagenum.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/materialutil.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/materialutil.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/entityflagenum_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/entityflagenum_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/wallintersectresolver.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/wallintersectresolver.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ncustomizedbeam_io.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ncustomizedbeam_io.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/util_4.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/util_4.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/wallutil_3.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/wallutil_3.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/customizedmodelface.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/customizedmodelface.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/sweephelper.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/sweephelper.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/slabdataprovider_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/slabdataprovider_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/slabdataprovider.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/slabdataprovider.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/opening_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/opening_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/util_5.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/util_5.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/boundaryutil.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/boundaryutil.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/module_56161.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/module_56161.d.ts",
+    "error": {
+      "status": 500,
+      "headers": {
+        "content-length": "227",
+        "access-control-allow-origin": "*",
+        "connection": "keep-alive",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Fri, 23 Jan 2026 08:08:15 GMT",
+        "keep-alive": "timeout=60",
+        "vary": "Accept-Encoding",
+        "proxy-connection": "keep-alive"
+      },
+      "requestID": null,
+      "error": {
+        "message": "Failed to perform, curl: (28) Operation too slow. Less than 1 bytes/sec transferred the last 30 seconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+        "type": "http_error",
+        "code": "http_error"
+      },
+      "code": "http_error",
+      "type": "http_error"
+    },
+    "errorType": "other"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ncustomizedfeaturemodel_io.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ncustomizedfeaturemodel_io.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/wallintersectresolver_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/wallintersectresolver_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/wall_2.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/wall_2.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/util.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/util.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/openingsnaphelper.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/openingsnaphelper.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/content.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/content.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/istructurefaceinfo.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/istructurefaceinfo.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/modelgraphicshelper.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/modelgraphicshelper.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ncustomizedbeamutil.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ncustomizedbeamutil.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  },
+  {
+    "inputPath": "dist/core-hs.fe5726b7.bundle_dewebpack/ncustomizedmodellightslot_io.js",
+    "outputPath": "src/core-hs.fe5726b7.bundle_dewebpack/ncustomizedmodellightslot_io.d.ts",
+    "error": {
+      "is504": true
+    },
+    "errorType": "504"
+  }
+]

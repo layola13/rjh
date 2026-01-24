@@ -4,6 +4,5 @@ dist/
 .context/
 tsgo
 dist*/
-src*/
 node_modules/
 convert.ts

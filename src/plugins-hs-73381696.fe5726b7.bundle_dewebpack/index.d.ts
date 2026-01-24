@@ -1,0 +1,3 @@
+// Actual minified code
+function t(e,n){return e+n}class r{constructor(e){this.value=e}get(){return this.value}}
+// etc...
