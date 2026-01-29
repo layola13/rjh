@@ -1,0 +1,1 @@
+export default "assets/customerservice.3c510d84.svg";

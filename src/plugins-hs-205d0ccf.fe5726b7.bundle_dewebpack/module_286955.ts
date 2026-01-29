@@ -1,0 +1,1 @@
+export default "assets/wall_setting.d5997475.svg";

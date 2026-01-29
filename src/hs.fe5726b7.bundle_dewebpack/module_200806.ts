@@ -1,0 +1,1 @@
+export default "assets/loading.2490180e.gif";

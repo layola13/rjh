@@ -1,0 +1,1 @@
+export default "assets/question.c5a07dc7.svg";

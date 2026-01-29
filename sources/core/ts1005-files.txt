@@ -1,0 +1,3 @@
+core/objects/opening/pordinarywindow.d.ts
+core/types/Hole_IO.d.ts
+patterntypeenum_extracted/module_set.ts

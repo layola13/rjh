@@ -1,0 +1,1 @@
+export default "assets/cw_side.5b71a4c1.png";

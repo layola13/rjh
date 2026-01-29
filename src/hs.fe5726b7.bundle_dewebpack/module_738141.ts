@@ -1,0 +1,1 @@
+export default "assets/arrow_triangle.23f896b1.svg";

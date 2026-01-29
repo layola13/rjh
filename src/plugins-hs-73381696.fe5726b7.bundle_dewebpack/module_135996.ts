@@ -1,0 +1,1 @@
+export default "assets/noCeiling.47ac4867.svg";

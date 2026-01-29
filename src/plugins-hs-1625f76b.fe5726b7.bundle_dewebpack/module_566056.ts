@@ -1,0 +1,1 @@
+export default "assets/model_premium_active_fp.540baabf.svg";

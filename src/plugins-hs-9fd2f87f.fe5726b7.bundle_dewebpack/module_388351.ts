@@ -1,0 +1,1 @@
+export default "assets/featurewall.cadd1e1c.png";

@@ -1,0 +1,98 @@
+import moment from 'moment';
+
+interface DigitMap {
+  [key: string]: string;
+}
+
+const WESTERN_TO_ARABIC_DIGITS: DigitMap = {
+  '1': '١',
+  '2': '٢',
+  '3': '٣',
+  '4': '٤',
+  '5': '٥',
+  '6': '٦',
+  '7': '٧',
+  '8': '٨',
+  '9': '٩',
+  '0': '٠'
+};
+
+const ARABIC_TO_WESTERN_DIGITS: DigitMap = {
+  '١': '1',
+  '٢': '2',
+  '٣': '3',
+  '٤': '4',
+  '٥': '5',
+  '٦': '6',
+  '٧': '7',
+  '٨': '8',
+  '٩': '9',
+  '٠': '0'
+};
+
+/**
+ * Moment.js locale configuration for Arabic (Saudi Arabia)
+ */
+moment.defineLocale('ar-sa', {
+  months: 'يناير_فبراير_مارس_أبريل_مايو_يونيو_يوليو_أغسطس_سبتمبر_أكتوبر_نوفمبر_ديسمبر'.split('_'),
+  monthsShort: 'يناير_فبراير_مارس_أبريل_مايو_يونيو_يوليو_أغسطس_سبتمبر_أكتوبر_نوفمبر_ديسمبر'.split('_'),
+  weekdays: 'الأحد_الإثنين_الثلاثاء_الأربعاء_الخميس_الجمعة_السبت'.split('_'),
+  weekdaysShort: 'أحد_إثنين_ثلاثاء_أربعاء_خميس_جمعة_سبت'.split('_'),
+  weekdaysMin: 'ح_ن_ث_ر_خ_ج_س'.split('_'),
+  weekdaysParseExact: true,
+  longDateFormat: {
+    LT: 'HH:mm',
+    LTS: 'HH:mm:ss',
+    L: 'DD/MM/YYYY',
+    LL: 'D MMMM YYYY',
+    LLL: 'D MMMM YYYY HH:mm',
+    LLLL: 'dddd D MMMM YYYY HH:mm'
+  },
+  meridiemParse: /ص|م/,
+  isPM(input: string): boolean {
+    return input === 'م';
+  },
+  meridiem(hour: number, minute: number, isLower: boolean): string {
+    return hour < 12 ? 'ص' : 'م';
+  },
+  calendar: {
+    sameDay: '[اليوم على الساعة] LT',
+    nextDay: '[غدا على الساعة] LT',
+    nextWeek: 'dddd [على الساعة] LT',
+    lastDay: '[أمس على الساعة] LT',
+    lastWeek: 'dddd [على الساعة] LT',
+    sameElse: 'L'
+  },
+  relativeTime: {
+    future: 'في %s',
+    past: 'منذ %s',
+    s: 'ثوان',
+    ss: '%d ثانية',
+    m: 'دقيقة',
+    mm: '%d دقائق',
+    h: 'ساعة',
+    hh: '%d ساعات',
+    d: 'يوم',
+    dd: '%d أيام',
+    M: 'شهر',
+    MM: '%d أشهر',
+    y: 'سنة',
+    yy: '%d سنوات'
+  },
+  preparse(input: string): string {
+    return input
+      .replace(/[١٢٣٤٥٦٧٨٩٠]/g, (match: string) => ARABIC_TO_WESTERN_DIGITS[match])
+      .replace(/،/g, ',');
+  },
+  postformat(input: string): string {
+    return input
+      .replace(/\d/g, (match: string) => WESTERN_TO_ARABIC_DIGITS[match])
+      .replace(/,/g, '،');
+  },
+  week: {
+    dow: 0,
+    doy: 6
+  }
+});
+
+export default moment;

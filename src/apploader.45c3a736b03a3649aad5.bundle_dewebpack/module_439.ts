@@ -1,0 +1,1 @@
+export default "1d76516375152beaf78f.svg";

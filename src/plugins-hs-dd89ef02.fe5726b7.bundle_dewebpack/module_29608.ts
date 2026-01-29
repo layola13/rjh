@@ -1,0 +1,1 @@
+export default "assets/selectedrcp.32ee1574.svg";

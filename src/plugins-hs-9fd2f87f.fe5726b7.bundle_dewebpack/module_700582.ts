@@ -1,0 +1,1 @@
+export default "assets/lightslot_up.96423acd.svg";

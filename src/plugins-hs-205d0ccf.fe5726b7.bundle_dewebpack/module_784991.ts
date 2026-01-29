@@ -1,0 +1,1 @@
+export default "assets/offset_region.48e113e7.svg";

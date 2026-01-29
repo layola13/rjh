@@ -1,0 +1,1 @@
+export default "assets/draw_arc.e75195f4.svg";

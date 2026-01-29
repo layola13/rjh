@@ -1,0 +1,1 @@
+export default "assets/applypocket.e2d3d92c.svg";

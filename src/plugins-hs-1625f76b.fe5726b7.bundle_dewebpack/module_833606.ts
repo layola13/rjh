@@ -1,0 +1,1 @@
+export default "assets/addtional_info.70ab75c2.gif";

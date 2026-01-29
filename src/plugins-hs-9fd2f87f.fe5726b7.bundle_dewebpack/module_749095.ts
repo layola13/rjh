@@ -1,0 +1,1 @@
+export default "assets/curtain_pole.f609435e.svg";

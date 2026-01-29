@@ -1,0 +1,1 @@
+export default "assets/tempPicker.270d67ef.svg";

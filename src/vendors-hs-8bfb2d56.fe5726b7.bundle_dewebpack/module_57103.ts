@@ -1,0 +1,1 @@
+export default "/assets/aigc_credits.7d71b46c.png";

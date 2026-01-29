@@ -1,0 +1,1 @@
+export default "assets/added_house_template.cc32b406.svg";

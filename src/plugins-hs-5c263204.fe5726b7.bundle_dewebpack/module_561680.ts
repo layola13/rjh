@@ -1,0 +1,1 @@
+export default "assets/bg.bff02ffe.png";

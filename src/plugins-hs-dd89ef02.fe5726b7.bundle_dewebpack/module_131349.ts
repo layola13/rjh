@@ -1,0 +1,1 @@
+export default "/assets/light.ebb250bb.svg";

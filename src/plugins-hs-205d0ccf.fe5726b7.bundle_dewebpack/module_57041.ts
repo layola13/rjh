@@ -1,0 +1,1 @@
+export default "assets/edit_modeling.8c1729b5.svg";

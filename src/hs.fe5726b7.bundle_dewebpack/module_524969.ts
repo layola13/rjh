@@ -1,0 +1,1 @@
+export default "assets/draw-cursor.526e4be3.svg";

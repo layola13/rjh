@@ -1,0 +1,1 @@
+export default "assets/blue.e975adc7.svg";

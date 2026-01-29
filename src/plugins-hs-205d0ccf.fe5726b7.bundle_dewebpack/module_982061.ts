@@ -1,0 +1,1 @@
+export default "assets/send_to_back.aba052f5.svg";

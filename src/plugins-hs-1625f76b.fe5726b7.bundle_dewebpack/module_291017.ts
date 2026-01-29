@@ -1,0 +1,1 @@
+export default "assets/largeviewicon_v2_normal.31dda541.svg";

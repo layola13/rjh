@@ -1,0 +1,1 @@
+export default "assets/catalog_share_modeling_icon.8d91bea0.svg";

@@ -1,0 +1,1 @@
+export default "assets/doing_dark.97d8f9d1.gif";

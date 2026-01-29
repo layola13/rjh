@@ -1,0 +1,1 @@
+const getTimezoneZone = (date: Date): string => date.tm_zone;

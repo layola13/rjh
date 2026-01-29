@@ -1,0 +1,1 @@
+export default "assets/hoverfirstperson.1b6f6174.svg";

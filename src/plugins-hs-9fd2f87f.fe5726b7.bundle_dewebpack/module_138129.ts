@@ -1,0 +1,1 @@
+export default "assets/curtain_drape.321394a2.svg";

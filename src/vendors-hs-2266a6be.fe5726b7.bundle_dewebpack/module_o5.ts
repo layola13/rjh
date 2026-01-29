@@ -1,0 +1,1 @@
+const getKe = (): typeof ke => ke;

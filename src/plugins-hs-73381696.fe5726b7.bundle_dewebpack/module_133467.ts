@@ -1,0 +1,1 @@
+export default "assets/start_inactive_triangle.2208b650.svg";

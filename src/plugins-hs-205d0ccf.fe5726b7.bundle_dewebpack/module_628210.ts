@@ -1,0 +1,1 @@
+export default "/assets/draw_outdoor_space.0e87df97.svg";

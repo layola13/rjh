@@ -1,0 +1,1 @@
+export default "assets/styler_basic.22a0da62.png";

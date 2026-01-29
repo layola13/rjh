@@ -51,4 +51,27 @@ type VariableMap = Record<string, EquationVariable>;
  * @extends Constraint
  * 
  * @example
- *
+ * ```typescript
+ * const variables: VariableMap = {
+ *   'width': { id: 'width', localId: 'w', value: 100 },
+ *   'height': { id: 'height', localId: 'h', value: 50 },
+ *   'area': { id: 'area', localId: 'a', value: 0 }
+ * };
+ * 
+ * const constraint = new EquationConstraint({
+ *   localId: 'eq1',
+ *   type: 'equation',
+ *   equation: 'a = w * h'
+ * });
+ * 
+ * constraint.solve(variables); // area.value = 5000
+ * ```
+ */
+declare class EquationConstraint extends Constraint {
+  constructor(data: EquationConstraintInitData);
+  
+  solve(variables: VariableMap): void;
+  dump(): EquationConstraintDumpData;
+}
+
+export { EquationVariable, EquationConstraintInitData, EquationConstraintDumpData, VariableMap, EquationConstraint };

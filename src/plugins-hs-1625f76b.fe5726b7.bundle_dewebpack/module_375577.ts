@@ -1,0 +1,1 @@
+export default "assets/add_my_group.71a32bca.svg";

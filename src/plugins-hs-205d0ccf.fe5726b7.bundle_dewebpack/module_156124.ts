@@ -1,0 +1,1 @@
+export default "assets/removed_house_template.797d3cc4.svg";

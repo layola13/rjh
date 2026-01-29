@@ -1,0 +1,1 @@
+export default "assets/seam.11d51398.svg";

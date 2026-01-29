@@ -1,0 +1,1 @@
+export default "/assets/selectedOrthoCamera.a7a746b4.svg";

@@ -1,0 +1,1 @@
+export default "assets/edit_properties.9743dd92.svg";

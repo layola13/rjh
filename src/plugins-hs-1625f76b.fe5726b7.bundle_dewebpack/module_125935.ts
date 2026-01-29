@@ -1,0 +1,1 @@
+export default "assets/report_question_decribe.ce759176.svg";

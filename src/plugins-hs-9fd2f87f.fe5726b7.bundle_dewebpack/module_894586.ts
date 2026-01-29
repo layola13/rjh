@@ -1,0 +1,1 @@
+export default "assets/Oval_green.58549b96.svg";

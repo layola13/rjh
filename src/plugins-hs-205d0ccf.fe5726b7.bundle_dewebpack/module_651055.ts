@@ -1,0 +1,1 @@
+export default "assets/new_user_guide.158f531d.png";

@@ -1,0 +1,1 @@
+export default "assets/modify-model-angle.70869e29.gif";

@@ -1,0 +1,1 @@
+export default "/assets/delete.d6977535.svg";

@@ -1,0 +1,1 @@
+export default "assets/editor.1a90174d.svg";

@@ -1,0 +1,1 @@
+export default "assets/zoomintb.00162028.svg";

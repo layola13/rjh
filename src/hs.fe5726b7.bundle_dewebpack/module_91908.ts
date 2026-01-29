@@ -1,0 +1,1 @@
+export { T3Dx as default } from './510571';

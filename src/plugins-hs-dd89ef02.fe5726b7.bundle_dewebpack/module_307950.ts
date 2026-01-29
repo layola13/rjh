@@ -1,0 +1,1 @@
+export default "assets/blockalign.1540238a.svg";

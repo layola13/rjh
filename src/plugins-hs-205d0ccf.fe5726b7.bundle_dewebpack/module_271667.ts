@@ -1,0 +1,1 @@
+export default "assets/hs_zhanshi_zhongbanggengxin.5357296d.svg";

@@ -1,0 +1,1 @@
+export default "assets/default_preview_image.09dc72ba.png";

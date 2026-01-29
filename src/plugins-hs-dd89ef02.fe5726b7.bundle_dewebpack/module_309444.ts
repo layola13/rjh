@@ -1,0 +1,1 @@
+export default "assets/right_hover.1d8b152b.svg";

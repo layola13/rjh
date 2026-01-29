@@ -1,0 +1,1 @@
+export default "assets/flipmirror.1603c952.svg";

@@ -1,0 +1,1 @@
+export default "assets/arrow45.0219a303.svg";

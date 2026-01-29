@@ -1,0 +1,1 @@
+export default "assets/editdesigncase.76dd1b4e.svg";

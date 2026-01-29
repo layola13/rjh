@@ -1,0 +1,24 @@
+import React from 'react';
+import iconComponent from './iconComponent';
+import IconWrapper from './IconWrapper';
+
+interface IconProps {
+  className?: string;
+  style?: React.CSSProperties;
+  onClick?: (event: React.MouseEvent) => void;
+  [key: string]: unknown;
+}
+
+const IconForwardRefComponent = React.forwardRef<HTMLElement, IconProps>(
+  (props, ref) => {
+    return React.createElement(IconWrapper, {
+      ...props,
+      ref,
+      icon: iconComponent,
+    });
+  }
+);
+
+IconForwardRefComponent.displayName = 'IconForwardRefComponent';
+
+export default IconForwardRefComponent;

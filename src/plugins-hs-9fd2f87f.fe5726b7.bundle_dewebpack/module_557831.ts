@@ -1,0 +1,1 @@
+export default "assets/popup_guideline.90ff68c8.gif";

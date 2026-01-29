@@ -1,0 +1,1 @@
+export default "assets/master_basic.3d287fe0.png";

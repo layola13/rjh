@@ -1,0 +1,1 @@
+export default "assets/brick_wall_hover_pattern.e78f9449.svg";

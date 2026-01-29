@@ -1,0 +1,1 @@
+export default "assets/pickmaterial.622e185d.svg";

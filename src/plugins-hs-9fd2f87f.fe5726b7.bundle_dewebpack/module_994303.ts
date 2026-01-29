@@ -1,0 +1,1 @@
+export default "assets/right.3c7a300f.png";

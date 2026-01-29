@@ -1,0 +1,1 @@
+export default "assets/lightband_flip_selected.155aeed4.svg";

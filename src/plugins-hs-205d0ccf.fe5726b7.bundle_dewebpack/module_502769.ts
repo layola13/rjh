@@ -1,0 +1,1 @@
+export default "assets/handler.fd1d7f25.svg";

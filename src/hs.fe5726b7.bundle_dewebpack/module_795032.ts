@@ -1,0 +1,1 @@
+export default "assets/first_person_camera.5423a3b2.svg";

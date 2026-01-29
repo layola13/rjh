@@ -1,0 +1,1 @@
+export default "assets/rightActive.b701af93.png";

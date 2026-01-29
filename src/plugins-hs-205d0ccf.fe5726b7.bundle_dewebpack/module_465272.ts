@@ -1,0 +1,1 @@
+export default "assets/measuring_hover.3cc1d2fc.svg";

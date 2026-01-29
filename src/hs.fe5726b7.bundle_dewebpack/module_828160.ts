@@ -1,0 +1,1 @@
+export default "assets/arrowdown.31fd2103.svg";

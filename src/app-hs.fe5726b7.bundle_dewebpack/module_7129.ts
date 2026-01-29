@@ -1,0 +1,1 @@
+class CO extends Error {}

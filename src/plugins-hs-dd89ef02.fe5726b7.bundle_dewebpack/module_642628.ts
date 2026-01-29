@@ -1,0 +1,1 @@
+export default `${process.env.PUBLIC_URL || ''}/assets/edit_material.4f07c615.svg`;

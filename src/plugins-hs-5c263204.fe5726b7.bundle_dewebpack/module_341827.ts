@@ -1,0 +1,1 @@
+export default "assets/feedback.2e61e0ac.svg";

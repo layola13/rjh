@@ -1,0 +1,1 @@
+export default "assets/camera_3d.520eb6e8.svg";

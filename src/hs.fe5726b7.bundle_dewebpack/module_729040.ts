@@ -1,0 +1,1 @@
+export default "assets/select_face.89008144.svg";

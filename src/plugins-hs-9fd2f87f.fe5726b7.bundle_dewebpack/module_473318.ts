@@ -1,0 +1,1 @@
+export default "assets/down.fd6882a2.svg";

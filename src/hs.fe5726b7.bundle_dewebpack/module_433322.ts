@@ -1,0 +1,1 @@
+export default "assets/brush_normal.56a72550.svg";

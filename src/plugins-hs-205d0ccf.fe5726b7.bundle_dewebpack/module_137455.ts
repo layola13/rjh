@@ -1,0 +1,1 @@
+export default "assets/none.fa155950.svg";

@@ -1,0 +1,1 @@
+export default "/assets/lightline_selected.fa1e76e9.svg";

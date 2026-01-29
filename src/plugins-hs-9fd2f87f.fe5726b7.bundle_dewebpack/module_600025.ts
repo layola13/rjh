@@ -1,0 +1,1 @@
+export default "assets/ui.8b87fdb5.xml";

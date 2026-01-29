@@ -1,0 +1,1 @@
+export default "assets/ceiling.6c431fc1.svg";

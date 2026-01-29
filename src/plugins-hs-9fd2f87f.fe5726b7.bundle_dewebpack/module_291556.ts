@@ -1,0 +1,1 @@
+export default "assets/autoceilingsideface.cc5d747f.svg";

@@ -1,0 +1,1 @@
+export default "assets/resource_ko_KR.463b4a9d.json";

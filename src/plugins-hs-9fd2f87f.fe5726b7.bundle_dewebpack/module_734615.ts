@@ -1,0 +1,1 @@
+export default "/assets/fillet_tool.47abe408.svg";

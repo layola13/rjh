@@ -1,0 +1,1 @@
+export default "assets/bgsame.da85caa7.jpg";

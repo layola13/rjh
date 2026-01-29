@@ -1,0 +1,1 @@
+export default "assets/arrowright.fcc58bd1.svg";

@@ -1,0 +1,1 @@
+export default "assets/bom_description.d7c02312.gif";

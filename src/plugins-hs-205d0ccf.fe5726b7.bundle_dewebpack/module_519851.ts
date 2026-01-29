@@ -1,0 +1,1 @@
+export default (new URL('assets/room_templates.e8c83f85.svg', import.meta.url)).href;

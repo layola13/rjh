@@ -1,0 +1,1 @@
+export default "assets/img_lingtu_xianmian_new.1a666ad2.png";

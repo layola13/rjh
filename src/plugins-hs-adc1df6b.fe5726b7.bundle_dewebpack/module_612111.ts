@@ -1,0 +1,1 @@
+export default "assets/memberbg.c561b407.png";

@@ -1,0 +1,1 @@
+export default "assets/arrow_for_first_view.bee9ed2d.svg";

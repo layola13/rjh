@@ -1,0 +1,1 @@
+export default "assets/tianjia_normal.36659752.svg";

@@ -1,0 +1,1 @@
+export default "assets/add_waistline.41904af0.svg";

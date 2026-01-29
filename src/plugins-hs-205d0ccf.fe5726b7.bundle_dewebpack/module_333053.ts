@@ -1,0 +1,1 @@
+export default "assets/hs_bg_zhinengbuju.9f5e4b6e.png";

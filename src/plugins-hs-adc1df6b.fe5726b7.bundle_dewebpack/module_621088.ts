@@ -1,0 +1,1 @@
+export default "assets/badge_styler.9ede077e.svg";

@@ -1,0 +1,1 @@
+export default "assets/arrow_for_first_view_color_hover.8182e178.svg";

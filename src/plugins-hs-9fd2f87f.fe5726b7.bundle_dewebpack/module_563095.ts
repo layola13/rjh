@@ -1,0 +1,1 @@
+export default "assets/hintbaywindow.8294fe38.jpg";

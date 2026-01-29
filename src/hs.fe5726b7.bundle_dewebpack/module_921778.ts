@@ -1,0 +1,1 @@
+export default "assets/mail.776c73dd.svg";

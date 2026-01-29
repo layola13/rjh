@@ -1,0 +1,1 @@
+export default "assets/first_person_camera_color_hover.8ee95ab7.svg";

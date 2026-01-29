@@ -1,0 +1,1 @@
+export default "assets/btn_shrink.34a7ffd7.svg";

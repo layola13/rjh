@@ -1,0 +1,1 @@
+export default "assets/first_person_camera_color.231e5489.svg";

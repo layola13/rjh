@@ -1,0 +1,1 @@
+export default "assets/windowpocket.170bbf92.svg";

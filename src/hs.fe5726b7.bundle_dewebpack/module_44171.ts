@@ -1,0 +1,1 @@
+export default "assets/cut_wall.6192454b.svg";

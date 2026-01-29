@@ -1,0 +1,1 @@
+export default "assets/merge_wall.59c925e6.svg";

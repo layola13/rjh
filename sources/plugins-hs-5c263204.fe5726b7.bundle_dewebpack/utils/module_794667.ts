@@ -1,0 +1,1 @@
+export default "assets/logotitle-ezhome.e58c706b.png";

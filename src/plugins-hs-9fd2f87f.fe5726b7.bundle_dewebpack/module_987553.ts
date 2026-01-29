@@ -1,0 +1,1 @@
+export default "assets/popup_sweep.ab8e80d2.gif";

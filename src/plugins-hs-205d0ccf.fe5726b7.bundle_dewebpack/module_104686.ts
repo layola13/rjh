@@ -1,0 +1,1 @@
+export default "assets/recommend-decorations.62dd4939.svg";

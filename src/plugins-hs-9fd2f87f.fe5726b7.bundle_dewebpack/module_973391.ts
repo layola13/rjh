@@ -1,0 +1,1 @@
+export default "assets/customized_model_toolbar.ec68e7ee.svg";

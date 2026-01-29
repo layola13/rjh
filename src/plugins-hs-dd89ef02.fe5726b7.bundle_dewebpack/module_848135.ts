@@ -1,0 +1,1 @@
+export default "assets/gypsum_offset_icon.bdf3b0a1.svg";

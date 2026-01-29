@@ -1,0 +1,1 @@
+export default "assets/molding.9eadb36d.svg";

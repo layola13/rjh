@@ -1,0 +1,1 @@
+export default "assets/default_window_symbol.e4b4576c.svg";

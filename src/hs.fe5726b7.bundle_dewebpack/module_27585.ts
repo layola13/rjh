@@ -1,0 +1,1 @@
+export default "assets/concrete_hover_pattern.f26b4347.svg";

@@ -1,0 +1,1 @@
+export default "assets/videotutorial.b2515c8d.svg";

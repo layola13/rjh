@@ -1,0 +1,1 @@
+export default "assets/firstperson_active.ecb6ccab.svg";

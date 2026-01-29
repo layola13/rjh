@@ -1,0 +1,1 @@
+export default "assets/good.70c7e47b.gif";

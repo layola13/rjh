@@ -1,0 +1,1 @@
+export default "assets/clear_all_selected.4836035d.svg";

@@ -1,0 +1,1 @@
+export default "assets/finished_hover.a561b7d5.svg";

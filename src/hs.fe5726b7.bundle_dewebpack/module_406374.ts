@@ -1,0 +1,1 @@
+export default "assets/panorama_view.0acfd8f7.svg";

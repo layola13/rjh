@@ -1,0 +1,1 @@
+export default "assets/model_apply_upload.0c4c49d5.svg";

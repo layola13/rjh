@@ -1,0 +1,1 @@
+export default "assets/perspective.ee7c8dec.svg";

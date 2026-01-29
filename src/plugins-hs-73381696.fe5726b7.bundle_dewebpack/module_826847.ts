@@ -1,0 +1,1 @@
+export default "/assets/sewer_pipe_round.48c2b680.svg";

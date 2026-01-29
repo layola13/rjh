@@ -1,0 +1,1 @@
+export default "assets/sameMaterial.d6440cb3.svg";

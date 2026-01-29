@@ -1,0 +1,1 @@
+export default "/assets/draw_ellipse.1463f536.svg";

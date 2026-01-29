@@ -1,0 +1,1 @@
+export default "assets/icon_styler_black.b54a2ce8.svg";

@@ -1,0 +1,1 @@
+export default "assets/new_cabinet.18d07f3a.svg";

@@ -1,0 +1,1 @@
+export default "assets/end_active_triangle.b94768b4.svg";

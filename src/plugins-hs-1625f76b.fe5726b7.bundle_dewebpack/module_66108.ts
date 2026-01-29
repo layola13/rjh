@@ -1,0 +1,1 @@
+export default "assets/delete_hover.28432c36.svg";

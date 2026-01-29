@@ -1,0 +1,1 @@
+export default "assets/cadimport_tool.ff503b62.svg";

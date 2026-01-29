@@ -1,0 +1,1 @@
+export default "assets/setting.dac6143d.png";

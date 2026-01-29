@@ -1,0 +1,1 @@
+export default "assets/favorite-remove.a1c9ccd5.svg";

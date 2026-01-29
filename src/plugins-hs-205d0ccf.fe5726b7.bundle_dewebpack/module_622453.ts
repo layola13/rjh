@@ -1,0 +1,1 @@
+export default "assets/copy_region.225c01c9.svg";

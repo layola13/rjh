@@ -1,0 +1,3 @@
+function afterClose(): void {
+  a();
+}

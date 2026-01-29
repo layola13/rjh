@@ -1,0 +1,1 @@
+export default "assets/walltype_gypsum_generic.efd66f13.svg";

@@ -1,0 +1,1 @@
+export default "assets/modelTopic.363a36bc.png";

@@ -1,0 +1,1 @@
+export default "assets/region.2db65898.svg";

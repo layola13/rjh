@@ -1,0 +1,1 @@
+export default "assets/camera_ortho.cbe08bdd.svg";

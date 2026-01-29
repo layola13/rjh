@@ -1,0 +1,1 @@
+export default "assets/brick_wall_moving_pattern.4f6cab92.svg";

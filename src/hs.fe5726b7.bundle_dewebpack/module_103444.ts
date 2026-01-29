@@ -1,0 +1,1 @@
+export default "assets/notification.26f015d1.png";

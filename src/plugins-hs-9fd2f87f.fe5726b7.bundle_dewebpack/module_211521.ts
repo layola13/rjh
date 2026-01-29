@@ -1,0 +1,1 @@
+export default "assets/baseline.875b89da.svg";

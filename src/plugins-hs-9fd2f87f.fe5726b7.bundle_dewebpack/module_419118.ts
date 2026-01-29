@@ -1,0 +1,1 @@
+export default "assets/compass.c6fa091a.svg";

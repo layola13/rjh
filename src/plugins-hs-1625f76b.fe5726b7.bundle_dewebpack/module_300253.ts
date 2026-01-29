@@ -1,0 +1,1 @@
+export default "assets/upload_icon.f9f61def.png";

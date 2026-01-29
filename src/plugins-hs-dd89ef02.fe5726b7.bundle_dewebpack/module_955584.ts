@@ -1,0 +1,1 @@
+export default "assets/material_brush.b1b7538c.svg";

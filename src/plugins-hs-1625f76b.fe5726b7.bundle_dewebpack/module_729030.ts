@@ -1,0 +1,1 @@
+export default "assets/stretch.8527c17c.svg";

@@ -1,0 +1,1 @@
+export default "assets/high_commission_pool.65e4cc4c.jpg";

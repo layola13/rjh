@@ -1,0 +1,1 @@
+export default "assets/delete_vertex.ec8757f7.svg";

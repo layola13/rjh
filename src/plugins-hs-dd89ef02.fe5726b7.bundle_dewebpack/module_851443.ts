@@ -1,0 +1,1 @@
+export default "assets/sky.589440bf.png";

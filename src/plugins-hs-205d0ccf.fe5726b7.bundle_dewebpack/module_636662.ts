@@ -1,0 +1,1 @@
+export default "assets/align_to_wall_type_center.5c492be8.svg";

@@ -1,0 +1,1 @@
+export default `${process.env.PUBLIC_URL || ''}/assets/default_switch_symbol.8255c4e0.svg`;

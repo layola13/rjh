@@ -28,4 +28,27 @@ declare function isValidGlobal(candidate: unknown): typeof globalThis | undefine
  * 6. Function constructor evaluation (ultimate fallback)
  * 
  * @example
- *
+ * ```typescript
+ * // Browser environment
+ * if (typeof window !== 'undefined') {
+ *   console.log(globalObject === window); // true
+ * }
+ * 
+ * // Node.js environment
+ * if (typeof global !== 'undefined') {
+ *   console.log(globalObject === global); // true
+ * }
+ * 
+ * // Cross-platform usage
+ * globalObject.setTimeout(() => {
+ *   console.log('Works in any environment');
+ * }, 1000);
+ * 
+ * // Access global APIs
+ * const Console = globalObject.console;
+ * const fetch = globalObject.fetch;
+ * ```
+ */
+declare const globalObject: typeof globalThis;
+
+export { isValidGlobal, globalObject as GlobalObject };

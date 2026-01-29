@@ -1,0 +1,1 @@
+export default "assets/default_view_hover.fb3d1fe3.svg";

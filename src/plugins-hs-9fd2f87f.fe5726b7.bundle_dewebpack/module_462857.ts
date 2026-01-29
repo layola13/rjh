@@ -1,0 +1,1 @@
+export default "assets/flipx.7869d5da.svg";

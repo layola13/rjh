@@ -1,0 +1,1 @@
+export default "assets/style_rotation_2.e7e1f0a9.svg";

@@ -1,0 +1,1 @@
+export default "assets/trumpet.16d8e043.svg";

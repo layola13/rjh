@@ -1,0 +1,1 @@
+export default "assets/auto-recommend.98997d2a.svg";

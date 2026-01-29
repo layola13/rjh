@@ -1,0 +1,1 @@
+export default "assets/thumbup_selected.fa88243a.svg";

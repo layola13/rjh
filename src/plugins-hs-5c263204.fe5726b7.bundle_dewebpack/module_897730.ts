@@ -1,0 +1,1 @@
+export default "assets/copilot.fedcb77d.gif";

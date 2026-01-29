@@ -1,0 +1,1 @@
+export default "assets/merchant_model_active.08d340d0.svg";

@@ -1,0 +1,1 @@
+export default "assets/mouse_left_button_rotate.d037cef1.gif";

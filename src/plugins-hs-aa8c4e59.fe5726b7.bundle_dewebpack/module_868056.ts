@@ -1,0 +1,1 @@
+export default "assets/pin.2df3d43d.svg";

@@ -1,0 +1,1 @@
+export default new URL('assets/editgroup.d4cbb78b.svg', import.meta.url).href;

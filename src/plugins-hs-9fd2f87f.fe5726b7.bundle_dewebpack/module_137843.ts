@@ -1,0 +1,1 @@
+export default "assets/right_hide.07f9df55.svg";

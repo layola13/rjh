@@ -1,0 +1,1 @@
+export default "assets/new_fav_icon.a49809e1.svg";

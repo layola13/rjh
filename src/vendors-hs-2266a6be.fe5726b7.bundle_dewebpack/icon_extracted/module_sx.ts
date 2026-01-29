@@ -1,0 +1,1 @@
+const moduleFunction = (): typeof R => R;

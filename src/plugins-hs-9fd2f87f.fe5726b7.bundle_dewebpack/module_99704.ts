@@ -1,0 +1,1 @@
+export default "assets/material_select_outline_active.1a545f1a.svg";

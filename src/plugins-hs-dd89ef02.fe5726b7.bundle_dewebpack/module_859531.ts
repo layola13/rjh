@@ -1,0 +1,1 @@
+export default "assets/wallflip.56f9e165.svg";

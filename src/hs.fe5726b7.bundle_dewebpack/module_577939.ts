@@ -1,0 +1,1 @@
+export default "assets/lift_hover.0be4a870.png";

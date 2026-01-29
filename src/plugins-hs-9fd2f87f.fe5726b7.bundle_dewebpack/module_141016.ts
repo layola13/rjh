@@ -1,0 +1,1 @@
+export default "assets/3dtext_selected.e9f0d90a.svg";

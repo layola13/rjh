@@ -1,0 +1,1 @@
+export default "assets/nothumnail.2ba32daa.svg";

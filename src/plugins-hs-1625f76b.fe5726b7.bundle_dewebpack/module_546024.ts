@@ -1,0 +1,1 @@
+export default "assets/model_satisfaction_survey.b0c1e25a.svg";

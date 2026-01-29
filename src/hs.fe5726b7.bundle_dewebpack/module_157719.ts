@@ -1,0 +1,1 @@
+export default "assets/social_google_plus.ee0da300.svg";

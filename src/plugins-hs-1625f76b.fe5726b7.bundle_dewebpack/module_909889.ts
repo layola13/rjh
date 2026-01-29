@@ -1,0 +1,1 @@
+export default "/assets/style_paint.07798978.svg";

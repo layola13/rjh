@@ -1,0 +1,1 @@
+export { PaintService } from './17947';

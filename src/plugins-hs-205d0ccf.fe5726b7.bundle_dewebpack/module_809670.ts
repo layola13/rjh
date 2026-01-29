@@ -1,0 +1,1 @@
+export default "assets/snapshot.428f0df0.svg";

@@ -1,0 +1,1 @@
+export default "assets/social_facebook.62532faa.svg";

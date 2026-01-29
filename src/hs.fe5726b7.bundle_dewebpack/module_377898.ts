@@ -1,0 +1,1 @@
+export default "assets/fullscreenloading.c04141d1.gif";

@@ -1,0 +1,1 @@
+export default "assets/cone_shape.0621f3e6.jpg";

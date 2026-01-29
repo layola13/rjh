@@ -1,0 +1,1 @@
+export default "assets/editspace.3d64fb9e.svg";

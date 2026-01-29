@@ -1,0 +1,1 @@
+export default "assets/draw_polygon.7ea616b3.svg";

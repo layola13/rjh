@@ -1,0 +1,1 @@
+export default "assets/flipHorizon.2dedd84b.svg";

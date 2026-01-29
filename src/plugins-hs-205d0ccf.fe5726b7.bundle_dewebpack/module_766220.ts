@@ -1,0 +1,1 @@
+export default "assets/view_pano_result.7b7ebf63.svg";

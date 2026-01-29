@@ -1,0 +1,1 @@
+export default "assets/open.2dbe36db.svg";

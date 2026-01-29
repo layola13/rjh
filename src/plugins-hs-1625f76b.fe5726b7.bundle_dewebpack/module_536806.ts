@@ -1,0 +1,1 @@
+export default "assets/delete.cd324da2.svg";

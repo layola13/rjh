@@ -1,0 +1,1 @@
+export default "assets/wireframe.7ea1c191.svg";

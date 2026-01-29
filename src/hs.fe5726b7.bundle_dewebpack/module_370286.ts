@@ -1,0 +1,1 @@
+export default "assets/align_wall.6bbb5974.svg";

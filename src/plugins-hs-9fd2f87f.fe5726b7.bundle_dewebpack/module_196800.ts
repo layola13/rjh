@@ -1,0 +1,1 @@
+export default "assets/curtain_c.197defce.svg";

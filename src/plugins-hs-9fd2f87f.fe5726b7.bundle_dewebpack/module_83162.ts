@@ -1,0 +1,1 @@
+export default "assets/fillet.d6498c56.svg";

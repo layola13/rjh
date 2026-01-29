@@ -1,0 +1,1 @@
+export default "assets/dialog_wallhover.6ea130ec.svg";

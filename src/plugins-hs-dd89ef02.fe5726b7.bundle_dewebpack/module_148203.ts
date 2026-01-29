@@ -1,0 +1,1 @@
+export default "assets/clearmaterial1.7a017431.svg";

@@ -1,0 +1,1 @@
+export default "assets/lock_dimension_normal.986d883f.svg";

@@ -1,0 +1,1 @@
+export const moduleGC = (): typeof cg => cg;

@@ -1,0 +1,1 @@
+export default (0, _interopRequireDefault(_jsx).default)(_jsx.default);

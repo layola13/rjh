@@ -1,0 +1,1 @@
+export default "assets/Bariol-Regular.e069a47d.eot?";

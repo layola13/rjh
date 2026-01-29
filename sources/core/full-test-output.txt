@@ -1,0 +1,268 @@
+
+> homestyler-bim-platform@1.0.0 test
+> jest
+
+PASS core/building/opening/__tests__/Opening.test.ts (5.517 s)
+PASS core/__tests__/geometry/Point3D.test.ts (5.481 s)
+PASS core/__tests__/geometry/Vector3.test.ts (5.487 s)
+PASS core/__tests__/types/EntityFlagEnum.test.ts (5.59 s)
+PASS core/building/furniture/__tests__/Furniture.test.ts (5.599 s)
+PASS core/building/opening/__tests__/ParametricWindow.test.ts (5.631 s)
+PASS core/__tests__/geometry/Vector2.test.ts (5.591 s)
+PASS core/__tests__/geometry/Matrix3.test.ts (5.618 s)
+PASS core/__tests__/geometry/Point2D.test.ts (5.619 s)
+PASS core/building/furniture/__tests__/Table.test.ts (5.683 s)
+PASS core/__tests__/geometry/Matrix4.test.ts (5.727 s)
+PASS core/__tests__/geometry/Line2D.test.ts (5.748 s)
+PASS core/__tests__/algorithms/MathAlgorithms.test.ts (5.811 s)
+PASS core/building/furniture/__tests__/Chair.test.ts (5.82 s)
+  ● Console
+
+    console.warn
+      座面宽度建议至少400mm以确保舒适性
+
+      115 |     // 推荐座面宽度至少400mm
+      116 |     if (width < 0.4) {
+    > 117 |       console.warn('座面宽度建议至少400mm以确保舒适性');
+          |               ^
+      118 |     }
+      119 |
+      120 |     // 推荐座面深度至少400mm
+
+      at Chair.setSeatingDimensions (core/building/furniture/Chair.ts:117:15)
+      at Object.<anonymous> (core/building/furniture/__tests__/Chair.test.ts:163:13)
+
+    console.warn
+      座面深度建议至少400mm以确保舒适性
+
+      120 |     // 推荐座面深度至少400mm
+      121 |     if (depth < 0.4) {
+    > 122 |       console.warn('座面深度建议至少400mm以确保舒适性');
+          |               ^
+      123 |     }
+      124 |
+      125 |     this._seatWidth = width;
+
+      at Chair.setSeatingDimensions (core/building/furniture/Chair.ts:122:15)
+      at Object.<anonymous> (core/building/furniture/__tests__/Chair.test.ts:163:13)
+
+    console.warn
+      靠背高度建议至少300mm以提供良好支撑
+
+      145 |     // 推荐靠背高度至少300mm
+      146 |     if (height < 0.3) {
+    > 147 |       console.warn('靠背高度建议至少300mm以提供良好支撑');
+          |               ^
+      148 |     }
+      149 |
+      150 |     // 靠背角度通常在95-120度之间
+
+      at Chair.setBackrest (core/building/furniture/Chair.ts:147:15)
+      at Object.<anonymous> (core/building/furniture/__tests__/Chair.test.ts:164:13)
+
+    console.warn
+      座面宽度建议至少400mm以确保舒适性
+
+      115 |     // 推荐座面宽度至少400mm
+      116 |     if (width < 0.4) {
+    > 117 |       console.warn('座面宽度建议至少400mm以确保舒适性');
+          |               ^
+      118 |     }
+      119 |
+      120 |     // 推荐座面深度至少400mm
+
+      at Chair.setSeatingDimensions (core/building/furniture/Chair.ts:117:15)
+      at Object.<anonymous> (core/building/furniture/__tests__/Chair.test.ts:184:13)
+
+    console.warn
+      座面深度建议至少400mm以确保舒适性
+
+      120 |     // 推荐座面深度至少400mm
+      121 |     if (depth < 0.4) {
+    > 122 |       console.warn('座面深度建议至少400mm以确保舒适性');
+          |               ^
+      123 |     }
+      124 |
+      125 |     this._seatWidth = width;
+
+      at Chair.setSeatingDimensions (core/building/furniture/Chair.ts:122:15)
+      at Object.<anonymous> (core/building/furniture/__tests__/Chair.test.ts:184:13)
+
+    console.warn
+      靠背高度建议至少300mm以提供良好支撑
+
+      145 |     // 推荐靠背高度至少300mm
+      146 |     if (height < 0.3) {
+    > 147 |       console.warn('靠背高度建议至少300mm以提供良好支撑');
+          |               ^
+      148 |     }
+      149 |
+      150 |     // 靠背角度通常在95-120度之间
+
+      at Chair.setBackrest (core/building/furniture/Chair.ts:147:15)
+      at Object.<anonymous> (core/building/furniture/__tests__/Chair.test.ts:185:13)
+
+PASS core/building/opening/__tests__/Door.test.ts (5.819 s)
+PASS core/__tests__/geometry/AffineTransform.test.ts (5.805 s)
+PASS core/building/decoration/__tests__/Molding.test.ts
+PASS core/building/furniture/__tests__/Wardrobe.test.ts
+PASS core/constraint/__tests__/ConstraintSolver.test.ts (5.88 s)
+PASS core/building/concealed/__tests__/Integration.test.ts
+PASS core/building/slab/__tests__/Slab.test.ts
+  ● Console
+
+    console.warn
+      Slab slab_1769331006859_x79j5aje2: Invalid baseProfile
+
+      299 |     // 验证baseProfile
+      300 |     if (!this._verifyBaseProfile()) {
+    > 301 |       console.warn(`Slab ${this.id}: Invalid baseProfile`);
+          |               ^
+      302 |       return false;
+      303 |     }
+      304 |
+
+      at Slab.verify (core/building/slab/Slab.ts:301:15)
+      at Object.<anonymous> (core/building/slab/__tests__/Slab.test.ts:352:19)
+
+    console.warn
+      Slab slab_1769331006896_b5r4ye9at: Invalid baseProfile
+
+      299 |     // 验证baseProfile
+      300 |     if (!this._verifyBaseProfile()) {
+    > 301 |       console.warn(`Slab ${this.id}: Invalid baseProfile`);
+          |               ^
+      302 |       return false;
+      303 |     }
+      304 |
+
+      at Slab.verify (core/building/slab/Slab.ts:301:15)
+      at Object.<anonymous> (core/building/slab/__tests__/Slab.test.ts:368:19)
+
+PASS core/building/concealed/__tests__/TubeTree.test.ts
+PASS core/building/structure/__tests__/Beam.test.ts
+PASS core/building/furniture/__tests__/index.test.ts (5.956 s)
+PASS core/building/structure/__tests__/Column.test.ts
+PASS core/building/concealed/__tests__/Node.test.ts
+PASS core/building/concealed/__tests__/Tube.test.ts
+PASS core/building/structure/__tests__/Foundation.test.ts
+  ● Console
+
+    console.warn
+      Foundation depth should be negative (downward)
+
+      165 |     // 验证深度（必须为负值，表示向下）
+      166 |     if (this._depth >= 0) {
+    > 167 |       console.warn('Foundation depth should be negative (downward)');
+          |               ^
+      168 |       return false;
+      169 |     }
+      170 |
+
+      at Foundation.verify (core/building/structure/Foundation.ts:167:15)
+      at Object.<anonymous> (core/building/structure/__tests__/Foundation.test.ts:147:25)
+
+    console.warn
+      Foundation depth too shallow (minimum -100mm)
+
+      171 |     // 验证深度不能太浅
+      172 |     if (this._depth > -100) {
+    > 173 |       console.warn('Foundation depth too shallow (minimum -100mm)');
+          |               ^
+      174 |       return false;
+      175 |     }
+      176 |
+
+      at Foundation.verify (core/building/structure/Foundation.ts:173:15)
+      at Object.<anonymous> (core/building/structure/__tests__/Foundation.test.ts:156:25)
+
+    console.warn
+      Foundation load capacity must be positive
+
+      177 |     // 验证承载力
+      178 |     if (this._loadCapacity <= 0) {
+    > 179 |       console.warn('Foundation load capacity must be positive');
+          |               ^
+      180 |       return false;
+      181 |     }
+      182 |
+
+      at Foundation.verify (core/building/structure/Foundation.ts:179:15)
+      at Object.<anonymous> (core/building/structure/__tests__/Foundation.test.ts:165:25)
+
+    console.warn
+      Pile foundation type requires piles flag to be true
+
+      183 |     // 验证基础类型匹配
+      184 |     if (this._foundationType === FoundationType.PILE && !this.requiresPiles) {
+    > 185 |       console.warn('Pile foundation type requires piles flag to be true');
+          |               ^
+      186 |       return false;
+      187 |     }
+      188 |
+
+      at Foundation.verify (core/building/structure/Foundation.ts:185:15)
+      at Object.<anonymous> (core/building/structure/__tests__/Foundation.test.ts:175:25)
+
+PASS core/building/furniture/__tests__/Cabinet.test.ts
+PASS core/parametric/parameter/__tests__/Parameter.test.ts
+PASS core/building/decoration/__tests__/Curtain.test.ts
+PASS core/building/decoration/__tests__/LightBand.test.ts
+PASS core/__tests__/algorithms/IntersectionCalculator.test.ts (6.024 s)
+PASS core/__tests__/building/Wall.test.ts
+  ● Console
+
+    console.warn
+      Wall.toGraphicsDataAsync failed: Geometry generation failed
+
+      122 |       // 记录错误日志（生产环境）
+      123 |       if (typeof console !== 'undefined' && console.warn) {
+    > 124 |         console.warn('Wall.toGraphicsDataAsync failed:', error.message);
+          |                 ^
+      125 |       }
+      126 |       
+      127 |       // 返回空图形数据，防止渲染崩溃
+
+      at core/building/Wall.ts:124:17
+      at Object.<anonymous> (core/__tests__/building/Wall.test.ts:165:20)
+
+    console.warn
+      Wall.toGraphicsDataAsync failed: Async generation failed
+
+      122 |       // 记录错误日志（生产环境）
+      123 |       if (typeof console !== 'undefined' && console.warn) {
+    > 124 |         console.warn('Wall.toGraphicsDataAsync failed:', error.message);
+          |                 ^
+      125 |       }
+      126 |       
+      127 |       // 返回空图形数据，防止渲染崩溃
+
+      at core/building/Wall.ts:124:17
+
+PASS core/building/slab/__tests__/Floor.test.ts
+PASS core/building/slab/__tests__/Ceiling.test.ts
+  ● Console
+
+    console.warn
+      Ceiling slab_1769331007012_nuk1jmqup: Split ceiling must have divideInfo
+
+      83 |     // 如果是分割天花板，需要验证divideInfo
+      84 |     if (this.__isSplitCeiling && !this.__divideInfo) {
+    > 85 |       console.warn(`Ceiling ${this.id}: Split ceiling must have divideInfo`);
+         |               ^
+      86 |       return false;
+      87 |     }
+      88 |
+
+      at Ceiling.verify (core/building/slab/Ceiling.ts:85:15)
+      at Object.<anonymous> (core/building/slab/__tests__/Ceiling.test.ts:168:22)
+
+PASS core/building/decoration/__tests__/LightSlot.test.ts
+PASS core/building/structure/__tests__/index.test.ts
+PASS core/scene/__tests__/integration.test.ts
+
+Test Suites: 39 passed, 39 total
+Tests:       1083 passed, 1083 total
+Snapshots:   0 total
+Time:        6.661 s, estimated 7 s
+Ran all test suites.

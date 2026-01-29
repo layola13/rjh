@@ -1,0 +1,30 @@
+import * as React from 'react';
+import iconData from './icon-data';
+import IconWrapper from './IconWrapper';
+
+interface IconProps {
+  size?: number | string;
+  color?: string;
+  className?: string;
+  style?: React.CSSProperties;
+  onClick?: (event: React.MouseEvent<SVGSVGElement>) => void;
+  [key: string]: unknown;
+}
+
+/**
+ * Icon component that wraps the icon data with common functionality
+ */
+const IconComponent = (
+  props: IconProps,
+  ref: React.Ref<SVGSVGElement>
+): React.ReactElement => {
+  return React.createElement(IconWrapper, {
+    ...props,
+    ref,
+    icon: iconData
+  });
+};
+
+const ForwardedIcon = React.forwardRef<SVGSVGElement, IconProps>(IconComponent);
+
+export default ForwardedIcon;

@@ -1,0 +1,1 @@
+export default "assets/resource_ja_JP.f597b113.json";

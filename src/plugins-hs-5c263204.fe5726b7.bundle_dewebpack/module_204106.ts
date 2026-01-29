@@ -1,0 +1,1 @@
+export default "assets/ring.1ba5fb18.svg";

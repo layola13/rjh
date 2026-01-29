@@ -1,0 +1,1 @@
+export default "assets/preview.e7bf40ae.svg";

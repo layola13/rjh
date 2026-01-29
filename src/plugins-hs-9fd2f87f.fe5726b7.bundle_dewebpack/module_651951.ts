@@ -1,0 +1,1 @@
+export default "assets/material_select_outline.db2b2b73.svg";

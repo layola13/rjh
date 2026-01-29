@@ -1,0 +1,1 @@
+export default "assets/recommend-decorations-hover.6e6bbd61.svg";

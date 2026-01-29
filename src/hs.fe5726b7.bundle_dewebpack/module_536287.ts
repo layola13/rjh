@@ -1,0 +1,1 @@
+export default "assets/favorite.f0f2405a.svg";

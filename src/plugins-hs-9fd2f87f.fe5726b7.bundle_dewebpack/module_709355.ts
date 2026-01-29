@@ -1,0 +1,1 @@
+export default "/assets/flipz.918ecf63.svg";

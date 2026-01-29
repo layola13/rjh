@@ -1,0 +1,1 @@
+export default `${process.env.PUBLIC_URL || ''}/assets/loading.cce10830.gif`;

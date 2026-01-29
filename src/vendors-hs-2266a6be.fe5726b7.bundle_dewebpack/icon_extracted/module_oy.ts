@@ -1,0 +1,1 @@
+const getOt = (): typeof Ot => Ot;

@@ -1,0 +1,1 @@
+export default "assets/grouppicture.b6c2c754.png";

@@ -1,0 +1,1 @@
+export default "assets/spotlight_normal.bfea9251.svg";

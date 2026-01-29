@@ -1,0 +1,1 @@
+export default "assets/perspective_hover.f9ac8653.svg";

@@ -1,0 +1,1 @@
+export { Geom } from './path/to/99876';

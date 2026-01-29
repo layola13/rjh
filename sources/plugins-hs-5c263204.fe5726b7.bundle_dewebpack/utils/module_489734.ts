@@ -1,0 +1,1 @@
+export default "assets/guidebg-homstyler.34666952.jpg";

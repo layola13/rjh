@@ -1,0 +1,1 @@
+export default "assets/new_from_library.a21e5524.svg";

@@ -1,0 +1,1 @@
+export default "assets/next_page_v2.b3937431.svg";

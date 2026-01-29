@@ -1,0 +1,1 @@
+export default "assets/haixun.d31a1bec.png";

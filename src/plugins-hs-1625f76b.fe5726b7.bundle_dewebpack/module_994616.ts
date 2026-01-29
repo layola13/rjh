@@ -1,0 +1,1 @@
+export default "/assets/edit_slab_selected.ff6da700.svg";

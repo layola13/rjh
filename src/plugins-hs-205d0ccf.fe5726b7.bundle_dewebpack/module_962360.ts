@@ -1,0 +1,1 @@
+export default "assets/left_diy.25ee3798.svg";

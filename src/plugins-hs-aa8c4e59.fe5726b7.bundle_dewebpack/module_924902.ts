@@ -1,0 +1,1 @@
+export default "assets/tip.4915b44a.jpg";

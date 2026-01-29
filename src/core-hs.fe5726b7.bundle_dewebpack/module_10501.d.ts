@@ -45,6 +45,20 @@ interface TargetExportOptions {
  * Factory function that creates error constructor wrappers
  * @param originalConstructor - The native error constructor to wrap
  * @returns Wrapped constructor that applies arguments correctly
+ * 
+ * @example
+ * ```typescript
+ * const factory: ErrorConstructorFactory = (OriginalError) => {
+ *   return function(message?: string) {
+ *     const error = new OriginalError(message);
+ *     error.cause = { details: 'Additional context' };
+ *     return error;
+ *   };
+ * };
+ * 
+ * const CustomTypeError = factory(TypeError);
+ * const err = CustomTypeError('Invalid input');
+ * ```
  */
 type ErrorConstructorFactory = (
   originalConstructor: ErrorConstructor

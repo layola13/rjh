@@ -1,0 +1,1 @@
+export default "assets/popup_autoceil.59d25002.gif";

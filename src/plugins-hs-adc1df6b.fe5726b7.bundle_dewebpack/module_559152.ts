@@ -1,0 +1,1 @@
+export default "assets/badge_team.0da4e1c4.svg";

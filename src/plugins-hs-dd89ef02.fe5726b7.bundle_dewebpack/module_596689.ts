@@ -1,0 +1,1 @@
+export default "assets/selectedplane.f8c6acfe.svg";

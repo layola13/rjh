@@ -1,0 +1,1 @@
+export default "assets/dropup.60542df8.svg";

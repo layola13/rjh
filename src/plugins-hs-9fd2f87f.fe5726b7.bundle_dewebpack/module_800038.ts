@@ -1,0 +1,1 @@
+export default "assets/circle.ba182043.svg";

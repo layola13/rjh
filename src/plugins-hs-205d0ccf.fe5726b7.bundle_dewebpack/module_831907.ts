@@ -1,0 +1,1 @@
+export default "assets/private_catalog.dd744c36.svg";

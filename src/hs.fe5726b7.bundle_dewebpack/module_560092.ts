@@ -1,0 +1,1 @@
+export default "assets/catalog_large.5686787f.svg";

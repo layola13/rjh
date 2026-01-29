@@ -1,0 +1,98 @@
+interface MomentLocale {
+  months: string[];
+  monthsShort: string[];
+  weekdays: string[];
+  weekdaysShort: string[];
+  weekdaysMin: string[];
+  weekdaysParseExact: boolean;
+  longDateFormat: {
+    LT: string;
+    LTS: string;
+    L: string;
+    LL: string;
+    LLL: string;
+    LLLL: string;
+  };
+  calendar: {
+    sameDay: string;
+    nextDay: string;
+    nextWeek: string;
+    lastDay: string;
+    lastWeek: string;
+    sameElse: string;
+  };
+  relativeTime: {
+    future: string;
+    past: string;
+    s: string;
+    ss: string;
+    m: string;
+    mm: string;
+    h: string;
+    hh: string;
+    d: string;
+    dd: string;
+    M: string;
+    MM: string;
+    y: string;
+    yy: string;
+  };
+  week: {
+    dow: number;
+    doy: number;
+  };
+}
+
+interface Moment {
+  defineLocale(localeName: string, config: MomentLocale): MomentLocale;
+}
+
+/**
+ * Moment.js locale configuration for Swahili (sw)
+ */
+export function defineSwahiliLocale(moment: Moment): MomentLocale {
+  return moment.defineLocale("sw", {
+    months: "Januari_Februari_Machi_Aprili_Mei_Juni_Julai_Agosti_Septemba_Oktoba_Novemba_Desemba".split("_"),
+    monthsShort: "Jan_Feb_Mac_Apr_Mei_Jun_Jul_Ago_Sep_Okt_Nov_Des".split("_"),
+    weekdays: "Jumapili_Jumatatu_Jumanne_Jumatano_Alhamisi_Ijumaa_Jumamosi".split("_"),
+    weekdaysShort: "Jpl_Jtat_Jnne_Jtan_Alh_Ijm_Jmos".split("_"),
+    weekdaysMin: "J2_J3_J4_J5_Al_Ij_J1".split("_"),
+    weekdaysParseExact: true,
+    longDateFormat: {
+      LT: "hh:mm A",
+      LTS: "HH:mm:ss",
+      L: "DD.MM.YYYY",
+      LL: "D MMMM YYYY",
+      LLL: "D MMMM YYYY HH:mm",
+      LLLL: "dddd, D MMMM YYYY HH:mm"
+    },
+    calendar: {
+      sameDay: "[leo saa] LT",
+      nextDay: "[kesho saa] LT",
+      nextWeek: "[wiki ijayo] dddd [saat] LT",
+      lastDay: "[jana] LT",
+      lastWeek: "[wiki iliyopita] dddd [saat] LT",
+      sameElse: "L"
+    },
+    relativeTime: {
+      future: "%s baadaye",
+      past: "tokea %s",
+      s: "hivi punde",
+      ss: "sekunde %d",
+      m: "dakika moja",
+      mm: "dakika %d",
+      h: "saa limoja",
+      hh: "masaa %d",
+      d: "siku moja",
+      dd: "siku %d",
+      M: "mwezi mmoja",
+      MM: "miezi %d",
+      y: "mwaka mmoja",
+      yy: "miaka %d"
+    },
+    week: {
+      dow: 1,
+      doy: 7
+    }
+  });
+}

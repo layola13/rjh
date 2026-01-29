@@ -1,0 +1,1 @@
+export default "assets/tpicon.c43a2925.svg";

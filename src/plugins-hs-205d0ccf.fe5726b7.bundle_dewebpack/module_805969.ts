@@ -1,0 +1,1 @@
+export default "assets/add_region.6d22c6a4.svg";

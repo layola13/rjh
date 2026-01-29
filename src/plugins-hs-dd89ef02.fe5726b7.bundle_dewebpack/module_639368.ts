@@ -1,0 +1,1 @@
+export default "assets/nodesignpicture.50b6a36b.svg";

@@ -1,0 +1,1 @@
+export default "assets/crop_region.67372876.svg";

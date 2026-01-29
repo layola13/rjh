@@ -1,0 +1,1 @@
+export default "assets/align_to_wall_type_edge.5a2d8d5e.svg";

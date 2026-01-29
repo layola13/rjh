@@ -1,0 +1,1 @@
+export default "assets/baseboard_icon.319716f1.svg";

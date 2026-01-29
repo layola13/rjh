@@ -1,0 +1,1 @@
+export default "assets/addGroup_close.919e501b.svg";

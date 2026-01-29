@@ -1,0 +1,1 @@
+export default "assets/noShop.fa155950.svg";

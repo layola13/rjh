@@ -1,0 +1,1 @@
+export default "assets/ceiling.32d232a5.cur";

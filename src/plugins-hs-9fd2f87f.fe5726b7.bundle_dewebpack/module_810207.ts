@@ -1,0 +1,1 @@
+export default "assets/yakouright.d628424a.svg";

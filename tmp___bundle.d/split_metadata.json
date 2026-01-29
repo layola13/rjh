@@ -1,0 +1,100 @@
+{
+  "originalFile": "/home/sonygod/projects/shejijia/sources/core/__bundle.d.ts",
+  "originalFileName": "__bundle.d.ts",
+  "totalLines": 25584,
+  "chunkCount": 18,
+  "maxLinesPerChunk": 1500,
+  "chunks": [
+    {
+      "file": "__bundle.d_chunk_0001.ts",
+      "startLine": 1,
+      "endLine": 1500
+    },
+    {
+      "file": "__bundle.d_chunk_0002.ts",
+      "startLine": 1501,
+      "endLine": 3000
+    },
+    {
+      "file": "__bundle.d_chunk_0003.ts",
+      "startLine": 3001,
+      "endLine": 4500
+    },
+    {
+      "file": "__bundle.d_chunk_0004.ts",
+      "startLine": 4501,
+      "endLine": 6000
+    },
+    {
+      "file": "__bundle.d_chunk_0005.ts",
+      "startLine": 6001,
+      "endLine": 7500
+    },
+    {
+      "file": "__bundle.d_chunk_0006.ts",
+      "startLine": 7501,
+      "endLine": 9000
+    },
+    {
+      "file": "__bundle.d_chunk_0007.ts",
+      "startLine": 9001,
+      "endLine": 10500
+    },
+    {
+      "file": "__bundle.d_chunk_0008.ts",
+      "startLine": 10501,
+      "endLine": 12000
+    },
+    {
+      "file": "__bundle.d_chunk_0009.ts",
+      "startLine": 12001,
+      "endLine": 13500
+    },
+    {
+      "file": "__bundle.d_chunk_0010.ts",
+      "startLine": 13501,
+      "endLine": 15000
+    },
+    {
+      "file": "__bundle.d_chunk_0011.ts",
+      "startLine": 15001,
+      "endLine": 16500
+    },
+    {
+      "file": "__bundle.d_chunk_0012.ts",
+      "startLine": 16501,
+      "endLine": 18000
+    },
+    {
+      "file": "__bundle.d_chunk_0013.ts",
+      "startLine": 18001,
+      "endLine": 19500
+    },
+    {
+      "file": "__bundle.d_chunk_0014.ts",
+      "startLine": 19501,
+      "endLine": 21000
+    },
+    {
+      "file": "__bundle.d_chunk_0015.ts",
+      "startLine": 21001,
+      "endLine": 22500
+    },
+    {
+      "file": "__bundle.d_chunk_0016.ts",
+      "startLine": 22501,
+      "endLine": 24000
+    },
+    {
+      "file": "__bundle.d_chunk_0017.ts",
+      "startLine": 24001,
+      "endLine": 25500
+    },
+    {
+      "file": "__bundle.d_chunk_0018.ts",
+      "startLine": 25501,
+      "endLine": 25584
+    }
+  ],
+  "createdAt": "2026-01-28T06:13:07.379Z"
+}

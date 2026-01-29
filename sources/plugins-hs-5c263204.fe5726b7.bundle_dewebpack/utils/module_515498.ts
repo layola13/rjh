@@ -1,0 +1,1 @@
+export default "assets/no2DView.8653484b.png";

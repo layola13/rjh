@@ -1,0 +1,1 @@
+export default "assets/leftpanel_catalog.bd880be5.svg";

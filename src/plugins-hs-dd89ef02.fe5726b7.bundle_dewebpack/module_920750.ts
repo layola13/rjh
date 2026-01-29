@@ -1,0 +1,1 @@
+export default "assets/rightbutton.7c11ae33.png";

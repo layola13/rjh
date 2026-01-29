@@ -1,0 +1,1 @@
+export default "assets/nocopywall.017a13b4.svg";

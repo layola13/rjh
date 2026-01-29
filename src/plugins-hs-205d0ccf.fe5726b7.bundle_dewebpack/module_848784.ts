@@ -1,0 +1,1 @@
+export default "assets/zoomout.98a769ed.svg";

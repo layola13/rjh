@@ -1,0 +1,1 @@
+export default "assets/profile_flip.63dfd98a.svg";

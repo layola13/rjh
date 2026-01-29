@@ -1,0 +1,1 @@
+export default "assets/lightband_notflip_selected.14cdf8e5.svg";

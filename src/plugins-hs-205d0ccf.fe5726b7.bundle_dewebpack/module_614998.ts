@@ -1,0 +1,1 @@
+export default "assets/back01.d3ff1790.svg";

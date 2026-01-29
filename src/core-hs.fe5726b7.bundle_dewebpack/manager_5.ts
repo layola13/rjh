@@ -1,0 +1,10 @@
+export { Manager } from './Manager';
+export { Material, MaterialIdEnum, Material_IO, TexturePaveTypeEnum } from './Material';
+export { MaterialData } from './MaterialData';
+export { ColorModeEnum } from './ColorModeEnum';
+export { Util } from './Util';
+export { MaterialDecorator } from './MaterialDecorator';
+export { IMaterialSaveToJsonResult } from './IMaterialSaveToJsonResult';
+export { IMaterialData, IMaterialDataToJsonResult } from './IMaterialData';
+export { MaterialDataObjDecorator } from './MaterialDataObjDecorator';
+export { IMaterialDumpedData } from './IMaterialDumpedData';

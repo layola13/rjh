@@ -1,0 +1,1 @@
+export default "/assets/ruler.2ea26b96.svg";

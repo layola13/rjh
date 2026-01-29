@@ -1,0 +1,1 @@
+export default "assets/brick_wall_pattern.3f15c42e.svg";

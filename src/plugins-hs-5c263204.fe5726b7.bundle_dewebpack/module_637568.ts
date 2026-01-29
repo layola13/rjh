@@ -1,0 +1,1 @@
+export default "/assets/cancel.63d63917.svg";

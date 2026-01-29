@@ -1,0 +1,1 @@
+export default "assets/plane_active.b3423be2.svg";

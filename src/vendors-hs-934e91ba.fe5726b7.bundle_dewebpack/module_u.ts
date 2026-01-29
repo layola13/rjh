@@ -1,0 +1,3 @@
+function initializeModule(): void {
+  q();
+}

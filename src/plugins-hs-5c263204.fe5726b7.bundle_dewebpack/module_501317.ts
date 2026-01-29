@@ -1,0 +1,1 @@
+export default "assets/recommendation-arrow.34726e2a.svg";

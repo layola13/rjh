@@ -1,0 +1,1 @@
+export default "assets/add.387e932e.svg";

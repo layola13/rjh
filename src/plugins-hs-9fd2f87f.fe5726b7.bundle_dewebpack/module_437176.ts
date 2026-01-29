@@ -1,0 +1,1 @@
+export default "assets/material_select_material.270636b2.svg";

@@ -1,0 +1,1 @@
+export default "/assets/face.577cb50a.svg";

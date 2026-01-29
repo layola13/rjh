@@ -1,0 +1,1 @@
+export default "assets/homestyler.f6cf5a67.svg";

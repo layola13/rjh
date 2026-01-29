@@ -1,0 +1,1 @@
+export default "/assets/rightselect.4e485d72.svg";

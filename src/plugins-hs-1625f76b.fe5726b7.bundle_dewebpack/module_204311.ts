@@ -1,0 +1,1 @@
+export default "assets/model_apply_entry_hover.b32b06eb.svg";

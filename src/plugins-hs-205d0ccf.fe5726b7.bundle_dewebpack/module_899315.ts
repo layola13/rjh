@@ -1,0 +1,1 @@
+export default "assets/edit_material.2304d525.svg";

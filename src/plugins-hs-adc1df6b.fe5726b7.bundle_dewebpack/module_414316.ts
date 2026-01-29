@@ -1,0 +1,1 @@
+export default "assets/icon_pro.a17f95ae.svg";

@@ -1,0 +1,1 @@
+export default "/assets/model_ysjj.15db8856.svg";

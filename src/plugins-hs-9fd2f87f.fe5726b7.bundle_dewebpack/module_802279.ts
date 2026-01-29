@@ -1,0 +1,1 @@
+export default "assets/mirrorcancle.685c53d1.svg";

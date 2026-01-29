@@ -1,0 +1,1 @@
+export default "assets/icomoon.dd3e5467.ttf";

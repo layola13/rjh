@@ -1,0 +1,1 @@
+export default "assets/forbiden.4bf7c74d.cur";

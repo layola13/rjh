@@ -1,0 +1,1 @@
+export default "assets/resource_id_ID.c657c648.json";

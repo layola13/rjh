@@ -1,0 +1,1 @@
+export default "assets/width.a1145274.svg";

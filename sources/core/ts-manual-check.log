@@ -1,0 +1,40 @@
+Checking: source/core/constraint/geometric/CollineConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/geometric/OverlapConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/geometric/PerpendicularConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/geometric/TangentConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/geometric/ParallelConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/ConstraintSolver.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/parametric/DimensionConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/parametric/EquationConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/parametric/PositionConstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/__tests__/Constraint.test.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/__tests__/ConstraintSolver.test.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/__tests__/index.test.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/ConstraintFactory.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/types.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/Constraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/index.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/constraints/constraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/constraints/constraintfactory.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/constraints/positionconstraint.ts
+sh: 1: node_modules/.bin/tsc: not found
+Checking: source/core/constraint/constraints/constraint_2.ts
+sh: 1: node_modules/.bin/tsc: not found

@@ -1,0 +1,1 @@
+export default "/assets/closed_normal.821de2da.svg";

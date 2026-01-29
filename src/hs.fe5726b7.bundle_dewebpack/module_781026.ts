@@ -1,0 +1,1 @@
+export default "assets/recent.af3cc233.svg";

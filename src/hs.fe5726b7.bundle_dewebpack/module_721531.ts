@@ -1,0 +1,1 @@
+export default "assets/global_logo.9cc22e30.png";

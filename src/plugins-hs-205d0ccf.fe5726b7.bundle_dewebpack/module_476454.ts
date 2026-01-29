@@ -1,0 +1,1 @@
+export default "assets/mix_brush.7d736d4c.svg";

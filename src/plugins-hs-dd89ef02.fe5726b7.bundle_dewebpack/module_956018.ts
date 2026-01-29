@@ -1,0 +1,1 @@
+export default "/assets/hoverplane.9f6edcbe.svg";

@@ -1,0 +1,1 @@
+export default "assets/product_price.105572be.svg";

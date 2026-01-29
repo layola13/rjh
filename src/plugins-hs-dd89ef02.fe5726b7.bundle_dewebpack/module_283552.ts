@@ -1,0 +1,1 @@
+export default "assets/lightslot.d5455d40.svg";

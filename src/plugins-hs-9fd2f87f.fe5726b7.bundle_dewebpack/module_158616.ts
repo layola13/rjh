@@ -1,0 +1,1 @@
+export default "assets/flipy.f5499305.svg";

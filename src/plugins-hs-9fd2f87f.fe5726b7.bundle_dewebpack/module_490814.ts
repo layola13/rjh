@@ -1,0 +1,1 @@
+export default "assets/dialog_ceiling.cff2e0e4.svg";

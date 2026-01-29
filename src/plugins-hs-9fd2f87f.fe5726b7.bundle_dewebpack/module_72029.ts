@@ -1,0 +1,1 @@
+export default "assets/leftselect.6c023238.svg";

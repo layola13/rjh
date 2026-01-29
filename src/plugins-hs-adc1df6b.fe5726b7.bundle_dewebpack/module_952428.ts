@@ -1,0 +1,1 @@
+export default "assets/icon_clear_input.cb913b42.svg";

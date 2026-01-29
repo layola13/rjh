@@ -1,0 +1,1 @@
+export default "assets/jiheti_normal.50ec9390.svg";

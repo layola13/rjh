@@ -1,0 +1,1 @@
+export default "assets/tiles_delete.32a5e67c.svg";

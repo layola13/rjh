@@ -1,0 +1,1 @@
+export { HSApp as default } from './435532';

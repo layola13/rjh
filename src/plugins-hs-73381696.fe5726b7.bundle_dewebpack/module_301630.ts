@@ -1,0 +1,1 @@
+export default "assets/freetrailfloor.79a73c88.png";

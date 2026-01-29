@@ -1,0 +1,1 @@
+export default "assets/cameratip.7042d25a.png";

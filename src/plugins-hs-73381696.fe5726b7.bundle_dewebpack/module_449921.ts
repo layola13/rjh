@@ -1,0 +1,1 @@
+export default "/assets/copywall.92d604a7.svg";

@@ -1,0 +1,1 @@
+export default "assets/ruler_hover.cf456441.svg";

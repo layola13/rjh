@@ -1,0 +1,1 @@
+export default "assets/pagination.e9d7e047.svg";

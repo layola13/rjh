@@ -1,0 +1,10 @@
+globalThis.DEBUG = false;
+globalThis.NWTK ??= undefined;
+globalThis.ClipperLibWasm ??= undefined;
+globalThis.ClipperLibInstance ??= undefined;
+globalThis.PolygonToolWasm ??= undefined;
+globalThis.PolygontoolLibWrapper ??= undefined;
+globalThis.PolygonToolInstance ??= undefined;
+globalThis.DiySdk ??= undefined;
+globalThis.GeLib ??= undefined;
+globalThis.WebCADModelAPI ??= undefined;

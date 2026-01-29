@@ -1,0 +1,1 @@
+export default "assets/material_brush.a7f84d36.gif";

@@ -1,0 +1,1 @@
+export default "assets/applied_to_room1.e860ca04.svg";

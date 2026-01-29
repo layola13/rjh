@@ -1,0 +1,1 @@
+export default "assets/icomoon.d49bdb1c.woff";

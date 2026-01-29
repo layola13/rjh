@@ -1,0 +1,1 @@
+export default "assets/upload_cad.4a80616e.png";

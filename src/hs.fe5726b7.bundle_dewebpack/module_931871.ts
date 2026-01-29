@@ -1,0 +1,1 @@
+export default "assets/resource_zh_CN.6738feeb.json";

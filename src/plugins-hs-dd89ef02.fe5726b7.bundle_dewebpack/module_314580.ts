@@ -1,0 +1,1 @@
+export default "assets/same-direction.b94f3afd.jpg";

@@ -1,0 +1,1 @@
+export default "assets/windowselect.a1371a57.svg";

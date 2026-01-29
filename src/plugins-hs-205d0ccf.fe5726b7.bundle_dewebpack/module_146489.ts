@@ -1,0 +1,1 @@
+export default "assets/create_render.f79e7d43.svg";

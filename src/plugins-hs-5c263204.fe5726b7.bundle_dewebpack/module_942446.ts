@@ -1,0 +1,1 @@
+export default "assets/modifywallmaterial.31f6ec30.png";

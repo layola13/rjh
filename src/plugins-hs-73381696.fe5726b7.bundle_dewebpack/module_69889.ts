@@ -1,0 +1,1 @@
+export default "assets/choose_hover.316c37b6.svg";

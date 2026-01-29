@@ -1,0 +1,1 @@
+export const userAgent: string = typeof navigator !== "undefined" && String(navigator.userAgent) || "";

@@ -1,0 +1,1 @@
+export default "assets/tip_global.094e80c5.jpeg";

@@ -1,0 +1,1 @@
+export default "assets/tianjia_hover.70667e04.svg";

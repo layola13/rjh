@@ -1,0 +1,1 @@
+export default "assets/export_cad.35213aa4.svg";

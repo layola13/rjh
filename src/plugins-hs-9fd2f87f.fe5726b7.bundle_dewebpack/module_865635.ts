@@ -1,0 +1,1 @@
+export default "assets/arch_tool.515bfc84.svg";

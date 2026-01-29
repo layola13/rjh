@@ -1,0 +1,1 @@
+export default "assets/excellent-small.08c40eda.gif";

@@ -1,0 +1,1 @@
+export default "assets/upselect.48e2589a.svg";

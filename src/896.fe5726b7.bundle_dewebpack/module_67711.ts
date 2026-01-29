@@ -1,0 +1,1 @@
+export default "assets/bg_putonghuiyuan.ec7a55f8.png";

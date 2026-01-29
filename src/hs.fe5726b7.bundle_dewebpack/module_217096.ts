@@ -1,0 +1,1 @@
+export default "assets/offset_cursor.522888ab.svg";

@@ -1,0 +1,1 @@
+export default "assets/upload_hover.687b2cf9.svg";

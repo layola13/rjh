@@ -1,0 +1,1 @@
+export default "assets/homecopilotcrown.39e837d5.svg";

@@ -1,0 +1,1 @@
+export default "assets/icon_allmembership.3ebb3961.svg";

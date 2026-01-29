@@ -1,0 +1,1 @@
+export default "assets/modify.cf3caa64.svg";

@@ -1,0 +1,1 @@
+export default "assets/clear_all_normal.1dcbcfde.svg";

@@ -1,0 +1,1 @@
+export default "assets/flip_horizontal.492a988b.svg";

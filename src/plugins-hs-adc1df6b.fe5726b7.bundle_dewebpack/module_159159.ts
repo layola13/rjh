@@ -1,0 +1,1 @@
+export default "assets/master_plus.aefe08d4.png";

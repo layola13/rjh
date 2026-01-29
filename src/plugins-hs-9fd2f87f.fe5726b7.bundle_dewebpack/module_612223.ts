@@ -1,0 +1,1 @@
+export default "assets/popup_polygon.35984c17.gif";

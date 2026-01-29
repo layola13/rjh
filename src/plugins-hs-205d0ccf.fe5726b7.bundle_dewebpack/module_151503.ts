@@ -1,0 +1,1 @@
+export default "assets/house_remodeling.a5855629.svg";

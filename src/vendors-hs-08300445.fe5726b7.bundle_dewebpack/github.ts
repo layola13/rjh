@@ -1,0 +1,189 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import reactCSS from 'reactcss';
+import map from 'lodash/map';
+import merge from 'lodash/merge';
+import { ColorWrap, ColorChangeHandler } from '../helpers/color';
+import GithubSwatch from './GithubSwatch';
+
+type TrianglePosition = 'hide' | 'top-left' | 'top-right' | 'bottom-left' | 'bottom-right';
+
+interface GithubProps {
+  width?: string | number;
+  colors?: string[];
+  onChange?: ColorChangeHandler;
+  onSwatchHover?: ColorChangeHandler;
+  triangle?: TrianglePosition;
+  styles?: Record<string, React.CSSProperties>;
+  className?: string;
+}
+
+interface ColorResult {
+  hex: string;
+  source: string;
+}
+
+const DEFAULT_COLORS = [
+  '#B80000',
+  '#DB3E00',
+  '#FCCB00',
+  '#008B02',
+  '#006B76',
+  '#1273DE',
+  '#004DCF',
+  '#5300EB',
+  '#EB9694',
+  '#FAD0C3',
+  '#FEF3BD',
+  '#C1E1C5',
+  '#BEDADC',
+  '#C4DEF6',
+  '#BED3F3',
+  '#D4C4FB'
+];
+
+const DEFAULT_WIDTH = 200;
+const DEFAULT_TRIANGLE: TrianglePosition = 'top-left';
+
+export const Github: React.FC<GithubProps> = ({
+  width = DEFAULT_WIDTH,
+  colors = DEFAULT_COLORS,
+  onChange,
+  onSwatchHover,
+  triangle = DEFAULT_TRIANGLE,
+  styles = {},
+  className = ''
+}) => {
+  const computedStyles = reactCSS(
+    merge(
+      {
+        default: {
+          card: {
+            width,
+            background: '#fff',
+            border: '1px solid rgba(0, 0, 0, 0.2)',
+            boxShadow: '0 3px 12px rgba(0, 0, 0, 0.15)',
+            borderRadius: '4px',
+            position: 'relative',
+            padding: '5px',
+            display: 'flex',
+            flexWrap: 'wrap'
+          },
+          triangle: {
+            position: 'absolute',
+            border: '7px solid transparent',
+            borderBottomColor: '#fff'
+          },
+          triangleShadow: {
+            position: 'absolute',
+            border: '8px solid transparent',
+            borderBottomColor: 'rgba(0, 0, 0, 0.15)'
+          }
+        },
+        'hide-triangle': {
+          triangle: {
+            display: 'none'
+          },
+          triangleShadow: {
+            display: 'none'
+          }
+        },
+        'top-left-triangle': {
+          triangle: {
+            top: '-14px',
+            left: '10px'
+          },
+          triangleShadow: {
+            top: '-16px',
+            left: '9px'
+          }
+        },
+        'top-right-triangle': {
+          triangle: {
+            top: '-14px',
+            right: '10px'
+          },
+          triangleShadow: {
+            top: '-16px',
+            right: '9px'
+          }
+        },
+        'bottom-left-triangle': {
+          triangle: {
+            top: '35px',
+            left: '10px',
+            transform: 'rotate(180deg)'
+          },
+          triangleShadow: {
+            top: '37px',
+            left: '9px',
+            transform: 'rotate(180deg)'
+          }
+        },
+        'bottom-right-triangle': {
+          triangle: {
+            top: '35px',
+            right: '10px',
+            transform: 'rotate(180deg)'
+          },
+          triangleShadow: {
+            top: '37px',
+            right: '9px',
+            transform: 'rotate(180deg)'
+          }
+        }
+      },
+      styles
+    ),
+    {
+      'hide-triangle': triangle === 'hide',
+      'top-left-triangle': triangle === 'top-left',
+      'top-right-triangle': triangle === 'top-right',
+      'bottom-left-triangle': triangle === 'bottom-left',
+      'bottom-right-triangle': triangle === 'bottom-right'
+    }
+  );
+
+  const handleChange = (hex: string, event: React.MouseEvent): void => {
+    if (onChange) {
+      onChange(
+        {
+          hex,
+          source: 'hex'
+        } as ColorResult,
+        event
+      );
+    }
+  };
+
+  return (
+    <div style={computedStyles.card} className={`github-picker ${className}`}>
+      <div style={computedStyles.triangleShadow} />
+      <div style={computedStyles.triangle} />
+      {map(colors, (color: string) => (
+        <GithubSwatch
+          color={color}
+          key={color}
+          onClick={handleChange}
+          onSwatchHover={onSwatchHover}
+        />
+      ))}
+    </div>
+  );
+};
+
+Github.propTypes = {
+  width: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+  colors: PropTypes.arrayOf(PropTypes.string.isRequired),
+  triangle: PropTypes.oneOf(['hide', 'top-left', 'top-right', 'bottom-left', 'bottom-right']),
+  styles: PropTypes.object
+};
+
+Github.defaultProps = {
+  width: DEFAULT_WIDTH,
+  colors: DEFAULT_COLORS,
+  triangle: DEFAULT_TRIANGLE,
+  styles: {}
+};
+
+export default ColorWrap(Github);

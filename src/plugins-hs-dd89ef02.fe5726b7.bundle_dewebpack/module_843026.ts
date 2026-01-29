@@ -1,0 +1,1 @@
+export default "assets/singleGrid.1f4f8862.jpg";

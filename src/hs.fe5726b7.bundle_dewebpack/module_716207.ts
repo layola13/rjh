@@ -1,0 +1,1 @@
+export default "assets/Bariol-Regular.06f96ba8.svg";

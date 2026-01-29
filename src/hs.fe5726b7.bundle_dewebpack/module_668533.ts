@@ -1,0 +1,1 @@
+export default "assets/add_towishlist.5f2a706d.svg";

@@ -1,0 +1,1 @@
+export default "assets/selection.0b3943a3.svg";

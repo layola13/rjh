@@ -1,0 +1,1 @@
+export default "assets/default_socket_symbol.875c8856.svg";

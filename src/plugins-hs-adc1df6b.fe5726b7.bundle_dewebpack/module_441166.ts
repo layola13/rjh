@@ -1,0 +1,1 @@
+export default "assets/doorpocket.a03e804e.svg";

@@ -1,0 +1,1 @@
+export default "assets/temproom9.4c32e567.svg";

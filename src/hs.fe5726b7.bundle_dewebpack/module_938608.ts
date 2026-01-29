@@ -1,0 +1,1 @@
+export default "assets/mask.7f2323c8.svg";

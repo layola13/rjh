@@ -1,0 +1,1 @@
+export default "assets/rome type.c24e0f69.svg";

@@ -1,0 +1,1 @@
+export default "assets/move_disable.fead427c.svg";

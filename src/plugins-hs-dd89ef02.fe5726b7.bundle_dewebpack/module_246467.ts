@@ -1,0 +1,1 @@
+export default "assets/splitWall1.cb3b7899.svg";

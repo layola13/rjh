@@ -1,0 +1,1 @@
+export default "assets/rcp.f4a2d6f4.svg";

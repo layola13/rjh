@@ -1,0 +1,1 @@
+export default "assets/lightband.b949d577.svg";

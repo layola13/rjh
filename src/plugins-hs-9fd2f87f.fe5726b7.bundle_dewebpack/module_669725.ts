@@ -1,0 +1,1 @@
+export default "assets/extrustion.3aa6db2e.svg";

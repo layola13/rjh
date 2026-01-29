@@ -1,0 +1,1 @@
+export default "assets/curvedToLinewall1.bb803f28.svg";

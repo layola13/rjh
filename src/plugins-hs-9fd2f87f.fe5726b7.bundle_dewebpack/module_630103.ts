@@ -1,0 +1,1 @@
+export default "assets/draw_circle.21ea8998.svg";

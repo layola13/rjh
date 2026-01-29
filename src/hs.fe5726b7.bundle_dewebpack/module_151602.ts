@@ -1,0 +1,1 @@
+export default "assets/favorite_add_v2.34bc4c1f.svg";

@@ -1,0 +1,1 @@
+export default "assets/wallmolding_size.5b51e942.svg";

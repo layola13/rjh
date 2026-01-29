@@ -1,0 +1,1 @@
+export default "assets/floorplan_icon.12e5d339.png";

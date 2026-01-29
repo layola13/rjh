@@ -1,0 +1,1 @@
+export default "/assets/layers.ea1c5980.svg";

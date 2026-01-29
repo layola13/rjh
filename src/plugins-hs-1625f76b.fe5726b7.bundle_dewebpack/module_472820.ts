@@ -1,0 +1,1 @@
+export default "assets/resetall.e468612f.svg";

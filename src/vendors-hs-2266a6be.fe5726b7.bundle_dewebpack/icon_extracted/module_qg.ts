@@ -1,0 +1,1 @@
+const getV = (): V => V;

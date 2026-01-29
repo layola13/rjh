@@ -1,0 +1,1 @@
+export default "assets/searchfp.4ffdbf1b.png";

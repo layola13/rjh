@@ -1,0 +1,1 @@
+export default "assets/share.419cf552.svg";

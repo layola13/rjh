@@ -1,0 +1,1 @@
+export default "assets/activechat.35d0c43e.svg";

@@ -1,0 +1,1 @@
+export default "assets/glyphicons-halflings-regular.4692b9ec.ttf";

@@ -1,0 +1,1 @@
+export default "assets/multiple.14e7d349.svg";

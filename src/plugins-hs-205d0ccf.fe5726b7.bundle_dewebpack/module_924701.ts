@@ -1,0 +1,1 @@
+export default "assets/export_house.3940f079.svg";

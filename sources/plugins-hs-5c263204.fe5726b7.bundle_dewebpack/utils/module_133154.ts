@@ -1,0 +1,1 @@
+export default "assets/noresult.aaf18231.gif";

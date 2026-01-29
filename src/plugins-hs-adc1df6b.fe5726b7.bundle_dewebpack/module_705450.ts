@@ -1,0 +1,1 @@
+export default "assets/helpsearchicon.a3fe0434.svg";

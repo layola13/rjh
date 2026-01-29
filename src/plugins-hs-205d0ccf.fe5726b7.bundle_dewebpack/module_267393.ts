@@ -1,0 +1,1 @@
+export default "assets/tick.3cae5af1.svg";

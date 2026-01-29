@@ -1,0 +1,1 @@
+export default "assets/Bariol-Regular.2b78a530.ttf";

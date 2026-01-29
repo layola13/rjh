@@ -1,0 +1,1 @@
+export default "assets/print.0a548ca0.svg";

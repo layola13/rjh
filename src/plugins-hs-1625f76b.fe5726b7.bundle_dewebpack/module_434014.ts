@@ -1,0 +1,1 @@
+export default "assets/picture_tips.094265af.svg";

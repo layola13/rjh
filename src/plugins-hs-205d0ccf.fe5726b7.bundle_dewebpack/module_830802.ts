@@ -1,0 +1,1 @@
+export default "assets/concealed_work.ea2082a9.svg";

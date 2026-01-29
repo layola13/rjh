@@ -1,0 +1,47 @@
+export interface IconAttrs {
+  viewBox: string;
+  focusable: string;
+}
+
+export interface PathAttrs {
+  d: string;
+}
+
+export interface IconChild {
+  tag: string;
+  attrs: PathAttrs;
+}
+
+export interface Icon {
+  tag: string;
+  attrs: IconAttrs;
+  children: IconChild[];
+}
+
+export interface IconDefinition {
+  icon: Icon;
+  name: string;
+  theme: string;
+}
+
+const holderOutlined: IconDefinition = {
+  icon: {
+    tag: "svg",
+    attrs: {
+      viewBox: "64 64 896 896",
+      focusable: "false"
+    },
+    children: [
+      {
+        tag: "path",
+        attrs: {
+          d: "M300 276.5a56 56 0 1056-97 56 56 0 00-56 97zm0 284a56 56 0 1056-97 56 56 0 00-56 97zM640 228a56 56 0 10112 0 56 56 0 00-112 0zm0 284a56 56 0 10112 0 56 56 0 00-112 0zM300 844.5a56 56 0 1056-97 56 56 0 00-56 97zM640 796a56 56 0 10112 0 56 56 0 00-112 0z"
+        }
+      }
+    ]
+  },
+  name: "holder",
+  theme: "outlined"
+};
+
+export default holderOutlined;

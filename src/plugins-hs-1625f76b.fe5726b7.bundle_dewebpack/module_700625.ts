@@ -1,0 +1,1 @@
+export default "assets/hs_huahuxing_daoruhuxingtu.4d075449.png";

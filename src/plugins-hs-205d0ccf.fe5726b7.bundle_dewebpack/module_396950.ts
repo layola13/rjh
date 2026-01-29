@@ -1,0 +1,1 @@
+export default "assets/empty_furniture.b57f82d1.svg";

@@ -1,0 +1,1 @@
+export default "assets/bg_setting.cd7fe6c3.svg";

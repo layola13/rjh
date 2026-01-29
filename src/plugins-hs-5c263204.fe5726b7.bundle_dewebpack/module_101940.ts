@@ -1,0 +1,1 @@
+export default "assets/pick_material_hover.cf239fd4.svg";

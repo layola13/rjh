@@ -1,0 +1,1 @@
+export default "assets/resize.8bde803f.png";

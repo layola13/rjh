@@ -1,0 +1,1 @@
+export default "assets/backgroundwall.e0bfa780.jpg";

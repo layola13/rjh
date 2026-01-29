@@ -1,0 +1,1 @@
+export default "assets/golden_progress.60c6dce4.png";

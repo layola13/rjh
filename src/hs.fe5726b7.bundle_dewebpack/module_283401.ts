@@ -1,0 +1,1 @@
+export default "assets/social_pinterest.1f400f44.svg";

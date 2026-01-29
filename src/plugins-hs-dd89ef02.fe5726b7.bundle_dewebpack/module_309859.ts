@@ -1,0 +1,1 @@
+export default "assets/gypsum_icon.1d74471d.svg";

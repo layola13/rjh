@@ -1,0 +1,1 @@
+export default "assets/yakouleft.dc1b7cc7.svg";

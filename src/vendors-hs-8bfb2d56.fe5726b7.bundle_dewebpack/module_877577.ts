@@ -1,0 +1,1 @@
+export default "assets/draco_decoder.c61bf26e.wasm";

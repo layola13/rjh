@@ -1,0 +1,1 @@
+export default "assets/clearwallboardforroom.ffd97e01.svg";

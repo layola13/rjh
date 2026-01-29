@@ -1,0 +1,1 @@
+export default "assets/modelBrand.ae485791.png";

@@ -1,0 +1,1 @@
+export default "assets/Pinhua_guideline_01.4d8924ec.svg";

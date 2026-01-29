@@ -1,0 +1,1 @@
+export default "assets/dimObj.0144ee51.svg";

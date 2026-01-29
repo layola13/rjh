@@ -1,0 +1,1 @@
+export default "assets/modelerbg.4c83af4b.png";

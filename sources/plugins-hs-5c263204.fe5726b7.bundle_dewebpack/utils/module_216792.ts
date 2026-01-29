@@ -1,0 +1,1 @@
+export default "assets/check.2336ffb2.png";

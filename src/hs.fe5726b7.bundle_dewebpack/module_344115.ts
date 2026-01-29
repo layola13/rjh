@@ -1,0 +1,1 @@
+export default "/assets/upload.7acba042.svg";

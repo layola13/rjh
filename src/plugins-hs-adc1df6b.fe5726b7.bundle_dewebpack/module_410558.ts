@@ -1,0 +1,1 @@
+export default "assets/v5icon.566f605c.svg";

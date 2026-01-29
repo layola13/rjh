@@ -1,0 +1,1 @@
+export default "assets/guidebg.6d09899c.png";

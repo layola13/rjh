@@ -1,0 +1,1 @@
+export default "assets/flatlight_normal.96eae0ce.svg";

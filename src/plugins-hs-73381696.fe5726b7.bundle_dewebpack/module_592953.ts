@@ -1,0 +1,1 @@
+export default "assets/background1.13a20c17.png";

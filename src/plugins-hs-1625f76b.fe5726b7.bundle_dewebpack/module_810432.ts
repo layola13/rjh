@@ -1,0 +1,1 @@
+export default "assets/orthomode.0828afc8.svg";

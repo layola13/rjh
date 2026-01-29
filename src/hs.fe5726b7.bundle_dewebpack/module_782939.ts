@@ -1,0 +1,1 @@
+export default "assets/colorTipIcon.e677ac21.svg";

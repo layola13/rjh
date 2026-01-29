@@ -1,0 +1,1 @@
+export default "assets/plus.f497c287.svg";

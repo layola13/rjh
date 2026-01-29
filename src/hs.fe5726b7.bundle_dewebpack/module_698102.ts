@@ -1,0 +1,1 @@
+export default "assets/social_twitter.aa7071ac.svg";

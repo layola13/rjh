@@ -1,0 +1,1 @@
+export default "assets/brush.6a19a137.cur";

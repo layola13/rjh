@@ -1,0 +1,1 @@
+export default "assets/modelActivity.28e8cd38.png";

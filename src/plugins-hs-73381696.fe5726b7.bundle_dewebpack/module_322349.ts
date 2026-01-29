@@ -1,0 +1,1 @@
+export default "assets/settings.4de48f22.svg";

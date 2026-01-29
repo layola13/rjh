@@ -1,0 +1,1 @@
+export default "assets/readonly.7afd3c93.svg";

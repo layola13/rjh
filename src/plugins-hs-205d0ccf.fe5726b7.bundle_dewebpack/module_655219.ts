@@ -1,0 +1,1 @@
+export default "assets/img_ai_styler_logo.88cd868f.png";

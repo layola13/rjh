@@ -1,0 +1,1 @@
+export default "assets/fold.5d70bb18.svg";

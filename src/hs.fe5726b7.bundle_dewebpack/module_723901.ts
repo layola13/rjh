@@ -1,0 +1,1 @@
+export default `${__webpack_public_path__}assets/more_items.819fcaf7.svg`;

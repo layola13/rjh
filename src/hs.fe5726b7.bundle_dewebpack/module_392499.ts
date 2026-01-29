@@ -1,0 +1,1 @@
+export default "assets/arrowup.386d5fb9.svg";

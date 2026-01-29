@@ -1,0 +1,1 @@
+export default "assets/Bariol-Regular.f2877534.woff";

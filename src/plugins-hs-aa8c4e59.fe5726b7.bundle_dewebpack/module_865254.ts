@@ -1,0 +1,1 @@
+export default "assets/toolbarfoldier.72043530.svg";

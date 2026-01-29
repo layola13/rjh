@@ -1,0 +1,1 @@
+export default "assets/marking-bg.7c62c6b1.png";

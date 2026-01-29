@@ -1,0 +1,1 @@
+export default `${__webpack_public_path__}assets/notasks.fa155950.svg`;

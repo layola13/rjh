@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "@types/babel__parser": "^7.0.0",
+    "@types/three": "^0.182.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+export default "assets/product_list_ezhome.9a3a096a.svg";

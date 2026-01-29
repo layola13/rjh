@@ -1,0 +1,1 @@
+export default "assets/intersectionPoint.dc5556db.svg";

@@ -1,0 +1,1 @@
+export default "assets/edit.de6619fa.svg";

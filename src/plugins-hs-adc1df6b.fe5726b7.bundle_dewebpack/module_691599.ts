@@ -1,0 +1,1 @@
+export default "assets/v4.0oldFp.05f1862c.svg";

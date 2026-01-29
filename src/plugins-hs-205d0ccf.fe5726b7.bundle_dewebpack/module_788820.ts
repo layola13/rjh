@@ -1,0 +1,1 @@
+export default "assets/tooltip.e4dec50e.gif";

@@ -1,0 +1,1 @@
+export default "/assets/upload_img.2974a547.png";

@@ -1,0 +1,1 @@
+export default "assets/lift.bac31961.png";

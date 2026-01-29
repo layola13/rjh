@@ -1,0 +1,1 @@
+export default "assets/facegroup.55add989.svg";

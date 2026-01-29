@@ -1,0 +1,1 @@
+export default "/assets/bigsymbol.da42a1b0.svg";

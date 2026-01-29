@@ -1,0 +1,6 @@
+export const StateEnum = {
+  SUBMITTED: "SUBMITTED",
+  CLOSED: "CLOSED",
+  PROCESSING: "PROCESSING",
+  COMPLETED: "COMPLETED"
+} as const;

@@ -1,0 +1,1 @@
+export default "assets/property.0407b1db.svg";

@@ -1,0 +1,1 @@
+export default "assets/resource_de_DE.dc091d67.json";

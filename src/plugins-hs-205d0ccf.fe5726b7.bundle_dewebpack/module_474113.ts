@@ -1,0 +1,1 @@
+export default "assets/fp_watermark_after.3e87cadf.jpeg";

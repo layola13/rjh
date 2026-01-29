@@ -1,0 +1,1 @@
+export default "assets/more_stairs.eb54c400.jpeg";

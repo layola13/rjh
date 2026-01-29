@@ -1,0 +1,1 @@
+export default "assets/grid.6b2b0250.svg";

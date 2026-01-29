@@ -1,0 +1,1 @@
+export default "assets/logo.715018da.svg";

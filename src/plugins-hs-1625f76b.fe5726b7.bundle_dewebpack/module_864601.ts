@@ -1,0 +1,1 @@
+export default "/assets/right_normal_axial.420ea6a5.svg";

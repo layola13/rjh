@@ -1,0 +1,1 @@
+export default "assets/badge_pro.252fc182.svg";

@@ -1,0 +1,1 @@
+export default "/assets/template.9ee444ff.svg";

@@ -1,0 +1,1 @@
+export default "assets/cancel.acbab458.svg";

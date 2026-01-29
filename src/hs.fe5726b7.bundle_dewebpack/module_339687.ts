@@ -1,0 +1,1 @@
+export default "assets/default_elecbox_symbol.85622b51.svg";

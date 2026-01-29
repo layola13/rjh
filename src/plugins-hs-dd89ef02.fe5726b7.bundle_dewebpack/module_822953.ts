@@ -1,0 +1,1 @@
+export default "assets/wholeCabinet.048500bf.jpg";

@@ -1,0 +1,1 @@
+export default "assets/save.45ca13c9.svg";

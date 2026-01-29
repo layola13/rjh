@@ -1,0 +1,1 @@
+export default "assets/flip.d767a625.svg";

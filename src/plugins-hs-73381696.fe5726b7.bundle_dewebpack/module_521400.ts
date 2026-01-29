@@ -1,0 +1,1 @@
+export default "assets/start_active_triangle.5f84eec5.svg";

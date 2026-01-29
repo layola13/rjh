@@ -1,0 +1,1 @@
+export default "assets/render.58f2d7a6.svg";

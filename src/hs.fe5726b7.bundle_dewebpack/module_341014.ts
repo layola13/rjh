@@ -1,0 +1,1 @@
+export default "assets/brick_wall_loadbearing_pattern.5e7b9349.svg";

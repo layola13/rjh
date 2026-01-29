@@ -1,0 +1,1 @@
+export default "assets/complete_hover.10a4e838.svg";

@@ -1,0 +1,1 @@
+export default "assets/replacedoors.66feeecf.svg";

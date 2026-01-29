@@ -1,0 +1,1 @@
+export default "assets/style_pattern.b31b5981.svg";

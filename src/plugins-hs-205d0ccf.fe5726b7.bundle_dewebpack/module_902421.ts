@@ -1,0 +1,1 @@
+export default "assets/region_hover.e37b7d4f.svg";

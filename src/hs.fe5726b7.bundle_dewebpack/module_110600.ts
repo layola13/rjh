@@ -1,0 +1,1 @@
+export default "assets/resource_es_ES.96ea3edd.json";

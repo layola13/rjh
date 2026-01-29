@@ -1,0 +1,20 @@
+export const TIMING_KEYS: string[] = [
+  "",
+  "fetchStart",
+  "domainLookupStart",
+  "domainLookupEnd",
+  "connectStart",
+  "connectEnd",
+  "requestStart",
+  "responseStart",
+  "responseEnd",
+  "",
+  "domInteractive",
+  "",
+  "domContentLoadedEventEnd",
+  "",
+  "loadEventStart",
+  "",
+  "msFirstPaint",
+  "secureConnectionStart"
+];

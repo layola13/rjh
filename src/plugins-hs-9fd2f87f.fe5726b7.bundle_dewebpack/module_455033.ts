@@ -1,0 +1,1 @@
+export default "assets/mirrorapply.9c52b550.svg";

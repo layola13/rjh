@@ -1,0 +1,1 @@
+export default "assets/walltype_brick_120.010f617f.svg";

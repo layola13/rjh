@@ -1,0 +1,1 @@
+export default "assets/define_paving.c9fa1cc2.svg";

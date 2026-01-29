@@ -1,0 +1,1 @@
+export default "assets/thumbup.413e9ee7.svg";

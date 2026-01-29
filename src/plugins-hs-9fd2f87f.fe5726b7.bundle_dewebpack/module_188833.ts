@@ -1,0 +1,1 @@
+export default "assets/curtain_gauze.dbac4307.svg";

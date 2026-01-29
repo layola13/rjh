@@ -1,0 +1,1 @@
+export default "assets/merge_wall_joint.ead1468d.svg";

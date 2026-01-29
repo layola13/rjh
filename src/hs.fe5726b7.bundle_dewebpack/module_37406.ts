@@ -1,0 +1,1 @@
+export default "assets/upload_cloud.39871d38.svg";

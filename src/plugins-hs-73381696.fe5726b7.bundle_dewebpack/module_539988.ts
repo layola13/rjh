@@ -1,0 +1,1 @@
+export default "assets/pen_cursor.a32a0568.svg";

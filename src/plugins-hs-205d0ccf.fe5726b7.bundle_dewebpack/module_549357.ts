@@ -1,0 +1,1 @@
+export default "assets/windowselecticon.35846416.svg";

@@ -1,0 +1,1 @@
+export default "assets/Alibaba-PuHuiTi-C-Bold.a67f4403.otf";

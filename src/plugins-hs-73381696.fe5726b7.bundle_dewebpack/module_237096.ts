@@ -1,0 +1,1 @@
+export default "assets/add_vertex.5ce4bdee.svg";

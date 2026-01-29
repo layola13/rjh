@@ -1,0 +1,1 @@
+export default "/assets/top.ce70c242.svg";

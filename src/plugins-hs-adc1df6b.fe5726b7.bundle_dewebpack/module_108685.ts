@@ -1,0 +1,1 @@
+export default "assets/icon_master.236b4aca.svg";

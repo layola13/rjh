@@ -1,0 +1,1 @@
+export default "assets/member.41756f1d.png";

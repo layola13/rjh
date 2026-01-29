@@ -1,0 +1,1 @@
+export default "assets/concrete_moving_pattern.93c1f7fa.svg";

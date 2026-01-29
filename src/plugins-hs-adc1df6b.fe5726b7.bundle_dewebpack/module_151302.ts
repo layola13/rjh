@@ -1,0 +1,1 @@
+export default "assets/mark.2f7b1b2f.png";

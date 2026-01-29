@@ -1,0 +1,1 @@
+export default "assets/customizedfeaturemodel.9b569eab.svg";

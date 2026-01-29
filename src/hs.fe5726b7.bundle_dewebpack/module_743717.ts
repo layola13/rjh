@@ -1,0 +1,1 @@
+export default "assets/front_page_v2.232b1323.svg";

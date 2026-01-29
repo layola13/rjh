@@ -1,0 +1,1 @@
+export default "assets/apply_all.a4265c82.svg";

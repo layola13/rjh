@@ -1,0 +1,1 @@
+export default "/assets/diymaterial.e3c4179a.svg";

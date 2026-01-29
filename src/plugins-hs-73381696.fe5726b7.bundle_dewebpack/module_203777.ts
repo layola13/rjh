@@ -1,0 +1,1 @@
+export default "assets/pipe_riser.9dccbe13.svg";

@@ -1,0 +1,1 @@
+export default "assets/light_white.e69cf080.svg";

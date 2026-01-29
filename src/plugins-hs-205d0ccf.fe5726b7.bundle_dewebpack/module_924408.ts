@@ -1,0 +1,1 @@
+export default "assets/loading.ef79734c.svg";

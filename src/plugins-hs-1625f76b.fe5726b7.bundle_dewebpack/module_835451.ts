@@ -1,0 +1,1 @@
+export default "assets/survey.95af22a3.svg";

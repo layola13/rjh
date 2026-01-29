@@ -1,0 +1,1 @@
+export default "assets/right_normal.cd277195.svg";

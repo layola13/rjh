@@ -1,0 +1,1 @@
+export default "assets/arrow_for_camera_clip_hover.f1cf5682.svg";

@@ -1,0 +1,1 @@
+export default typeof Reflect !== "undefined" && Reflect && Reflect.apply;

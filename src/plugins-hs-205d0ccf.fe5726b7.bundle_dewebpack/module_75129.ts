@@ -1,0 +1,1 @@
+export default new URL("assets/move_house_template.c7c30ccd.svg", import.meta.url).href;

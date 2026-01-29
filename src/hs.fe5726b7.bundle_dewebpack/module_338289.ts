@@ -1,0 +1,1 @@
+export default "assets/resource_ar_SA.cc737b9a.json";

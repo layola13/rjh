@@ -1,0 +1,1 @@
+export default "assets/crown.335bdcab.png";

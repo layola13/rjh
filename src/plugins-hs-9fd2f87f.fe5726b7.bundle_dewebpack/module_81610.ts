@@ -1,0 +1,1 @@
+export default "assets/popup_rotate.ced13ae6.gif";

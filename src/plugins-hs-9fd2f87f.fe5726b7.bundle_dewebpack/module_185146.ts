@@ -1,0 +1,1 @@
+export default "assets/edit.fb6df0ec.svg";

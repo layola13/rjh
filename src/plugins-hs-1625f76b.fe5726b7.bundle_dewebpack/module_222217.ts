@@ -1,0 +1,1 @@
+export default "assets/savev2.e3251191.svg";

@@ -1,0 +1,1 @@
+export default "assets/baseline_select.acaac16c.svg";

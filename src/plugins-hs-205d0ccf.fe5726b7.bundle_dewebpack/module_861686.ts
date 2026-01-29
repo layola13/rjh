@@ -1,0 +1,1 @@
+export default "assets/pave_brick.0b5d650d.svg";

@@ -1,0 +1,1 @@
+export default "assets/leftpanel_build.61823801.svg";

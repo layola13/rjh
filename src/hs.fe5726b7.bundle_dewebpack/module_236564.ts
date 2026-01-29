@@ -1,0 +1,1 @@
+export default "assets/concrete_selected_pattern.99485626.svg";

@@ -1,0 +1,1 @@
+export default "assets/icomoon.3f5efe62.svg";

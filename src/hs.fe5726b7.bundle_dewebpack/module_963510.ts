@@ -1,0 +1,1 @@
+export default "assets/center.ed719abe.svg";

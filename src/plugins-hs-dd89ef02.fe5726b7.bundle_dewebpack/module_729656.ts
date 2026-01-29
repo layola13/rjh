@@ -1,0 +1,1 @@
+export default "assets/walltype_generic.5a2d8d5e.svg";

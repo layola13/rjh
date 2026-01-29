@@ -1,0 +1,1 @@
+export default "assets/modelCommission.d737be02.png";

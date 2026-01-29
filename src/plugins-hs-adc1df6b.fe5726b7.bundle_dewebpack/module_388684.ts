@@ -1,0 +1,1 @@
+export default "assets/pro_basic.e5893854.png";

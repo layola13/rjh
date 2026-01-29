@@ -1,0 +1,1 @@
+export default "assets/create_pano.a0594e78.svg";

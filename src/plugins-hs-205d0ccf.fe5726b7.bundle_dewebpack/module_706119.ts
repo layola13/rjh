@@ -1,0 +1,1 @@
+export default "assets/measuring.766af82d.svg";

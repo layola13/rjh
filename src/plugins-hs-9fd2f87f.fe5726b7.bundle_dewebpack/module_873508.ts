@@ -1,0 +1,1 @@
+export default "assets/camera_2d.2f362adb.svg";

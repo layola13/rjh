@@ -1,0 +1,1 @@
+export default "assets/thumbdown.b15b50fb.svg";

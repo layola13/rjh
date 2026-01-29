@@ -1,0 +1,1 @@
+export default "assets/arrow_for_camera_clip.063170da.svg";

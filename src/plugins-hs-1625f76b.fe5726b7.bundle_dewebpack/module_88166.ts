@@ -1,0 +1,1 @@
+export default "assets/hs_shouqizhankai_youce.572cedb0.svg";

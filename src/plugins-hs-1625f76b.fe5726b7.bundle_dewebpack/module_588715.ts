@@ -1,0 +1,1 @@
+export default "assets/right_selected_axial.529f6a04.svg";

@@ -1,0 +1,1 @@
+export default "assets/corner.2c1df9e4.png";

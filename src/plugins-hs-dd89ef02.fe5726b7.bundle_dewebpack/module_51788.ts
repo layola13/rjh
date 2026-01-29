@@ -1,0 +1,1 @@
+export default "assets/walltype_concrete.5c492be8.svg";

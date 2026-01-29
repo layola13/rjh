@@ -1,0 +1,1 @@
+export default "assets/new_diy.72cfb529.svg";

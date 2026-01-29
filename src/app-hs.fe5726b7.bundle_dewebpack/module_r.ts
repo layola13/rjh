@@ -1,0 +1,1 @@
+const getFingerprint = (): string => fp;

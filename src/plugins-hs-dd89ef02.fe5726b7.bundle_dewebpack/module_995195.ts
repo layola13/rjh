@@ -1,0 +1,1 @@
+export default "/assets/normalplane.33d8c4a4.svg";

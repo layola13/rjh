@@ -1,0 +1,1 @@
+export default "assets/stylerimagesearch.adcf6369.png";

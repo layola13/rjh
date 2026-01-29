@@ -1,0 +1,1 @@
+export default "assets/face_invert_normal.bc0bf2b9.svg";

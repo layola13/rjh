@@ -1,0 +1,1 @@
+export default "assets/thumbdown_selected.f61bdad3.svg";

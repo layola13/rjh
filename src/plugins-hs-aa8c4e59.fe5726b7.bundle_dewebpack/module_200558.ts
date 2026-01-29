@@ -1,0 +1,1 @@
+export default "assets/fp.cadafb60.png";

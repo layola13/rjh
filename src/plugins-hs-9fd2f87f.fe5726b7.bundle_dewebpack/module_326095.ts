@@ -1,0 +1,1 @@
+export default "assets/offset.cb9b90d2.svg";

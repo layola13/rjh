@@ -36,4 +36,16 @@ const numberToString: (radix?: number) => string = (1).toString;
  * @returns A unique string in the format "Symbol(description)_base36hash"
  * 
  * @example
- *
+ * ```typescript
+ * const sym1 = createSymbol('mySymbol');
+ * const sym2 = createSymbol('mySymbol');
+ * const sym3 = createSymbol();
+ * 
+ * console.log(sym1); // "Symbol(mySymbol)_abc123"
+ * console.log(sym2); // "Symbol(mySymbol)_def456" (different from sym1)
+ * console.log(sym3); // "Symbol()_ghi789"
+ * ```
+ */
+declare function createSymbol(description?: string): string;
+
+export default createSymbol;

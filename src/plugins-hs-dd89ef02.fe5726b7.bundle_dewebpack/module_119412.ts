@@ -1,0 +1,1 @@
+export default "assets/cornice_width.80803d4e.svg";

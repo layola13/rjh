@@ -1,0 +1,1 @@
+export default "assets/edit_cell.ac5eca5f.svg";

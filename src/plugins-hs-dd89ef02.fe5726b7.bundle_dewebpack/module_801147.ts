@@ -1,0 +1,1 @@
+export default "assets/left_hover.0a0c572c.svg";

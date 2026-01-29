@@ -1,0 +1,1 @@
+export default "assets/editable.9cbdc6d7.svg";

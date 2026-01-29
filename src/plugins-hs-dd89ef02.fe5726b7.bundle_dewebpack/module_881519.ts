@@ -1,0 +1,1 @@
+export default "/assets/gypsum_height_icon.15643f21.svg";

@@ -1,0 +1,1 @@
+export default "assets/ceiling.15f7d7a8.png";

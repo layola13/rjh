@@ -1,0 +1,1 @@
+export default "assets/left_normal.e8f3aeeb.svg";

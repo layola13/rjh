@@ -1,0 +1,1 @@
+export default "assets/gypsum_wall_hover_pattern.5939a122.svg";

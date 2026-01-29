@@ -1,0 +1,1 @@
+export default "assets/recommendation-college.1196fad1.svg";

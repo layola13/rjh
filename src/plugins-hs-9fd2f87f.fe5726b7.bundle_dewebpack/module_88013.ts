@@ -1,0 +1,1 @@
+export default "assets/left.84749365.svg";

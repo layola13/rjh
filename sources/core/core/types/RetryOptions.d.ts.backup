@@ -1,0 +1,63 @@
+/**
+ * Utility module for retrying asynchronous operations
+ * @module RetryUtil
+ */
+
+/**
+ * Retry configuration options
+ */
+export interface RetryOptions {
+  /** Maximum number of retry attempts (default: 2) */
+  maxRetries?: number;
+  /** Delay between retries in milliseconds */
+  delayMs?: number;
+  /** Custom logger instance */
+  logger?: Logger;
+}
+
+/**
+ * Logger interface for retry operations
+ */
+export interface Logger {
+  warning(message: string): void;
+  error(message: string): void;
+  info(message: string): void;
+}
+
+/**
+ * Async function type that returns a promise
+ */
+export type AsyncFunction<T> = () => Promise<T>;
+
+/**
+ * Retries an asynchronous function a specified number of times upon failure
+ */
+ * @template T - The return type of the async function
+ * @param asyncFunc - The asynchronous function to retry
+ * @param maxRetries - Maximum number of retry attempts (default: 2)
+ * @returns Promise that resolves with the function result or rejects after all retries fail
+ */
+ * @example
+ * ```typescript
+ * // 基本重试配置
+ * const options: RetryOptions = {
+ *   maxRetries: 3,
+ *   retryDelay: 1000
+ * };
+ */
+ * // 带指数退避的重试配置
+ * const advancedOptions: RetryOptions = {
+ *   maxRetries: 5,
+ *   retryDelay: 1000,
+ *   backoffMultiplier: 2,
+ *   maxDelay: 10000,
+ *   retryCondition: (error) => error.code === 'NETWORK_ERROR'
+ * };
+ */
+ * // 使用重试选项
+ * async function fetchWithRetry(url: string, options: RetryOptions) {
+ *   // 实现带重试的请求逻辑
+ * }
+ * ```
+ */
+export interface RetryOptions {

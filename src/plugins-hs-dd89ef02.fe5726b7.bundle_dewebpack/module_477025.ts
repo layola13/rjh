@@ -1,0 +1,1 @@
+export default "assets/selected3DCamera.0c5b8ce1.svg";

@@ -1,0 +1,1 @@
+export default "assets/popup_circle.0becb99c.gif";

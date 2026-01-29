@@ -1,0 +1,1 @@
+export default "assets/HID.75a048df.svg";

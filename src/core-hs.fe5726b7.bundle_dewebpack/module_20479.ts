@@ -1,0 +1,1 @@
+export default typeof Symbol !== 'undefined' && !Symbol.sham && typeof Symbol.iterator === 'symbol';

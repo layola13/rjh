@@ -1,0 +1,1 @@
+export default "assets/beta.7f594974.svg";

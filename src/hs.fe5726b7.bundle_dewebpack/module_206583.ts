@@ -1,0 +1,1 @@
+export default "assets/close.ca56a7a2.svg";

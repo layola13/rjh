@@ -1,0 +1,1 @@
+export default "assets/hs_huahuxing_roomscan.bb840400.png";

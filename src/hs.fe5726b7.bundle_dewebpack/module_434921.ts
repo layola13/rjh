@@ -1,0 +1,1 @@
+export default "assets/go_to_brand.4cbf434d.svg";

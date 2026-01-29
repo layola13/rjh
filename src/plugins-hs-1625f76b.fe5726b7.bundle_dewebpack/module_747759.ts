@@ -1,0 +1,1 @@
+export default "assets/model_premium_fp.4bedd4bc.svg";

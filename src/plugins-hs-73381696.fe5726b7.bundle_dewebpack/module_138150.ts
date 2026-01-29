@@ -1,0 +1,1 @@
+export default "assets/drag-indicator.603b573a.svg";

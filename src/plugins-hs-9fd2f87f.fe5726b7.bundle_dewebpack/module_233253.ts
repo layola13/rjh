@@ -1,0 +1,1 @@
+export default "assets/temperature.dd38aa97.jpg";

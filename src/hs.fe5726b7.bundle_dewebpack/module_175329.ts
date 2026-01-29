@@ -1,0 +1,1 @@
+export default "assets/default_door_symbol.4ac7e5e2.svg";

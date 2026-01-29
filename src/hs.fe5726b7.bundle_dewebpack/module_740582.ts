@@ -1,0 +1,1 @@
+export default "assets/config_region.29091123.json";

@@ -1,0 +1,1 @@
+export default "assets/lightslot_flip.c56bcb5f.svg";

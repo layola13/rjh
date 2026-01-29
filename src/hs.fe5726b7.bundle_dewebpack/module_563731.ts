@@ -1,0 +1,1 @@
+export default "assets/gypsum_wall_selected_pattern.b9ba9318.svg";

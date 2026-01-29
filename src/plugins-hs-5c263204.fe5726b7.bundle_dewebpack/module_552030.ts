@@ -1,0 +1,1 @@
+export default "assets/gift-bg.1b146313.png";

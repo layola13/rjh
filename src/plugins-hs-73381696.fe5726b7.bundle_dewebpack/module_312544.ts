@@ -1,0 +1,1 @@
+export default "assets/sewer_pipe_square.efbf0111.svg";

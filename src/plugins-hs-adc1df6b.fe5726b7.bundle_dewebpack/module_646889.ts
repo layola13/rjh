@@ -1,0 +1,1 @@
+export default "assets/kefu.fb0d18b4.svg";

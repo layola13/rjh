@@ -1,0 +1,1 @@
+export default "assets/scrollmask.31790b74.png";

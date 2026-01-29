@@ -1,0 +1,1 @@
+export default "assets/core.74d57734.json";

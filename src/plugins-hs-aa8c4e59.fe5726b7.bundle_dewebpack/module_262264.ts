@@ -1,0 +1,1 @@
+export default "assets/delete_bg_png.7b3b456b.svg";

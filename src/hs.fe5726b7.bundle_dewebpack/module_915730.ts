@@ -1,0 +1,1 @@
+export default "assets/rotate_cursor.8973801e.svg";

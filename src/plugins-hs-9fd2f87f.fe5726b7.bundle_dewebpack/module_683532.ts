@@ -1,0 +1,1 @@
+export default "assets/popup_move.fab386df.gif";

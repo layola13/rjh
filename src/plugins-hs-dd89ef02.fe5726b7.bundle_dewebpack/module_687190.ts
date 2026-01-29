@@ -1,0 +1,1 @@
+export default "assets/clearmaterial.fad568cb.svg";

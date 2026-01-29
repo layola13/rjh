@@ -1,0 +1,1 @@
+export default "assets/default_water_symbol.4dcf7749.svg";

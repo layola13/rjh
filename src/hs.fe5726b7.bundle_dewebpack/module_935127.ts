@@ -1,0 +1,41 @@
+const WallCommandTypes = {
+  HideWall: "hsw.cmd.wall.CmdHideWall",
+  ToArcWall: "hsw.cmd.wall.CmdToArcWall",
+  ChangeWallSagitta: "hsw.cmd.wall.CmdChangeWallSagitta",
+  CreateTgWall: "hsw.cmd.wall.CmdCreateTgWall",
+  CreateRectTgWall: "hsw.cmd.wall.CmdCreateRectTgWall",
+  CreatePolygonTgWall: "hsw.cmd.wall.CmdCreatePolygonTgWall",
+  CreateFreeformNGWall: "hsw.cmd.wall.CmdCreateFreeformNGWall",
+  MoveNGWall: "hsw.cmd.wall.CmdMoveNGWall",
+  MoveNGWallPoint: "hsw.cmd.wall.CmdMoveNGWallPoint",
+  DeleteNGWall: "hsw.cmd.wall.CmdDeleteNGWall",
+  DeleteNGWalls: "hsw.cmd.wall.CmdDeleteNGWalls",
+  SplitNGWall: "hsw.cmd.wall.CmdSplitNGWall",
+  MergeNGWallOnPoint: "hsw.cmd.wall.CmdMergeNGWallOnPoint",
+  ChangeNGWallType: "hsw.cmd.wall.CmdChangeNGWallType",
+  ResizeWalls: "hsw.cmd.wall.ResizeWalls",
+  ChangeWallsWidth: "hsw.cmd.wall.CmdChangeWallsWidth",
+  ChangeWallAutoConnect: "hsw.cmd.wall.CmdChangeWallAutoConnect",
+  ChangeNGWallSagitta: "hsw.cmd.wall.CmdChangeNGWallSagitta",
+  FreeCutWall: "hsw.cmd.wall.CmdFreeCutWall",
+  CutWall: "hsw.cmd.wall.CmdCutWall",
+  MergeWall: "hsw.cmd.wall.CmdMergeWall",
+  AlignWall: "hsw.cmd.wall.CmdAlignWall",
+  CreateRectNGWalls: "hsw.cmd.wall.CmdCreateRectNGWalls",
+  EditMaterial: "hsw.plugin.walldecoration.cmd.CmdEditMaterial",
+  Decoration: "hsw.plugin.walldecoration.cmd.CmdDecoration",
+  DecorationEx: "hsw.plugin.walldecoration.cmd.CmdDecorationEx",
+  CustomizedTiles: "hsw.plugin.CustomizedTiles.CustomizedTilesCmd",
+  UnitStyle: "hsw.plugin.CustomizedTiles.UnitStyleCmd",
+  ChangeParamUnitSize: "hsw.plugin.CustomizedTiles.ChangeParamUnitSzieCmd",
+  ResetParamUnit: "hsw.plugin.CustomizedTiles.ResetParamUnitCmd",
+  ChangeParamUnitMaterial: "hsw.plugin.CustomizedTiles.ChangeParamUnitMaterialCmd",
+  AddMaterial: "hsw.plugin.facematerial.CmdAddMaterial",
+  AddDIYMaterial: "hsw.plugin.facematerial.CmdAddDIYMaterial",
+  MixDecoration: "hsw.plugin.mixpaint.cmd.CmdMixDecoration",
+  ShapeDecoration: "hsw.plugin.mixpaint.cmd.CmdShapeMixDecoration"
+} as const;
+
+export type WallCommandType = typeof WallCommandTypes[keyof typeof WallCommandTypes];
+
+export default WallCommandTypes;

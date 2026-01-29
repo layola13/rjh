@@ -1,0 +1,1 @@
+export default "assets/closed_hover.cd9048f5.svg";

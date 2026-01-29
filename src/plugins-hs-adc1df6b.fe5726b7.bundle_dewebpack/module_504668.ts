@@ -1,0 +1,1 @@
+export default "assets/hs_mian_checkin.624c9452.svg";

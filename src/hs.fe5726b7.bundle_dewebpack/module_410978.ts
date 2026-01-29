@@ -1,0 +1,1 @@
+export default "assets/resource_ru_RU.fa684b19.json";

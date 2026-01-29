@@ -1,0 +1,1 @@
+export default "assets/dingding.a7f0a92a.svg";

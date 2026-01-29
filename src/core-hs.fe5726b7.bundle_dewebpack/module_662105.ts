@@ -1,0 +1,1 @@
+export { HSCatalog as default } from './12883';

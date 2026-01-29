@@ -1,0 +1,1 @@
+export default "assets/rotate.4b3b1bab.svg";

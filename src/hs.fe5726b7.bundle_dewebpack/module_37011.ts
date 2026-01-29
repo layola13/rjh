@@ -1,0 +1,1 @@
+export default "assets/create_centerline.d074fb47.svg";

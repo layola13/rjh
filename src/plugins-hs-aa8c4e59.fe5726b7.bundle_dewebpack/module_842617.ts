@@ -1,0 +1,1 @@
+export default "assets/wall_opacity.d51aa423.svg";

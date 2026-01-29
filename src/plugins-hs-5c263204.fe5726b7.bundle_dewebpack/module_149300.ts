@@ -1,0 +1,1 @@
+export default "assets/gift-bg-mgm.fb48785e.png";

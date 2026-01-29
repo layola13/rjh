@@ -1,0 +1,1 @@
+export default "assets/edit_customized_type.382a2502.svg";

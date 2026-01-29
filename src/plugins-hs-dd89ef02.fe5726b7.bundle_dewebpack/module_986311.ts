@@ -1,0 +1,1 @@
+export default "assets/fitscreen.6a9ddd59.svg";

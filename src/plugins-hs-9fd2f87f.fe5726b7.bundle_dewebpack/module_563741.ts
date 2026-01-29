@@ -1,0 +1,1 @@
+export default "assets/up.cd84b25f.svg";

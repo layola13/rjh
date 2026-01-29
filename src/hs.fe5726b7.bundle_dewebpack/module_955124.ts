@@ -1,0 +1,1 @@
+export default "assets/upload.c384c836.svg";

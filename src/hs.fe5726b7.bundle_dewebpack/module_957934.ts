@@ -1,0 +1,1 @@
+export default "assets/measuring_cursor.f54e0015.svg";

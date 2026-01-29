@@ -1,0 +1,1 @@
+export default "assets/cabinet_edit.ec21bccb.svg";

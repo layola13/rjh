@@ -1,0 +1,1 @@
+export default "assets/rect.afe02679.svg";

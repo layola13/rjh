@@ -1,0 +1,1 @@
+export default "assets/certification.37aff8ed.svg";

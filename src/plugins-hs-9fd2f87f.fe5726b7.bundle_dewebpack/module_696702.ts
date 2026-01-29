@@ -1,0 +1,1 @@
+export default "assets/sphere_shape.e1b4982e.jpg";

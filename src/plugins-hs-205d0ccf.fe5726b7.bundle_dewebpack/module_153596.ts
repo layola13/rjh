@@ -1,0 +1,1 @@
+export default "assets/view_history.86876a89.svg";

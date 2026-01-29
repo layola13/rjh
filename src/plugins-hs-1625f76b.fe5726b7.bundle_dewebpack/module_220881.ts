@@ -1,0 +1,1 @@
+export default "assets/rule.713fac18.svg";

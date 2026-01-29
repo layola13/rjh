@@ -1,0 +1,1 @@
+export default "assets/info_propertybar.f20e0b36.svg";

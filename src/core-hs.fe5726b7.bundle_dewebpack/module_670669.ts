@@ -1,0 +1,1 @@
+export { HSCore as default } from './module_222293';

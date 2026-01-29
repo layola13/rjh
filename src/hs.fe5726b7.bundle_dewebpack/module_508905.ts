@@ -1,0 +1,1 @@
+export default "assets/return_all.f43329dd.svg";

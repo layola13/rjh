@@ -1,0 +1,1 @@
+export default "assets/column_round.75b37254.svg";

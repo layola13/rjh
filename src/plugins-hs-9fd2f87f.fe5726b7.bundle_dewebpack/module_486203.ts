@@ -1,0 +1,1 @@
+export default "assets/autceilingfrontface.5da2ca60.svg";

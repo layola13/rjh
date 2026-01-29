@@ -1,0 +1,5284 @@
+{
+  "module_10501.d.ts": {
+    "newName": "IsConstructor.d.ts",
+    "description": "Error constructor polyfill with cause support",
+    "renamed": true,
+    "possibleNames": [
+      "IsConstructor"
+    ]
+  },
+  "module_10973.d.ts": {
+    "newName": "Position.d.ts",
+    "description": "灯光计算模块 - L型衣柜灯光布局策略",
+    "renamed": true,
+    "possibleNames": [
+      "Position",
+      "LShapedWardobeLightCalculator"
+    ]
+  },
+  "module_10993.d.ts": {
+    "newName": "Iterator.d.ts",
+    "description": "Iterator.prototype.reduce() 方法的类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_11256.d.ts": {
+    "newName": "BarrelExport44292.d.ts",
+    "description": "Re-export module that aggregates and forwards all exports from module 44292",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_11667.d.ts": {
+    "newName": "WhitespaceCharacters.d.ts",
+    "description": "White space characters collection",
+    "renamed": true,
+    "possibleNames": [
+      "WhitespaceCharacters"
+    ]
+  },
+  "module_1187.d.ts": {
+    "newName": "WebKitVersionDetector.d.ts",
+    "description": "WebKit 版本检测模块",
+    "renamed": true,
+    "possibleNames": [
+      "WebKitVersionDetector"
+    ]
+  },
+  "module_1190.d.ts": {
+    "newName": "Iterator2.d.ts",
+    "description": "Creates an iterator result object.",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_12551.d.ts": {
+    "newName": "PropertyDescriptor.d.ts",
+    "description": "Safely retrieves and invokes a property descriptor method (get/set/value) from an object.",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor"
+    ]
+  },
+  "module_1276.d.ts": {
+    "newName": "PAssemblyProcessor.d.ts",
+    "description": "组件处理器类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "PAssemblyProcessor"
+    ]
+  },
+  "module_12883.d.ts": {
+    "newName": "RegisterManager.d.ts",
+    "description": "Meta Manager module for registering core dependencies",
+    "renamed": true,
+    "possibleNames": [
+      "RegisterManager"
+    ]
+  },
+  "module_12944.d.ts": {
+    "newName": "PolyfillRegistrationOptions.d.ts",
+    "description": "Set.prototype.isSubsetOf polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillRegistrationOptions",
+      "SetIsSubsetOfPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_13113.d.ts": {
+    "newName": "Position3D.d.ts",
+    "description": "灯光计算器类",
+    "renamed": true,
+    "possibleNames": [
+      "Position3D",
+      "Point2D",
+      "LightCalculator",
+      "Vector2",
+      "Box2"
+    ]
+  },
+  "module_13270.d.ts": {
+    "newName": "GetBuiltin.d.ts",
+    "description": "Gets a global built-in object or its property.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_13327.d.ts": {
+    "newName": "PropertyOptions.d.ts",
+    "description": "定义或重新导出对象属性的工具函数",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyOptions",
+      "PropertyDefiner"
+    ]
+  },
+  "module_13818.d.ts": {
+    "newName": "ToObjectRequired.d.ts",
+    "description": "Converts a value to an object by first ensuring it's not null/undefined.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_14623.d.ts": {
+    "newName": "Polyfill11.d.ts",
+    "description": "DOM Collection Types Configuration",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_14771.d.ts": {
+    "newName": "VERSION.d.ts",
+    "description": "Version constant for the application/library",
+    "renamed": true,
+    "possibleNames": [
+      "VERSION",
+      "Version"
+    ]
+  },
+  "module_14805.d.ts": {
+    "newName": "DOMTokenListPrototypeResult.d.ts",
+    "description": "DOMTokenList Prototype Polyfill Module",
+    "renamed": true,
+    "possibleNames": [
+      "DOMTokenListPrototypeResult",
+      "DOMTokenListPrototype",
+      "Polyfill"
+    ]
+  },
+  "module_14890.d.ts": {
+    "newName": "Module14890.d.ts",
+    "description": "Copies properties from source object(s) to the target object.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_1540.d.ts": {
+    "newName": "InternalMetadata.d.ts",
+    "description": "Internal metadata management for object tracking and weak references.",
+    "renamed": true,
+    "possibleNames": [
+      "InternalMetadata",
+      "Metadata"
+    ]
+  },
+  "module_16257.d.ts": {
+    "newName": "IsConstructorPolyfill.d.ts",
+    "description": "Collection constructor factory for creating polyfills of ES6 collection types.",
+    "renamed": true,
+    "possibleNames": [
+      "IsConstructor"
+    ]
+  },
+  "module_16950.d.ts": {
+    "newName": "ParseFloatPolyfill.d.ts",
+    "description": "Polyfill module for the global parseFloat function.",
+    "renamed": true,
+    "possibleNames": [
+      "ParseFloatPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_17029.d.ts": {
+    "newName": "ObjectTypeChecker.d.ts",
+    "description": "Type guard to check if a value is an object (including functions).",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectTypeChecker"
+    ]
+  },
+  "module_17113.d.ts": {
+    "newName": "for.d.ts",
+    "description": "Light layout module for different room types",
+    "renamed": true,
+    "possibleNames": [
+      "for",
+      "BaseLightLayout",
+      "DefaultRoomLayout",
+      "BedroomLayout",
+      "LivingRoomLayout",
+      "DiningRoomLayout",
+      "LivingDiningRoomLayout",
+      "BathroomLayout",
+      "KitchenLayout",
+      "LightLayoutFactory",
+      "LightCalculator"
+    ]
+  },
+  "module_1726.d.ts": {
+    "newName": "getOwnPropertyDescriptor.d.ts",
+    "description": "Object property descriptor utility module",
+    "renamed": true,
+    "possibleNames": [
+      "getOwnPropertyDescriptor",
+      "PropertyDescriptor"
+    ]
+  },
+  "module_17449.d.ts": {
+    "newName": "PolyfillConfig.d.ts",
+    "description": "ParseInt Polyfill Module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillConfig",
+      "ParseIntPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_1752.d.ts": {
+    "newName": "ToString.d.ts",
+    "description": "Converts a value to string with optional fallback.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_17786.d.ts": {
+    "newName": "CollectionSet.d.ts",
+    "description": "Checks if the current collection is a superset of the provided collection.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_17870.d.ts": {
+    "newName": "PromiseCapability.d.ts",
+    "description": "Promise.reject 静态方法的类型声明",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseCapability",
+      "PromiseCapabilityFactory",
+      "PromiseConstructorLike",
+      "PromiseConstructor",
+      "PromiseReject"
+    ]
+  },
+  "module_18059.d.ts": {
+    "newName": "Hole_IO.d.ts",
+    "description": "Hole module - Defines parametric hole entities and their I/O operations",
+    "renamed": true,
+    "possibleNames": [
+      "Hole_IO",
+      "Hole",
+      "ProfileConfig"
+    ]
+  },
+  "module_18243.d.ts": {
+    "newName": "RegExpExecWrapper.d.ts",
+    "description": "RegExp execution wrapper that ensures compatible behavior across different environments.",
+    "renamed": true,
+    "possibleNames": [
+      "RegExpExecWrapper"
+    ]
+  },
+  "module_18347.d.ts": {
+    "newName": "PropertyDescriptor2.d.ts",
+    "description": "Defines a property descriptor with getter/setter enforcement.",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor"
+    ]
+  },
+  "module_18506.d.ts": {
+    "newName": "Matrix3DHandler.d.ts",
+    "description": "Converts a rotation value from degrees to radians",
+    "renamed": true,
+    "possibleNames": [
+      "Matrix3DHandler",
+      "Rotation"
+    ]
+  },
+  "module_19342.d.ts": {
+    "newName": "Polyfill12.d.ts",
+    "description": "Checks if Object.getPrototypeOf correctly returns the prototype of an instance",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_19533.d.ts": {
+    "newName": "ESModuleMarker.d.ts",
+    "description": "ES Module marker module",
+    "renamed": true,
+    "possibleNames": [
+      "ESModuleMarker",
+      "Module19533"
+    ]
+  },
+  "module_19842.d.ts": {
+    "newName": "MaterialData.d.ts",
+    "description": "材质数据模块",
+    "renamed": true,
+    "possibleNames": [
+      "MaterialData",
+      "defaultMaterialData"
+    ]
+  },
+  "module_19883.d.ts": {
+    "newName": "ArraySliceUtility.d.ts",
+    "description": "Array slice polyfill or utility wrapper",
+    "renamed": true,
+    "possibleNames": [
+      "ArraySliceUtility",
+      "Polyfill"
+    ]
+  },
+  "module_20147.d.ts": {
+    "newName": "Module20147.d.ts",
+    "description": "Side-effect module that imports and initializes module 8985.",
+    "renamed": true,
+    "possibleNames": [
+      "Module20147"
+    ]
+  },
+  "module_20198.d.ts": {
+    "newName": "Module20198.d.ts",
+    "description": "External module declaration for module 20198.",
+    "renamed": true,
+    "possibleNames": [
+      "Module20198"
+    ]
+  },
+  "module_203.d.ts": {
+    "newName": "UserAgent.d.ts",
+    "description": "User Agent Detection Module",
+    "renamed": true,
+    "possibleNames": [
+      "UserAgent"
+    ]
+  },
+  "module_20321.d.ts": {
+    "newName": "firefoxVersion.d.ts",
+    "description": "Firefox version detection module",
+    "renamed": true,
+    "possibleNames": [
+      "firefoxVersion",
+      "FirefoxVersionDetector",
+      "Version"
+    ]
+  },
+  "module_20352.d.ts": {
+    "newName": "Module20352.d.ts",
+    "description": "Calculates the next string position after a character at the given index.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_20431.d.ts": {
+    "newName": "EmptyModule20431.d.ts",
+    "description": "Type definitions for module_20431",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_20479.d.ts": {
+    "newName": "HasNativeSymbol.d.ts",
+    "description": "Checks if the environment supports native ES6 Symbols (not polyfilled).",
+    "renamed": true,
+    "possibleNames": [
+      "HasNativeSymbol",
+      "SymbolSupportCheck",
+      "NativeSymbolDetection",
+      "Polyfill"
+    ]
+  },
+  "module_20756.d.ts": {
+    "newName": "getIterator.d.ts",
+    "description": "Module: module_20756",
+    "renamed": true,
+    "possibleNames": [
+      "getIterator"
+    ]
+  },
+  "module_21170.d.ts": {
+    "newName": "PromiseConstructor.d.ts",
+    "description": "Promise.prototype.catch polyfill",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseConstructor",
+      "Polyfill"
+    ]
+  },
+  "module_2121.d.ts": {
+    "newName": "PolyfillDefinitionOptions.d.ts",
+    "description": "Iterator.prototype.map polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillDefinitionOptions",
+      "IteratorMapPolyfill",
+      "Iterator"
+    ]
+  },
+  "module_21253.d.ts": {
+    "newName": "Util.d.ts",
+    "description": "Creates a proxy property on an object that delegates to another object's property.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_2196.d.ts": {
+    "newName": "IosDeviceDetection.d.ts",
+    "description": "iOS Device Detection Module",
+    "renamed": true,
+    "possibleNames": [
+      "IosDeviceDetection"
+    ]
+  },
+  "module_220789.d.ts": {
+    "newName": "HSPaveSDK.d.ts",
+    "description": "HSPaveSDK Module",
+    "renamed": true,
+    "possibleNames": [
+      "HSPaveSDK"
+    ]
+  },
+  "module_22281.d.ts": {
+    "newName": "PromiseConstructorLike.d.ts",
+    "description": "Converts a value to a Promise of a specific constructor type.",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseConstructorLike",
+      "PromiseCapability",
+      "IsConstructor"
+    ]
+  },
+  "module_22352.d.ts": {
+    "newName": "OBJECT_PROTOTYPE_PROPERTIES.d.ts",
+    "description": "List of non-enumerable properties inherited from Object.prototype",
+    "renamed": true,
+    "possibleNames": [
+      "OBJECT_PROTOTYPE_PROPERTIES",
+      "ObjectPrototypeProperties"
+    ]
+  },
+  "module_22451.d.ts": {
+    "newName": "PropertyDescriptor3.d.ts",
+    "description": "属性描述符类型",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor"
+    ]
+  },
+  "module_23053.d.ts": {
+    "newName": "PropertyDescriptorComplianceCheck.d.ts",
+    "description": "检测环境是否支持正确的属性描述符行为",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptorComplianceCheck"
+    ]
+  },
+  "module_2314.d.ts": {
+    "newName": "Module2314.d.ts",
+    "description": "Iterates over a Set with optional optimization for key-only iteration.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_23183.d.ts": {
+    "newName": "EmptyModule23183.d.ts",
+    "description": "Type definitions for module 23183",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_23408.d.ts": {
+    "newName": "PAssemblyUtil.d.ts",
+    "description": "PAssembly工具类 - 提供柜体装配相关的实用方法",
+    "renamed": true,
+    "possibleNames": [
+      "PAssemblyUtil",
+      "Point3D"
+    ]
+  },
+  "module_23665.d.ts": {
+    "newName": "ESModuleMarker2.d.ts",
+    "description": "Module: module_23665",
+    "renamed": true,
+    "possibleNames": [
+      "ESModuleMarker"
+    ]
+  },
+  "module_23668.d.ts": {
+    "newName": "ToPrimitive.d.ts",
+    "description": "将对象转换为原始值的类型转换函数",
+    "renamed": true,
+    "possibleNames": [
+      "ToPrimitive"
+    ]
+  },
+  "module_237698.d.ts": {
+    "newName": "ReExport857121.d.ts",
+    "description": "TypeScript declaration file for module 237698",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_23895.d.ts": {
+    "newName": "Polyfill.d.ts",
+    "description": "RegExp.prototype.test polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillConfig",
+      "Polyfill"
+    ]
+  },
+  "module_23964.d.ts": {
+    "newName": "StringAtPolyfillOptions.d.ts",
+    "description": "String.prototype.at polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "StringAtPolyfillOptions",
+      "StringAtPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_2410.d.ts": {
+    "newName": "PAssemblyRotation.d.ts",
+    "description": "部件装配旋转工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "PAssemblyRotation",
+      "PAssembly"
+    ]
+  },
+  "module_24187.d.ts": {
+    "newName": "SetIntersection.d.ts",
+    "description": "Set intersection operation module",
+    "renamed": true,
+    "possibleNames": [
+      "SetIntersection"
+    ]
+  },
+  "module_24200.d.ts": {
+    "newName": "Util2.d.ts",
+    "description": "Converts a value to a string, with special handling for Symbol types.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_24469.d.ts": {
+    "newName": "PBox_IO.d.ts",
+    "description": "3D盒子模型的类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "PBox_IO",
+      "PBox",
+      "PBoxCreateParams"
+    ]
+  },
+  "module_24866.d.ts": {
+    "newName": "all.d.ts",
+    "description": "HTML Document Detection Module",
+    "renamed": true,
+    "possibleNames": [
+      "all",
+      "IS_HTMLDDA",
+      "HTMLDocumentDetection"
+    ]
+  },
+  "module_249.d.ts": {
+    "newName": "initializeGlobalNamespaces.d.ts",
+    "description": "Global type definitions for CAD/Graphics application modules",
+    "renamed": true,
+    "possibleNames": [
+      "initializeGlobalNamespaces"
+    ]
+  },
+  "module_25779.d.ts": {
+    "newName": "ObjectPool.d.ts",
+    "description": "对象池管理器",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectPool",
+      "IDisposable",
+      "IRefCounted"
+    ]
+  },
+  "module_25921.d.ts": {
+    "newName": "PolyfillPolyfill.d.ts",
+    "description": "Number.prototype.toFixed polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_25994.d.ts": {
+    "newName": "StringRepeat.d.ts",
+    "description": "String repetition utility function",
+    "renamed": true,
+    "possibleNames": [
+      "StringRepeat"
+    ]
+  },
+  "module_26429.d.ts": {
+    "newName": "EquationVariable.d.ts",
+    "description": "表示方程约束的接口，用于描述输入输出变量",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_26502.d.ts": {
+    "newName": "Util3.d.ts",
+    "description": "Object merging utility module",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_26551.d.ts": {
+    "newName": "ArrayReversePolyfill.d.ts",
+    "description": "Array.prototype.reverse polyfill 模块",
+    "renamed": true,
+    "possibleNames": [
+      "ArrayReversePolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_26747.d.ts": {
+    "newName": "Util4.d.ts",
+    "description": "Global logging utility module",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_27103.d.ts": {
+    "newName": "Util5.d.ts",
+    "description": "Attempts to delete a property from an object and throws an error if the deletion fails.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_27252.d.ts": {
+    "newName": "DefinePropertiesModule.d.ts",
+    "description": "Property descriptors module",
+    "renamed": true,
+    "possibleNames": [
+      "DefinePropertiesModule",
+      "PropertyDescriptor",
+      "PropertyDescriptorMap"
+    ]
+  },
+  "module_27496.d.ts": {
+    "newName": "CreateStringNumberReplacer.d.ts",
+    "description": "String/Number replacer function factory for JSON.stringify",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_28031.d.ts": {
+    "newName": "BrowserDetection.d.ts",
+    "description": "User Agent Detection Utility",
+    "renamed": true,
+    "possibleNames": [
+      "BrowserDetection"
+    ]
+  },
+  "module_28094.d.ts": {
+    "newName": "ArrayIterator2.d.ts",
+    "description": "Array iteration utilities module",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_28394.d.ts": {
+    "newName": "Module28394.d.ts",
+    "description": "External module declaration for module_28394",
+    "renamed": true,
+    "possibleNames": [
+      "Module28394"
+    ]
+  },
+  "module_28493.d.ts": {
+    "newName": "ProcessDetection.d.ts",
+    "description": "Detects if the current environment has a Node.js process object.",
+    "renamed": true,
+    "possibleNames": [
+      "ProcessDetection"
+    ]
+  },
+  "module_28670.d.ts": {
+    "newName": "Vector.d.ts",
+    "description": "3D向量数学工具库",
+    "renamed": true,
+    "possibleNames": [
+      "Vector",
+      "Vector3D",
+      "cross",
+      "length",
+      "dot",
+      "normalize",
+      "add",
+      "subtract",
+      "sub"
+    ]
+  },
+  "module_28808.d.ts": {
+    "newName": "Module28808.d.ts",
+    "description": "Module: module_28808",
+    "renamed": true,
+    "possibleNames": [
+      "Module28808"
+    ]
+  },
+  "module_28816.d.ts": {
+    "newName": "Util6.d.ts",
+    "description": "Sets the toStringTag symbol on an object's prototype to customize its toString behavior.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_2918.d.ts": {
+    "newName": "FunctionComposition.d.ts",
+    "description": "函数组合工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "FunctionComposition"
+    ]
+  },
+  "module_29190.d.ts": {
+    "newName": "IterateUntilResult.d.ts",
+    "description": "迭代器遍历工具函数",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_29391.d.ts": {
+    "newName": "Promise.d.ts",
+    "description": "Promise 类型定义模块",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseConstructor",
+      "Promise",
+      "PromiseConstructorLike",
+      "PromiseFulfilledResult",
+      "PromiseRejectedResult",
+      "Module29391"
+    ]
+  },
+  "module_30036.d.ts": {
+    "newName": "IteratorPrototype.d.ts",
+    "description": "Iterator Protocol Implementation",
+    "renamed": true,
+    "possibleNames": [
+      "IteratorPrototype",
+      "Iterator"
+    ]
+  },
+  "module_30325.d.ts": {
+    "newName": "ExternalModule.d.ts",
+    "description": "External module referenced by webpack build.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_30521.d.ts": {
+    "newName": "SetDifference.d.ts",
+    "description": "Set Difference Operation Module",
+    "renamed": true,
+    "possibleNames": [
+      "SetDifference"
+    ]
+  },
+  "module_30599.d.ts": {
+    "newName": "CeilingLightComputer.d.ts",
+    "description": "吊顶灯光计算模块",
+    "renamed": true,
+    "possibleNames": [
+      "CeilingLightComputer"
+    ]
+  },
+  "module_30739.d.ts": {
+    "newName": "Polyfill2.d.ts",
+    "description": "String.prototype.startsWith polyfill/implementation",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_30742.d.ts": {
+    "newName": "ErrorConstructorFactory.d.ts",
+    "description": "创建自定义错误类的工厂函数",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_30858.d.ts": {
+    "newName": "Util7.d.ts",
+    "description": "Stack trace cleanup utility",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_32111.d.ts": {
+    "newName": "NATIVE.d.ts",
+    "description": "Feature detection utility for determining if a feature is natively supported or polyfilled.",
+    "renamed": true,
+    "possibleNames": [
+      "NATIVE",
+      "POLYFILL",
+      "data",
+      "normalize",
+      "FeatureDetection",
+      "Polyfill"
+    ]
+  },
+  "module_32218.d.ts": {
+    "newName": "Exports.d.ts",
+    "description": "Polyfill module for Object.getOwnPropertySymbols",
+    "renamed": true,
+    "possibleNames": [
+      "Exports",
+      "Polyfill"
+    ]
+  },
+  "module_32264.d.ts": {
+    "newName": "Module32264.d.ts",
+    "description": "Gets the documentElement from the document object.",
+    "renamed": true,
+    "possibleNames": [
+      "Module32264"
+    ]
+  },
+  "module_32310.d.ts": {
+    "newName": "StringMatchPolyfill.d.ts",
+    "description": "String.prototype.match polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "StringMatchPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_33046.d.ts": {
+    "newName": "ProfileMetadata.d.ts",
+    "description": "Sliding door leaf assembly module",
+    "renamed": true,
+    "possibleNames": [
+      "ProfileMetadata",
+      "SlotConfig",
+      "LoftMetasUpdateParams",
+      "PSlidingDoorLeaf",
+      "PropertyDescriptor"
+    ]
+  },
+  "module_33307.d.ts": {
+    "newName": "hasNativeReduce.d.ts",
+    "description": "Array.prototype.reduce polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "hasNativeReduce",
+      "BROWSER_VERSION_MIN",
+      "BROWSER_VERSION_MAX",
+      "detectedBrowserVersion",
+      "ArrayReducePolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_34465.d.ts": {
+    "newName": "PromiseResolve.d.ts",
+    "description": "Promise.resolve polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseConstructor",
+      "PromiseResolve",
+      "Polyfill"
+    ]
+  },
+  "module_34701.d.ts": {
+    "newName": "ObjectKeys.d.ts",
+    "description": "获取对象的可枚举属性键集合，排除隐藏属性并合并额外键",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectKeys"
+    ]
+  },
+  "module_34732.d.ts": {
+    "newName": "PAssemblyBody.d.ts",
+    "description": "预装配体(PAssembly)主体工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "PAssemblyBody"
+    ]
+  },
+  "module_34769.d.ts": {
+    "newName": "PropertyDescriptor4.d.ts",
+    "description": "Creates a property descriptor object from a bitmap of flags.",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor"
+    ]
+  },
+  "module_34991.d.ts": {
+    "newName": "GetLightInfo.d.ts",
+    "description": "光照组同步和模板管理工具模块",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_35633.d.ts": {
+    "newName": "PolyfillExport.d.ts",
+    "description": "JSON.stringify polyfill with Symbol and surrogate pair handling",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillExport",
+      "Polyfill"
+    ]
+  },
+  "module_35665.d.ts": {
+    "newName": "Point2D.d.ts",
+    "description": "SVG路径解析和轮廓简化工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "Point2D",
+      "OpeningProfileConfig",
+      "parse",
+      "parseOpeningProfile",
+      "simplifyProfile",
+      "PathCommand"
+    ]
+  },
+  "module_35710.d.ts": {
+    "newName": "Module35710.d.ts",
+    "description": "Gets the flags string from a RegExp object.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_36067.d.ts": {
+    "newName": "Error.d.ts",
+    "description": "Error cause installer utility",
+    "renamed": true,
+    "possibleNames": [
+      "Error"
+    ]
+  },
+  "module_36178.d.ts": {
+    "newName": "Polyfill3.d.ts",
+    "description": "解析字符串为整数的 polyfill 函数",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_36410.d.ts": {
+    "newName": "IteratorToArray.d.ts",
+    "description": "Iterator.prototype.toArray() polyfill",
+    "renamed": true,
+    "possibleNames": [
+      "IteratorToArray",
+      "Iterator"
+    ]
+  },
+  "module_3668.d.ts": {
+    "newName": "IsConstructor2.d.ts",
+    "description": "Checks if a value is a constructor function.",
+    "renamed": true,
+    "possibleNames": [
+      "IsConstructor"
+    ]
+  },
+  "module_37343.d.ts": {
+    "newName": "SearchResult.d.ts",
+    "description": "Polyfill for String.prototype.search method",
+    "renamed": true,
+    "possibleNames": [
+      "SearchResult",
+      "StringSearchPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_37475.d.ts": {
+    "newName": "SideEffectInitializer.d.ts",
+    "description": "Side-effect module that imports and executes multiple dependency modules.",
+    "renamed": true,
+    "possibleNames": [
+      "SideEffectInitializer"
+    ]
+  },
+  "module_38251.d.ts": {
+    "newName": "SymbolPolyfill.d.ts",
+    "description": "Generates a unique symbol-like string identifier.",
+    "renamed": true,
+    "possibleNames": [
+      "SymbolPolyfill"
+    ]
+  },
+  "module_38776.d.ts": {
+    "newName": "IteratorPolyfill.d.ts",
+    "description": "Iterator and toString tag polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_39943.d.ts": {
+    "newName": "Util8.d.ts",
+    "description": "Checks if a value is nullish (null or undefined) and throws a TypeError if so.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_40087.d.ts": {
+    "newName": "LengthValidator.d.ts",
+    "description": "Validates or retrieves the length of a value.",
+    "renamed": true,
+    "possibleNames": [
+      "LengthValidator"
+    ]
+  },
+  "module_4012.d.ts": {
+    "newName": "Module4012.d.ts",
+    "description": "Safely executes a function and wraps the result in a Result type.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_40143.d.ts": {
+    "newName": "Util9.d.ts",
+    "description": "Checks if a string method can be safely called with a regex argument.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_4061.d.ts": {
+    "newName": "4061.d.ts",
+    "description": "External module reference for module_4061",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_41086.d.ts": {
+    "newName": "HoleParameter.d.ts",
+    "description": "Module: Hole Entity and IO Handler",
+    "renamed": true,
+    "possibleNames": [
+      "HoleParameter",
+      "ProfileConfig",
+      "HoleMetadata",
+      "HoleData",
+      "SurfaceObject",
+      "BaseboardCutterInfo",
+      "Hole_IO",
+      "Hole",
+      "with",
+      "identifier"
+    ]
+  },
+  "module_41500.d.ts": {
+    "newName": "Segment3DData.d.ts",
+    "description": "Geometry utility module for 3D and 2D segment manipulation",
+    "renamed": true,
+    "possibleNames": [
+      "Segment3DData",
+      "Segment2DData",
+      "ModelElement",
+      "ParentElement",
+      "StructuralModelType",
+      "Segment3D",
+      "Segment2D"
+    ]
+  },
+  "module_4155.d.ts": {
+    "newName": "ArrayIterator.d.ts",
+    "description": "Array Iterator Module",
+    "renamed": true,
+    "possibleNames": [
+      "ArrayIterator"
+    ]
+  },
+  "module_42020.d.ts": {
+    "newName": "ObjectAssignPolyfill.d.ts",
+    "description": "Object.assign polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectAssignPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_42288.d.ts": {
+    "newName": "ContentType.d.ts",
+    "description": "基础规则访问者抽象类",
+    "renamed": true,
+    "possibleNames": [
+      "ContentType",
+      "Point2D",
+      "Position3D",
+      "Size",
+      "Edge",
+      "LightConfig",
+      "SceneObject",
+      "Scene",
+      "RenderOptions",
+      "RuleConfig",
+      "ClosestEdgeResult",
+      "BaseRule"
+    ]
+  },
+  "module_42389.d.ts": {
+    "newName": "Module42389.d.ts",
+    "description": "Module: module_42389",
+    "renamed": true,
+    "possibleNames": [
+      "Module42389"
+    ]
+  },
+  "module_42612.d.ts": {
+    "newName": "Module42612.d.ts",
+    "description": "Re-export module that aggregates and exposes all exports from module 50159.",
+    "renamed": true,
+    "possibleNames": [
+      "Module42612"
+    ]
+  },
+  "module_42640.d.ts": {
+    "newName": "polygon.d.ts",
+    "description": "Polygon tools module providing polygon manipulation and tessellation utilities.",
+    "renamed": true,
+    "possibleNames": [
+      "polygon",
+      "tesselator",
+      "PolygonTools"
+    ]
+  },
+  "module_43039.d.ts": {
+    "newName": "CollectionUnion.d.ts",
+    "description": "Collection union operation module",
+    "renamed": true,
+    "possibleNames": [
+      "CollectionUnion"
+    ]
+  },
+  "module_43247.d.ts": {
+    "newName": "Util10.d.ts",
+    "description": "Tests whether an array method properly handles invalid callback scenarios.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_43807.d.ts": {
+    "newName": "SetIsSupersetOf.d.ts",
+    "description": "Set.prototype.isSupersetOf polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "SetIsSupersetOf",
+      "Polyfill"
+    ]
+  },
+  "module_43953.d.ts": {
+    "newName": "FunctionExtractor.d.ts",
+    "description": "Utility function that extracts a function reference if the input is of type \"Function\".",
+    "renamed": true,
+    "possibleNames": [
+      "FunctionExtractor"
+    ]
+  },
+  "module_43989.d.ts": {
+    "newName": "ParseFloatPolyfill2.d.ts",
+    "description": "Enhanced parseFloat implementation with edge case handling",
+    "renamed": true,
+    "possibleNames": [
+      "ParseFloatPolyfill"
+    ]
+  },
+  "module_44122.d.ts": {
+    "newName": "Polyfill4.d.ts",
+    "description": "RegExp.prototype.toString polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_44292.d.ts": {
+    "newName": "Util11.d.ts",
+    "description": "Meta manager initialization module",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_44873.d.ts": {
+    "newName": "IMesh.d.ts",
+    "description": "缓存管理器模块",
+    "renamed": true,
+    "possibleNames": [
+      "IMesh",
+      "IMeta",
+      "IMaterialInfo",
+      "CacheKey",
+      "CacheManager",
+      "cacheManager"
+    ]
+  },
+  "module_45193.d.ts": {
+    "newName": "FunctionNameDescriptor.d.ts",
+    "description": "Function name property detection and configuration module",
+    "renamed": true,
+    "possibleNames": [
+      "FunctionNameDescriptor"
+    ]
+  },
+  "module_45381.d.ts": {
+    "newName": "RegExpMethodPatcher.d.ts",
+    "description": "RegExp 原型方法修补工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "RegExpMethodPatcher"
+    ]
+  },
+  "module_45406.d.ts": {
+    "newName": "Point3D.d.ts",
+    "description": "PExtruding model and its I/O handler for geometric extrusion operations.",
+    "renamed": true,
+    "possibleNames": [
+      "Point3D",
+      "Path2D",
+      "PExtrudingParameters",
+      "LoadOptions",
+      "PExtrudingData",
+      "BoundingBox3D",
+      "PExtrudingUpdate",
+      "PExtruding_IO",
+      "PExtruding",
+      "with",
+      "Point2D"
+    ]
+  },
+  "module_45424.d.ts": {
+    "newName": "ObjectMerge.d.ts",
+    "description": "Merges two objects by combining their properties.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_45573.d.ts": {
+    "newName": "Module45573.d.ts",
+    "description": "Checks if an object is extensible (new properties can be added to it).",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_45585.d.ts": {
+    "newName": "RoomInfo.d.ts",
+    "description": "房间信息管理模块",
+    "renamed": true,
+    "possibleNames": [
+      "RoomInfo",
+      "RoomInfoManager",
+      "Point"
+    ]
+  },
+  "module_45994.d.ts": {
+    "newName": "IsConstructor3.d.ts",
+    "description": "Returns the constructor species for creating derived objects.",
+    "renamed": true,
+    "possibleNames": [
+      "IsConstructor"
+    ]
+  },
+  "module_46129.d.ts": {
+    "newName": "StateUtil.d.ts",
+    "description": "State utility class for managing and traversing various state objects in the HSCore system.",
+    "renamed": true,
+    "possibleNames": [
+      "for",
+      "StateUtil",
+      "with",
+      "State",
+      "ArrayState",
+      "PointState",
+      "Point2DState",
+      "Arc2DState"
+    ]
+  },
+  "module_46537.d.ts": {
+    "newName": "PromiseState.d.ts",
+    "description": "Promise Polyfill Module",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseState",
+      "PromiseReaction",
+      "PromiseCapability",
+      "PromiseRejectionEvent",
+      "PromisePolyfillConfig",
+      "Polyfill"
+    ]
+  },
+  "module_4676.d.ts": {
+    "newName": "ArrayUnshiftPolyfill.d.ts",
+    "description": "Array.prototype.unshift polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "ArrayUnshiftPolyfill",
+      "PolyfillConfig",
+      "Polyfill"
+    ]
+  },
+  "module_46976.d.ts": {
+    "newName": "WellKnownSymbols.d.ts",
+    "description": "Well-Known Symbols (WKS) registry module",
+    "renamed": true,
+    "possibleNames": [
+      "WellKnownSymbols"
+    ]
+  },
+  "module_47068.d.ts": {
+    "newName": "IsConstructorPrototype.d.ts",
+    "description": "Sets the prototype of an object to match the constructor's prototype chain.",
+    "renamed": true,
+    "possibleNames": [
+      "IsConstructor"
+    ]
+  },
+  "module_47730.d.ts": {
+    "newName": "CallUtility.d.ts",
+    "description": "Cross-environment function call utility",
+    "renamed": true,
+    "possibleNames": [
+      "CallUtility"
+    ]
+  },
+  "module_48056.d.ts": {
+    "newName": "Array.d.ts",
+    "description": "Array.prototype.at() Polyfill Module",
+    "renamed": true,
+    "possibleNames": [
+      "Array",
+      "Polyfill"
+    ]
+  },
+  "module_48230.d.ts": {
+    "newName": "LightingCalculator.d.ts",
+    "description": "灯光配置接口",
+    "renamed": true,
+    "possibleNames": [
+      "LightingCalculator"
+    ]
+  },
+  "module_48234.d.ts": {
+    "newName": "ArrayInitializer.d.ts",
+    "description": "Array utility functions for resizing, comparing, and appending arrays.",
+    "renamed": true,
+    "possibleNames": [
+      "ArrayInitializer",
+      "EqualityComparator",
+      "ArrayUtils"
+    ]
+  },
+  "module_48926.d.ts": {
+    "newName": "PSlidingDoor_IO.d.ts",
+    "description": "推拉门组件类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "PSlidingDoor_IO",
+      "PSlidingDoor"
+    ]
+  },
+  "module_49304.d.ts": {
+    "newName": "ErrorStackConfigurableCheck.d.ts",
+    "description": "Checks if Error.stack property is configurable and works correctly.",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor",
+      "ErrorStackConfigurableCheck"
+    ]
+  },
+  "module_49327.d.ts": {
+    "newName": "LineSegment.d.ts",
+    "description": "天花板自动照明计算器",
+    "renamed": true,
+    "possibleNames": [
+      "Point2D",
+      "LineSegment",
+      "LineSegmentGroup",
+      "LightSize",
+      "LightConfig",
+      "RoomModel",
+      "PhysicalLight",
+      "ContentType",
+      "RenderOptions",
+      "defaultGapToCeiling",
+      "CeilingAutoLightingCalculator"
+    ]
+  },
+  "module_49394.d.ts": {
+    "newName": "PSegmentLoft_IO.d.ts",
+    "description": "PSegmentLoft module - Parametric segment loft geometry for architectural moldings",
+    "renamed": true,
+    "possibleNames": [
+      "PSegmentLoft_IO",
+      "PSegmentLoft",
+      "ProfileMetadata",
+      "PSegmentLoftCreateParams"
+    ]
+  },
+  "module_49604.d.ts": {
+    "newName": "Module49604.d.ts",
+    "description": "External module declaration for webpack module 49604",
+    "renamed": true,
+    "possibleNames": [
+      "Module49604"
+    ]
+  },
+  "module_49608.d.ts": {
+    "newName": "Module49608.d.ts",
+    "description": "External module wrapper",
+    "renamed": true,
+    "possibleNames": [
+      "Module49608"
+    ]
+  },
+  "module_4968.d.ts": {
+    "newName": "IteratorForEach.d.ts",
+    "description": "Iterator.prototype.forEach implementation",
+    "renamed": true,
+    "possibleNames": [
+      "IteratorForEach",
+      "Iterator"
+    ]
+  },
+  "module_49869.d.ts": {
+    "newName": "ToPrimitive2.d.ts",
+    "description": "Converts an object to a primitive value.",
+    "renamed": true,
+    "possibleNames": [
+      "ToPrimitive"
+    ]
+  },
+  "module_49954.d.ts": {
+    "newName": "ArrayLengthSetter.d.ts",
+    "description": "Array length setter utility with read-only protection",
+    "renamed": true,
+    "possibleNames": [
+      "ArrayLengthSetter"
+    ]
+  },
+  "module_50002.d.ts": {
+    "newName": "IteratorClose.d.ts",
+    "description": "Iterator cleanup utility for early iterator termination.",
+    "renamed": true,
+    "possibleNames": [
+      "IteratorClose",
+      "Iterator"
+    ]
+  },
+  "module_50179.d.ts": {
+    "newName": "EmptyConstructor.d.ts",
+    "description": "Object.create polyfill implementation",
+    "renamed": true,
+    "possibleNames": [
+      "EmptyConstructor",
+      "ObjectCreatePolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_50312.d.ts": {
+    "newName": "DOMElementCreator.d.ts",
+    "description": "DOM元素创建工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "DOMElementCreator"
+    ]
+  },
+  "module_51181.d.ts": {
+    "newName": "DeviceDetection.d.ts",
+    "description": "Device Detection Module for iOS Pebble Support",
+    "renamed": true,
+    "possibleNames": [
+      "DeviceDetection"
+    ]
+  },
+  "module_51455.d.ts": {
+    "newName": "ModuleReExports.d.ts",
+    "description": "Re-export module",
+    "renamed": true,
+    "possibleNames": [
+      "ModuleReExports"
+    ]
+  },
+  "module_51545.d.ts": {
+    "newName": "CORRECTPREVENTEXTENSIONS.d.ts",
+    "description": "Checks if Object.preventExtensions() correctly makes objects non-extensible.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_52530.d.ts": {
+    "newName": "IsCallable.d.ts",
+    "description": "Type guard to check if a value is a function.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_52884.d.ts": {
+    "newName": "SetSymmetricDifference.d.ts",
+    "description": "Set.prototype.symmetricDifference polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillConfig",
+      "SetSymmetricDifference",
+      "Polyfill"
+    ]
+  },
+  "module_53159.d.ts": {
+    "newName": "GetOwnPropertyNamesExternalModule.d.ts",
+    "description": "获取对象的所有属性名，包括不可枚举的属性。",
+    "renamed": true,
+    "possibleNames": [
+      "GetOwnPropertyNamesExternalModule"
+    ]
+  },
+  "module_53209.d.ts": {
+    "newName": "Polyfill5.d.ts",
+    "description": "Array.prototype.sort polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_53250.d.ts": {
+    "newName": "Module53250.d.ts",
+    "description": "Converts a value to an integer by removing the fractional part.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_53399.d.ts": {
+    "newName": "Iterator3.d.ts",
+    "description": "Iterator.prototype.some() 方法的类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_53482.d.ts": {
+    "newName": "PromiseConstructorDetection.d.ts",
+    "description": "Feature detection module for Promise constructor behavior.",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseConstructorDetection",
+      "IsConstructor"
+    ]
+  },
+  "module_53557.d.ts": {
+    "newName": "OpeningLine.d.ts",
+    "description": "Room and camera utilities for finding rooms and processing geometry",
+    "renamed": true,
+    "possibleNames": [
+      "OpeningLine",
+      "CameraInfo"
+    ]
+  },
+  "module_53735.d.ts": {
+    "newName": "PromiseFeatureDetection.d.ts",
+    "description": "Promise 特性检测模块",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseFeatureDetection",
+      "CONSTRUCTOR",
+      "REJECTION_EVENT",
+      "SUBCLASSING"
+    ]
+  },
+  "module_54046.d.ts": {
+    "newName": "MaterialManager.d.ts",
+    "description": "参数化吊顶材质管理器",
+    "renamed": true,
+    "possibleNames": [
+      "MaterialManager",
+      "MaterialData",
+      "CeilingModel",
+      "CeilingParameters",
+      "ProfileData"
+    ]
+  },
+  "module_54421.d.ts": {
+    "newName": "that.d.ts",
+    "description": "Property descriptor for an iterator's next method",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor",
+      "that",
+      "Iterator"
+    ]
+  },
+  "module_547.d.ts": {
+    "newName": "ObjectKeysPolyfill.d.ts",
+    "description": "Polyfill for Object.keys() method",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectKeysPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_55256.d.ts": {
+    "newName": "Module55256.d.ts",
+    "description": "Module: module_55256",
+    "renamed": true,
+    "possibleNames": [
+      "Module55256"
+    ]
+  },
+  "module_55287.d.ts": {
+    "newName": "ToStringTagSupport.d.ts",
+    "description": "Checks if the JavaScript environment supports Symbol.toStringTag",
+    "renamed": true,
+    "possibleNames": [
+      "ToStringTagSupport"
+    ]
+  },
+  "module_5538.d.ts": {
+    "newName": "Module5538.d.ts",
+    "description": "Validates that a value is not a regular expression.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_55570.d.ts": {
+    "newName": "SharedKeys.d.ts",
+    "description": "Shared key storage utility",
+    "renamed": true,
+    "possibleNames": [
+      "SharedKeys"
+    ]
+  },
+  "module_55949.d.ts": {
+    "newName": "Point2D2.d.ts",
+    "description": "表面几何信息元数据",
+    "renamed": true,
+    "possibleNames": [
+      "Point2D"
+    ]
+  },
+  "module_56276.d.ts": {
+    "newName": "ClassofModule.d.ts",
+    "description": "Gets the internal [[Class]] name of a value in a cross-environment compatible way.",
+    "renamed": true,
+    "possibleNames": [
+      "ClassofModule"
+    ]
+  },
+  "module_57983.d.ts": {
+    "newName": "tag.d.ts",
+    "description": "Checks if a value is a regular expression.",
+    "renamed": true,
+    "possibleNames": [
+      "tag"
+    ]
+  },
+  "module_58206.d.ts": {
+    "newName": "PolyfillInstallOptions.d.ts",
+    "description": "RegExp.prototype.exec polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillInstallOptions",
+      "Regexp",
+      "Polyfill"
+    ]
+  },
+  "module_58588.d.ts": {
+    "newName": "defineGlobalProperty.d.ts",
+    "description": "在全局对象上定义属性的工具函数",
+    "renamed": true,
+    "possibleNames": [
+      "defineGlobalProperty"
+    ]
+  },
+  "module_58869.d.ts": {
+    "newName": "isBrowserEnvironment.d.ts",
+    "description": "Detects if the code is running in a browser environment.",
+    "renamed": true,
+    "possibleNames": [
+      "isBrowserEnvironment",
+      "BrowserEnvironmentDetection"
+    ]
+  },
+  "module_5932.d.ts": {
+    "newName": "PAssemblyFilter.d.ts",
+    "description": "Assembly filter configuration module.",
+    "renamed": true,
+    "possibleNames": [
+      "PAssemblyFilter",
+      "AssemblyFilter"
+    ]
+  },
+  "module_59468.d.ts": {
+    "newName": "Iterator4.d.ts",
+    "description": "Iterator wrapper interface that binds an iterator with its next method.",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_59573.d.ts": {
+    "newName": "ExternalModule59573.d.ts",
+    "description": "External module reference for module 59573",
+    "renamed": true,
+    "possibleNames": [
+      "ExternalModule59573"
+    ]
+  },
+  "module_60032.d.ts": {
+    "newName": "CeilingLightComputer2.d.ts",
+    "description": "灯光计算器类",
+    "renamed": true,
+    "possibleNames": [
+      "CeilingLightComputer"
+    ]
+  },
+  "module_60056.d.ts": {
+    "newName": "Module60056.d.ts",
+    "description": "Safely converts a value to its string representation.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_60241.d.ts": {
+    "newName": "IsDenoEnvironment.d.ts",
+    "description": "Checks if the current runtime environment is Deno.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_60537.d.ts": {
+    "newName": "ArrayPushPolyfill.d.ts",
+    "description": "Array.prototype.push polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillConfig",
+      "ArrayPushPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_60715.d.ts": {
+    "newName": "DetectNamedCaptureGroupBug.d.ts",
+    "description": "检测正则表达式命名捕获组功能是否存在Bug",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_61227.d.ts": {
+    "newName": "IteratorPolyfillPolyfill.d.ts",
+    "description": "Iterator Constructor Polyfill Module",
+    "renamed": true,
+    "possibleNames": [
+      "IteratorPolyfill",
+      "Iterator"
+    ]
+  },
+  "module_61259.d.ts": {
+    "newName": "FunctionBindUtility.d.ts",
+    "description": "Utility module for function binding and invocation.",
+    "renamed": true,
+    "possibleNames": [
+      "FunctionBindUtility"
+    ]
+  },
+  "module_61392.d.ts": {
+    "newName": "SetIntersectionPolyfill.d.ts",
+    "description": "Set.prototype.intersection polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "SetIntersectionPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_61656.d.ts": {
+    "newName": "Util12.d.ts",
+    "description": "Checks if a value is null or undefined.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_61748.d.ts": {
+    "newName": "Util13.d.ts",
+    "description": "Utility for capturing and setting error stack traces in a cross-environment manner.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_62016.d.ts": {
+    "newName": "Module62016.d.ts",
+    "description": "Validates that an index value does not exceed JavaScript's maximum safe integer.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_62073.d.ts": {
+    "newName": "registerPolyfill.d.ts",
+    "description": "Set.prototype.isDisjointFrom polyfill registration module",
+    "renamed": true,
+    "possibleNames": [
+      "registerPolyfill",
+      "isDisjointFrom",
+      "hasNativeImplementation",
+      "PolyfillRegistrationConfig",
+      "Polyfill"
+    ]
+  },
+  "module_62412.d.ts": {
+    "newName": "PointOnEdgeResult.d.ts",
+    "description": "半边数据结构中的循环(Loop)类",
+    "renamed": true,
+    "possibleNames": [
+      "PointOnEdgeResult",
+      "Point",
+      "Loop",
+      "LoopFinder",
+      "Vertex",
+      "Arrangement"
+    ]
+  },
+  "module_62592.d.ts": {
+    "newName": "PMolding_IO.d.ts",
+    "description": "PMolding 模块类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "PMolding_IO",
+      "PMolding",
+      "PathPoint",
+      "ProductMetadata",
+      "PMoldingSerializedData"
+    ]
+  },
+  "module_62709.d.ts": {
+    "newName": "isLoopValid.d.ts",
+    "description": "几何判断工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "isLoopValid",
+      "isLoopIntersectLoop",
+      "isEleBoxIntersectRoom"
+    ]
+  },
+  "module_63267.d.ts": {
+    "newName": "Polyfill6.d.ts",
+    "description": "String.prototype.replace polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_63675.d.ts": {
+    "newName": "Module63675.d.ts",
+    "description": "Validates that the actual argument count meets the minimum required count.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_6368.d.ts": {
+    "newName": "PrototypeChecker.d.ts",
+    "description": "Polyfill or wrapper for Object.prototype.isPrototypeOf method.",
+    "renamed": true,
+    "possibleNames": [
+      "PrototypeChecker",
+      "Polyfill"
+    ]
+  },
+  "module_63855.d.ts": {
+    "newName": "ObjectDefinePropertySupport.d.ts",
+    "description": "Checks if Object.defineProperty works correctly with getter functions.",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectDefinePropertySupport"
+    ]
+  },
+  "module_64239.d.ts": {
+    "newName": "Module64239.d.ts",
+    "description": "Creates or defines a property on an object.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_646235.d.ts": {
+    "newName": "RenderOptions.d.ts",
+    "description": "HSRender - 渲染引擎模块",
+    "renamed": true,
+    "possibleNames": [
+      "RenderOptions",
+      "RenderContext",
+      "HSRender"
+    ]
+  },
+  "module_65076.d.ts": {
+    "newName": "TypeValidator.d.ts",
+    "description": "验证对象类型是否正确",
+    "renamed": true,
+    "possibleNames": [
+      "TypeValidator"
+    ]
+  },
+  "module_65144.d.ts": {
+    "newName": "CoreJSShared.d.ts",
+    "description": "Core-JS shared storage module",
+    "renamed": true,
+    "possibleNames": [
+      "CoreJSShared"
+    ]
+  },
+  "module_65468.d.ts": {
+    "newName": "SetLike.d.ts",
+    "description": "Set operation: checks if current set is disjoint from another set",
+    "renamed": true,
+    "possibleNames": [
+      "SetLike",
+      "IteratorResult",
+      "Iterator"
+    ]
+  },
+  "module_662105.d.ts": {
+    "newName": "HSCatalogInstance.d.ts",
+    "description": "HSCatalog Module Type Definitions",
+    "renamed": true,
+    "possibleNames": [
+      "HSCatalogInstance",
+      "HSCatalogConfig",
+      "HSCatalogItem"
+    ]
+  },
+  "module_66315.d.ts": {
+    "newName": "_esModule.d.ts",
+    "description": "ES Module marker for TypeScript declaration file.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_66484.d.ts": {
+    "newName": "PropertyDescriptorUtil.d.ts",
+    "description": "Object property definition utilities",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor"
+    ]
+  },
+  "module_66547.d.ts": {
+    "newName": "ObjectGetOwnPropertyNames.d.ts",
+    "description": "Polyfill for Object.getOwnPropertyNames",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectGetOwnPropertyNames",
+      "Polyfill"
+    ]
+  },
+  "module_670669.d.ts": {
+    "newName": "HSCore.d.ts",
+    "description": "HSCore Module",
+    "renamed": true,
+    "possibleNames": [
+      "HSCore",
+      "constructor"
+    ]
+  },
+  "module_67171.d.ts": {
+    "newName": "Module67171.d.ts",
+    "description": "Module: module_67171",
+    "renamed": true,
+    "possibleNames": [
+      "Module67171"
+    ]
+  },
+  "module_67711.d.ts": {
+    "newName": "NativeWeakMapDetection.d.ts",
+    "description": "Native WeakMap Detection Module",
+    "renamed": true,
+    "possibleNames": [
+      "NativeWeakMapDetection"
+    ]
+  },
+  "module_67977.d.ts": {
+    "newName": "BindSupport.d.ts",
+    "description": "Detects if Function.prototype.bind is properly implemented.",
+    "renamed": true,
+    "possibleNames": [
+      "BindSupport"
+    ]
+  },
+  "module_67997.d.ts": {
+    "newName": "PModelTypes.d.ts",
+    "description": "PModel module - Core model system for 3D entities with positioning, rotation, and material properties",
+    "renamed": true,
+    "possibleNames": [
+      "PModelTypes",
+      "PModelValueProperties",
+      "SerializationContext",
+      "PModelDump",
+      "StateField",
+      "PModel_IO",
+      "PModel",
+      "Rotation"
+    ]
+  },
+  "module_68320.d.ts": {
+    "newName": "getNewBufferGeometry.d.ts",
+    "description": "Geometry utility module for UV transformation and coordinate system calculation",
+    "renamed": true,
+    "possibleNames": [
+      "getNewBufferGeometry",
+      "getNewBufferGeometryWithUvTransformForBrick",
+      "getNewBufferGeometryWithUvTransform",
+      "calcCoordinateSystem",
+      "Point2D",
+      "PavingOption",
+      "Transform"
+    ]
+  },
+  "module_68396.d.ts": {
+    "newName": "PolyfillConfigPolyfill.d.ts",
+    "description": "Array.prototype.includes polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillConfig",
+      "Polyfill"
+    ]
+  },
+  "module_68614.d.ts": {
+    "newName": "PromiseCapability2.d.ts",
+    "description": "Promise capability record that exposes resolve and reject functions",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseCapability"
+    ]
+  },
+  "module_68801.d.ts": {
+    "newName": "Set.d.ts",
+    "description": "Set utility module providing wrapped and direct access to native Set methods.",
+    "renamed": true,
+    "possibleNames": [
+      "Set",
+      "add",
+      "has",
+      "remove",
+      "proto",
+      "SetUtilities"
+    ]
+  },
+  "module_69278.d.ts": {
+    "newName": "BROKEN_CARET.d.ts",
+    "description": "RegExp 'y' (sticky) flag compatibility detection module",
+    "renamed": true,
+    "possibleNames": [
+      "BROKEN_CARET",
+      "MISSED_STICKY",
+      "UNSUPPORTED_Y",
+      "RegExpStickyCompatibility"
+    ]
+  },
+  "module_69448.d.ts": {
+    "newName": "MappedIterator.d.ts",
+    "description": "Iterator map function type declaration",
+    "renamed": true,
+    "possibleNames": [
+      "that",
+      "MappedIterator",
+      "Iterator"
+    ]
+  },
+  "module_69623.d.ts": {
+    "newName": "Path.d.ts",
+    "description": "Point3D represents a point in 3D space",
+    "renamed": true,
+    "possibleNames": [
+      "Point3D",
+      "Point2D",
+      "Path",
+      "Paths",
+      "ViewResult",
+      "ClipOperation",
+      "PAssemblyPath",
+      "name",
+      "PAssembly",
+      "PExtruding",
+      "PBox",
+      "PContent",
+      "PMolding",
+      "ContentType",
+      "Point"
+    ]
+  },
+  "module_69650.d.ts": {
+    "newName": "Module69650.d.ts",
+    "description": "Type guard to check if a value is a symbol.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_6975.d.ts": {
+    "newName": "Iterate.d.ts",
+    "description": "Iteration result wrapper for controlling iteration flow.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_70168.d.ts": {
+    "newName": "set.d.ts",
+    "description": "Cross-platform timer implementation module",
+    "renamed": true,
+    "possibleNames": [
+      "set",
+      "clear"
+    ]
+  },
+  "module_70537.d.ts": {
+    "newName": "IteratorHelper.d.ts",
+    "description": "Iterator Helper Factory Module",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_70546.d.ts": {
+    "newName": "Queue.d.ts",
+    "description": "A simple queue data structure implementing FIFO (First In, First Out) behavior.",
+    "renamed": true,
+    "possibleNames": [
+      "Queue"
+    ]
+  },
+  "module_70598.d.ts": {
+    "newName": "Module70598.d.ts",
+    "description": "Module: module_70598",
+    "renamed": true,
+    "possibleNames": [
+      "Module70598"
+    ]
+  },
+  "module_70665.d.ts": {
+    "newName": "CabinetMoldingEnum.d.ts",
+    "description": "Customized cabinet system type definitions",
+    "renamed": true,
+    "possibleNames": [
+      "CabinetMoldingEnum",
+      "CustomizedCabinetPartEnum",
+      "CustomizedCabinetSurfaceTypeEnum",
+      "CustomizedCabinetComponentEnum",
+      "CustomizedCabinetHandleOrientation"
+    ]
+  },
+  "module_71154.d.ts": {
+    "newName": "PropertyCreator.d.ts",
+    "description": "Creates a property on an object with the specified value.",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyCreator"
+    ]
+  },
+  "module_71763.d.ts": {
+    "newName": "ConstructorValidator.d.ts",
+    "description": "验证值是否为构造函数的工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "ConstructorValidator"
+    ]
+  },
+  "module_71881.d.ts": {
+    "newName": "MergeSort.d.ts",
+    "description": "归并排序实现模块",
+    "renamed": true,
+    "possibleNames": [
+      "MergeSort"
+    ]
+  },
+  "module_7263.d.ts": {
+    "newName": "functionBinder.d.ts",
+    "description": "Function binding utility that binds a function to a specific context.",
+    "renamed": true,
+    "possibleNames": [
+      "functionBinder",
+      "FunctionBinder"
+    ]
+  },
+  "module_72839.d.ts": {
+    "newName": "ValidationUtilities.d.ts",
+    "description": "Validates that a collection contains an element.",
+    "renamed": true,
+    "possibleNames": [
+      "ValidationUtilities"
+    ]
+  },
+  "module_73016.d.ts": {
+    "newName": "BrowserPropertyDescriptorSupport.d.ts",
+    "description": "Detects if the environment supports Object.defineProperty on DOM elements.",
+    "renamed": true,
+    "possibleNames": [
+      "BrowserPropertyDescriptorSupport"
+    ]
+  },
+  "module_73115.d.ts": {
+    "newName": "Polyfill7.d.ts",
+    "description": "Object.is Polyfill",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_73133.d.ts": {
+    "newName": "Module73133.d.ts",
+    "description": "检测特定 Set 方法是否可用且正常工作",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_73343.d.ts": {
+    "newName": "IteratorMethods.d.ts",
+    "description": "迭代器键类型：表示迭代器的三种访问模式",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_73400.d.ts": {
+    "newName": "PromiseConstructorPolyfill.d.ts",
+    "description": "Promise.race polyfill implementation",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseConstructor",
+      "Polyfill"
+    ]
+  },
+  "module_7380.d.ts": {
+    "newName": "ArrayUnscopables.d.ts",
+    "description": "Adds a property name to the Array.prototype[Symbol.unscopables] object.",
+    "renamed": true,
+    "possibleNames": [
+      "ArrayUnscopables",
+      "Unscopables"
+    ]
+  },
+  "module_74774.d.ts": {
+    "newName": "PropertyIsEnumerablePolyfill.d.ts",
+    "description": "Polyfill for propertyIsEnumerable that handles edge cases in older environments.",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyIsEnumerablePolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_74823.d.ts": {
+    "newName": "NumberValueOf.d.ts",
+    "description": "Number valueOf utility module",
+    "renamed": true,
+    "possibleNames": [
+      "NumberValueOf"
+    ]
+  },
+  "module_74832.d.ts": {
+    "newName": "Iterator5.d.ts",
+    "description": "Gets the iterator method for a given value.",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_74894.d.ts": {
+    "newName": "PromiseCapabilityFactory.d.ts",
+    "description": "Promise.all polyfill/implementation",
+    "renamed": true,
+    "possibleNames": [
+      "PromiseCapability",
+      "PromiseCapabilityFactory",
+      "Polyfill"
+    ]
+  },
+  "module_75673.d.ts": {
+    "newName": "CollectionSet2.d.ts",
+    "description": "Creates a Set from an iterable collection by iterating over its elements.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_75762.d.ts": {
+    "newName": "ArraySpeciesCreate.d.ts",
+    "description": "Array species constructor utility",
+    "renamed": true,
+    "possibleNames": [
+      "ArraySpeciesCreate",
+      "IsConstructor"
+    ]
+  },
+  "module_76028.d.ts": {
+    "newName": "MicrotaskQueue.d.ts",
+    "description": "Microtask queue implementation",
+    "renamed": true,
+    "possibleNames": [
+      "MicrotaskQueue"
+    ]
+  },
+  "module_76178.d.ts": {
+    "newName": "LineSeg.d.ts",
+    "description": "几何工具模块 - 线段、直线计算与路径偏移",
+    "renamed": true,
+    "possibleNames": [
+      "LineSeg",
+      "Line",
+      "GeometryUtils"
+    ]
+  },
+  "module_76305.d.ts": {
+    "newName": "start.d.ts",
+    "description": "String whitespace trimming utilities",
+    "renamed": true,
+    "possibleNames": [
+      "start",
+      "end",
+      "trim",
+      "WhitespaceCharacters"
+    ]
+  },
+  "module_77.d.ts": {
+    "newName": "CsgBoolean.d.ts",
+    "description": "Mesh data structure containing geometry information",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_77064.d.ts": {
+    "newName": "Util14.d.ts",
+    "description": "Validates that a value is an object (not a primitive).",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_7712.d.ts": {
+    "newName": "SetPrototypeOf.d.ts",
+    "description": "Polyfill module for Object.setPrototypeOf",
+    "renamed": true,
+    "possibleNames": [
+      "SetPrototypeOf",
+      "Polyfill"
+    ]
+  },
+  "module_77805.d.ts": {
+    "newName": "install.d.ts",
+    "description": "Iterator.prototype.filter 方法的类型声明",
+    "renamed": true,
+    "possibleNames": [
+      "install",
+      "Iterator"
+    ]
+  },
+  "module_78893.d.ts": {
+    "newName": "BoundingBox.d.ts",
+    "description": "参数化吊顶类型枚举",
+    "renamed": true,
+    "possibleNames": [
+      "Point2D",
+      "BoundingBox",
+      "MaterialData",
+      "ProfileData",
+      "CascadeParameters",
+      "GridCeilingParameters",
+      "RoofParameters",
+      "CeilingParameters",
+      "WebCADDocument",
+      "ModelingData",
+      "Position3D",
+      "CeilingMold",
+      "ParametricCeiling"
+    ]
+  },
+  "module_78918.d.ts": {
+    "newName": "codeAt.d.ts",
+    "description": "String character and code point utilities",
+    "renamed": true,
+    "possibleNames": [
+      "codeAt",
+      "charAt",
+      "Point"
+    ]
+  },
+  "module_79169.d.ts": {
+    "newName": "GeometryClipperUtil.d.ts",
+    "description": "几何图形裁剪和多边形操作工具库",
+    "renamed": true,
+    "possibleNames": [
+      "GeometryClipperUtil",
+      "GeometryClipper",
+      "Point2D",
+      "PolygonBound"
+    ]
+  },
+  "module_79227.d.ts": {
+    "newName": "GetOwnPropertyDescriptor.d.ts",
+    "description": "导出全局对象（浏览器环境为 window，Node 环境为 global）",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_79248.d.ts": {
+    "newName": "Module79248.d.ts",
+    "description": "Creates a new typed array instance with the specified length.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_79467.d.ts": {
+    "newName": "reduce.d.ts",
+    "description": "Array reduce implementation utilities",
+    "renamed": true,
+    "possibleNames": [
+      "reduce"
+    ]
+  },
+  "module_79723.d.ts": {
+    "newName": "RetryOptions.d.ts",
+    "description": "Utility module for retrying asynchronous operations",
+    "renamed": true,
+    "possibleNames": [
+      "RetryOptions",
+      "Logger",
+      "AsyncFunction",
+      "RetryUtil"
+    ]
+  },
+  "module_79900.d.ts": {
+    "newName": "CeilingLightCalculator.d.ts",
+    "description": "Module: module_79900",
+    "renamed": true,
+    "possibleNames": [
+      "CeilingLightCalculator",
+      "const",
+      "throw"
+    ]
+  },
+  "module_79901.d.ts": {
+    "newName": "Point.d.ts",
+    "description": "Collision detection module providing polygon clipping, offsetting, and simplification utilities.",
+    "renamed": true,
+    "possibleNames": [
+      "Point",
+      "Polygon",
+      "ExPolygon",
+      "ClipPolygonOptions",
+      "OffsetPolygonOptions",
+      "Collision",
+      "Point2D"
+    ]
+  },
+  "module_79957.d.ts": {
+    "newName": "SpotLightComputer.d.ts",
+    "description": "射灯内容光源计算器",
+    "renamed": true,
+    "possibleNames": [
+      "Point2D",
+      "SpotLightComputer"
+    ]
+  },
+  "module_80601.d.ts": {
+    "newName": "WindowHole_IO.d.ts",
+    "description": "WindowHole module - Defines parametric window opening models for walls",
+    "renamed": true,
+    "possibleNames": [
+      "WindowHole_IO",
+      "WindowHole",
+      "ProfileConfig"
+    ]
+  },
+  "module_80880.d.ts": {
+    "newName": "IS_PURE.d.ts",
+    "description": "Shared store management module",
+    "renamed": true,
+    "possibleNames": [
+      "IS_PURE",
+      "sharedStore",
+      "versions"
+    ]
+  },
+  "module_81258.d.ts": {
+    "newName": "Iterator6.d.ts",
+    "description": "Executes an iterator callback function with error handling.",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_8130.d.ts": {
+    "newName": "Util15.d.ts",
+    "description": "Color temperature to RGBA color mapping utilities",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_81455.d.ts": {
+    "newName": "CeilingLightComputer3.d.ts",
+    "description": "灯光配置接口",
+    "renamed": true,
+    "possibleNames": [
+      "CeilingLightComputer"
+    ]
+  },
+  "module_81482.d.ts": {
+    "newName": "GlobalObject.d.ts",
+    "description": "Global object detection utility",
+    "renamed": true,
+    "possibleNames": [
+      "GlobalObject"
+    ]
+  },
+  "module_81711.d.ts": {
+    "newName": "ExternalModule81711.d.ts",
+    "description": "External module re-export",
+    "renamed": true,
+    "possibleNames": [
+      "ExternalModule81711"
+    ]
+  },
+  "module_81741.d.ts": {
+    "newName": "Module81741.d.ts",
+    "description": "HSConstants模块类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "Module81741"
+    ]
+  },
+  "module_81884.d.ts": {
+    "newName": "JSONDecycle.d.ts",
+    "description": "Converts a JavaScript object containing circular references into a JSON-safe object",
+    "renamed": true,
+    "possibleNames": [
+      "JSONDecycle",
+      "JSONRetrocycle"
+    ]
+  },
+  "module_81945.d.ts": {
+    "newName": "IsDModel.d.ts",
+    "description": "模型工具类型定义",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_82711.d.ts": {
+    "newName": "ProtoObject.d.ts",
+    "description": "获取对象的size属性值的辅助函数",
+    "renamed": true,
+    "possibleNames": [
+      "ProtoObject",
+      "SizeGetter"
+    ]
+  },
+  "module_82745.d.ts": {
+    "newName": "Module82745.d.ts",
+    "description": "Converts a relative index to an absolute index within a given length.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_82843.d.ts": {
+    "newName": "SetSymmetricDifference2.d.ts",
+    "description": "Set symmetric difference operation",
+    "renamed": true,
+    "possibleNames": [
+      "SetSymmetricDifference"
+    ]
+  },
+  "module_83246.d.ts": {
+    "newName": "StringConversion.d.ts",
+    "description": "Converts a value to a primitive string type.",
+    "renamed": true,
+    "possibleNames": [
+      "StringConversion"
+    ]
+  },
+  "module_83434.d.ts": {
+    "newName": "PropertyDescriptorPolyfill.d.ts",
+    "description": "Polyfill for Object.assign that handles edge cases with property descriptors",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyDescriptor"
+    ]
+  },
+  "module_83448.d.ts": {
+    "newName": "Util16.d.ts",
+    "description": "Error logging utility that safely handles console.error calls",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_83630.d.ts": {
+    "newName": "SetUnionPolyfill.d.ts",
+    "description": "Set.prototype.union polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillConfig",
+      "SetUnionPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_84100.d.ts": {
+    "newName": "SetRecord.d.ts",
+    "description": "Set-like record adapter module.",
+    "renamed": true,
+    "possibleNames": [
+      "SetRecord"
+    ]
+  },
+  "module_84236.d.ts": {
+    "newName": "Module84236.d.ts",
+    "description": "Re-export module that forwards all exports from another module.",
+    "renamed": true,
+    "possibleNames": [
+      "Module84236"
+    ]
+  },
+  "module_85311.d.ts": {
+    "newName": "RegExpFlagsGetter.d.ts",
+    "description": "RegExp flags getter utility",
+    "renamed": true,
+    "possibleNames": [
+      "RegExpFlagsGetter"
+    ]
+  },
+  "module_85383.d.ts": {
+    "newName": "PolyfillRegExp.d.ts",
+    "description": "RegExp polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "PolyfillRegExp",
+      "Polyfill"
+    ]
+  },
+  "module_8569.d.ts": {
+    "newName": "ReExport20198.d.ts",
+    "description": "Re-export module",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_85828.d.ts": {
+    "newName": "Transaction.d.ts",
+    "description": "Transaction utility for managing entity state persistence and restoration.",
+    "renamed": true,
+    "possibleNames": [
+      "Transaction",
+      "PointData"
+    ]
+  },
+  "module_86352.d.ts": {
+    "newName": "Iterator7.d.ts",
+    "description": "Iterator prototype extension - find method",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_86511.d.ts": {
+    "newName": "GetSubstitution.d.ts",
+    "description": "获取字符串的未绑定方法",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_86753.d.ts": {
+    "newName": "FlatLightComputer.d.ts",
+    "description": "灯光尺寸配置",
+    "renamed": true,
+    "possibleNames": [
+      "FlatLightComputer"
+    ]
+  },
+  "module_86761.d.ts": {
+    "newName": "Polyfill13.d.ts",
+    "description": "Type-safe array detection utility.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_86812.d.ts": {
+    "newName": "InternalState.d.ts",
+    "description": "Internal state management module for JavaScript objects.",
+    "renamed": true,
+    "possibleNames": [
+      "InternalState"
+    ]
+  },
+  "module_87067.d.ts": {
+    "newName": "LightCalculator.d.ts",
+    "description": "Light position configuration",
+    "renamed": true,
+    "possibleNames": [
+      "CeilingLightComputer",
+      "LightCalculator"
+    ]
+  },
+  "module_87524.d.ts": {
+    "newName": "Module87524.d.ts",
+    "description": "Checks if a function throws an error when executed.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_87836.d.ts": {
+    "newName": "includes.d.ts",
+    "description": "Array search utilities module",
+    "renamed": true,
+    "possibleNames": [
+      "includes",
+      "indexOf"
+    ]
+  },
+  "module_8812.d.ts": {
+    "newName": "ObjectGetPrototypeOf.d.ts",
+    "description": "获取对象原型的跨浏览器兼容实现",
+    "renamed": true,
+    "possibleNames": [
+      "ObjectGetPrototypeOf"
+    ]
+  },
+  "module_88318.d.ts": {
+    "newName": "CheckRegExpDotAllSupport.d.ts",
+    "description": "检测 RegExp 的 dotAll 标志('s')是否被正确支持",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_88442.d.ts": {
+    "newName": "ReflectOwnKeys.d.ts",
+    "description": "Polyfill for Reflect.ownKeys",
+    "renamed": true,
+    "possibleNames": [
+      "ReflectOwnKeys",
+      "Polyfill"
+    ]
+  },
+  "module_89090.d.ts": {
+    "newName": "Polyfill8.d.ts",
+    "description": "String.prototype.includes polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_89675.d.ts": {
+    "newName": "Process.d.ts",
+    "description": "V8 JavaScript 引擎版本检测模块",
+    "renamed": true,
+    "possibleNames": [
+      "Process",
+      "V8VersionDetector"
+    ]
+  },
+  "module_8985.d.ts": {
+    "newName": "EnhancedWeakMap.d.ts",
+    "description": "WeakMap polyfill module with support for frozen and sealed objects",
+    "renamed": true,
+    "possibleNames": [
+      "EnhancedWeakMap",
+      "Polyfill"
+    ]
+  },
+  "module_899.d.ts": {
+    "newName": "PrototypeValidator.d.ts",
+    "description": "Validates and returns a value that can be safely used as a prototype.",
+    "renamed": true,
+    "possibleNames": [
+      "PrototypeValidator"
+    ]
+  },
+  "module_90223.d.ts": {
+    "newName": "ArrayBufferExtensibilityCheck.d.ts",
+    "description": "Polyfill detection module for ArrayBuffer extensibility.",
+    "renamed": true,
+    "possibleNames": [
+      "ArrayBufferExtensibilityCheck",
+      "Polyfill"
+    ]
+  },
+  "module_90252.d.ts": {
+    "newName": "BaseLight.d.ts",
+    "description": "顶部灯光计算器",
+    "renamed": true,
+    "possibleNames": [
+      "Position3D",
+      "CeilingLightComputer",
+      "BaseLight"
+    ]
+  },
+  "module_90762.d.ts": {
+    "newName": "Util17.d.ts",
+    "description": "Array slice utility function",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_9087.d.ts": {
+    "newName": "PropertyAccessor.d.ts",
+    "description": "从对象中获取指定属性的值，如果该值为 null 或 undefined，则返回 undefined，",
+    "renamed": true,
+    "possibleNames": [
+      "PropertyAccessor"
+    ]
+  },
+  "module_91006.d.ts": {
+    "newName": "EmptyModule91006.d.ts",
+    "description": "Type definitions for module 91006",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_91334.d.ts": {
+    "newName": "SetDifferencePolyfill.d.ts",
+    "description": "Set.prototype.difference polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "SetDifference",
+      "Polyfill"
+    ]
+  },
+  "module_9169.d.ts": {
+    "newName": "IteratorProtocolChecker.d.ts",
+    "description": "检查给定的可迭代对象是否正确实现了迭代器协议",
+    "renamed": true,
+    "possibleNames": [
+      "IteratorProtocolChecker"
+    ]
+  },
+  "module_92141.d.ts": {
+    "newName": "OpeningLightComputer.d.ts",
+    "description": "Light configuration for room openings (doors, windows, holes)",
+    "renamed": true,
+    "possibleNames": [
+      "OpeningLightComputer",
+      "LightCalculator"
+    ]
+  },
+  "module_92726.d.ts": {
+    "newName": "Module92726.d.ts",
+    "description": "ES Module marker for TypeScript/Webpack compatibility.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_92826.d.ts": {
+    "newName": "ModuleExports.d.ts",
+    "description": "Module exports for module_92826",
+    "renamed": true,
+    "possibleNames": [
+      "ModuleExports"
+    ]
+  },
+  "module_93222.d.ts": {
+    "newName": "Module93222.d.ts",
+    "description": "为构造函数添加 Symbol.species 访问器的工具模块",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_93596.d.ts": {
+    "newName": "Point3D2.d.ts",
+    "description": "坐标转换工具类",
+    "renamed": true,
+    "possibleNames": [
+      "Point3D"
+    ]
+  },
+  "module_9418.d.ts": {
+    "newName": "name.d.ts",
+    "description": "RegExp.prototype.dotAll polyfill module",
+    "renamed": true,
+    "possibleNames": [
+      "name",
+      "Polyfill"
+    ]
+  },
+  "module_94351.d.ts": {
+    "newName": "InspectSource.d.ts",
+    "description": "Inspect source code of a function.",
+    "renamed": true,
+    "possibleNames": [
+      "InspectSource"
+    ]
+  },
+  "module_94448.d.ts": {
+    "newName": "Iterator8.d.ts",
+    "description": "Iterator.prototype.every polyfill",
+    "renamed": true,
+    "possibleNames": [
+      "Iterator"
+    ]
+  },
+  "module_94743.d.ts": {
+    "newName": "Polyfill14.d.ts",
+    "description": "Validates that a value is a function and returns it, or throws a TypeError.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_95648.d.ts": {
+    "newName": "Polyfill9.d.ts",
+    "description": "Math.trunc polyfill implementation",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_95704.d.ts": {
+    "newName": "Webos.d.ts",
+    "description": "webOS Browser Detection Module",
+    "renamed": true,
+    "possibleNames": [
+      "Webos"
+    ]
+  },
+  "module_95888.d.ts": {
+    "newName": "FunctionApply.d.ts",
+    "description": "Cross-environment polyfill for Function.prototype.apply",
+    "renamed": true,
+    "possibleNames": [
+      "FunctionApply",
+      "Polyfill"
+    ]
+  },
+  "module_96028.d.ts": {
+    "newName": "isArrayIterator.d.ts",
+    "description": "Checks if a value is an iterable array-like object.",
+    "renamed": true,
+    "possibleNames": [
+      "isArrayIterator"
+    ]
+  },
+  "module_96346.d.ts": {
+    "newName": "ToIndexedObject.d.ts",
+    "description": "Converts a value to an object, with special handling for strings.",
+    "renamed": true,
+    "possibleNames": [
+      "ToIndexedObject",
+      "ClassifyType",
+      "FailsCheck",
+      "StringSplit",
+      "ModuleDependencies",
+      "ObjectConversion"
+    ]
+  },
+  "module_96714.d.ts": {
+    "newName": "ReExport57678.d.ts",
+    "description": "Re-export module that aggregates and exposes all exports from another module.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_97104.d.ts": {
+    "newName": "Module97104.d.ts",
+    "description": "Type definitions for module_97104",
+    "renamed": true,
+    "possibleNames": [
+      "Module97104"
+    ]
+  },
+  "module_97303.d.ts": {
+    "newName": "ClassOf.d.ts",
+    "description": "获取值的内部类型标签字符串",
+    "renamed": true,
+    "possibleNames": [
+      "ClassOf"
+    ]
+  },
+  "module_97345.d.ts": {
+    "newName": "EulerOperations.d.ts",
+    "description": "Euler operations for topological modeling.",
+    "renamed": true,
+    "possibleNames": [
+      "EulerOperations",
+      "Point3D",
+      "Vertex",
+      "Edge",
+      "CoEdge",
+      "Loop",
+      "Face"
+    ]
+  },
+  "module_97691.d.ts": {
+    "newName": "IsSubsetOf.d.ts",
+    "description": "Checks if the current set is a subset of another set.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_98126.d.ts": {
+    "newName": "hasNativeSymbolSupport.d.ts",
+    "description": "Detects native Symbol support in the JavaScript environment.",
+    "renamed": true,
+    "possibleNames": [
+      "hasNativeSymbolSupport",
+      "SymbolDetection"
+    ]
+  },
+  "module_98320.d.ts": {
+    "newName": "RedefineFunctionOptions.d.ts",
+    "description": "Function name redefining utility module",
+    "renamed": true,
+    "possibleNames": [
+      "RedefineFunctionOptions",
+      "redefineFunction",
+      "functionToString"
+    ]
+  },
+  "module_98324.d.ts": {
+    "newName": "HasOwn.d.ts",
+    "description": "Polyfill for Object.hasOwn method",
+    "renamed": true,
+    "possibleNames": [
+      "HasOwn",
+      "Polyfill"
+    ]
+  },
+  "module_98745.d.ts": {
+    "newName": "Module98745.d.ts",
+    "description": "Converts a value to a valid length for array-like operations.",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_99622.d.ts": {
+    "newName": "IsConstructorFactory.d.ts",
+    "description": "Weak collection constructor factory module",
+    "renamed": true,
+    "possibleNames": [
+      "IsConstructor"
+    ]
+  },
+  "module_99684.d.ts": {
+    "newName": "BoundUtil.d.ts",
+    "description": "边界计算工具模块",
+    "renamed": true,
+    "possibleNames": [
+      "BoundUtil",
+      "Point2D",
+      "Point3D"
+    ]
+  },
+  "module_99868.d.ts": {
+    "newName": "patchedExec.d.ts",
+    "description": "RegExp.prototype.exec polyfill/patch",
+    "renamed": true,
+    "possibleNames": [
+      "patchedExec",
+      "RegExpExecPolyfill",
+      "Polyfill"
+    ]
+  },
+  "module_add.d.ts": {
+    "newName": "Add.d.ts",
+    "description": "Adds an item to the end of a linked list structure.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_all.d.ts": {
+    "newName": "Polyfill10.d.ts",
+    "description": "Promise.all polyfill/implementation",
+    "renamed": true,
+    "possibleNames": [
+      "Polyfill"
+    ]
+  },
+  "module_at.d.ts": {
+    "newName": "ArrayAt.d.ts",
+    "description": "Array-like `at` method implementation",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_delete.d.ts": {
+    "newName": "FrozenStorage.d.ts",
+    "description": "冻结对象存储接口",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_enforce.d.ts": {
+    "newName": "Enforce.d.ts",
+    "description": "Module: module_enforce",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_f.d.ts": {
+    "newName": "ModuleF.d.ts",
+    "description": "Module F",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_get.d.ts": {
+    "newName": "ObjectGet.d.ts",
+    "description": "Module: module_get",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_getterfor.d.ts": {
+    "newName": "TypeError.d.ts",
+    "description": "内部状态存储接口",
+    "renamed": true,
+    "possibleNames": [
+      "TypeError"
+    ]
+  },
+  "module_has.d.ts": {
+    "newName": "CollectionHas.d.ts",
+    "description": "Checks if a key exists in the collection.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_keys.d.ts": {
+    "newName": "ModuleKeys.d.ts",
+    "description": "Iterator implementation that immediately returns done state.",
+    "renamed": true,
+    "possibleNames": [
+      "ModuleKeys",
+      "Iterator"
+    ]
+  },
+  "module_run.d.ts": {
+    "newName": "TaskRunner.d.ts",
+    "description": "Module: module_run",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_set.d.ts": {
+    "newName": "InternalState2.d.ts",
+    "description": "Module: module_set",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_top.d.ts": {
+    "newName": "GeometryFilter.d.ts",
+    "description": "几何数据元素接口",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_value.d.ts": {
+    "newName": "ValueExtractor.d.ts",
+    "description": "Performs polygon tessellation using GLU tessellation API.",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_10501.ts": {
+    "newName": "IsConstructor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_10501.d.ts"
+  },
+  "module_10973.ts": {
+    "newName": "Position.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_10973.d.ts"
+  },
+  "module_10993.ts": {
+    "newName": "Iterator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_10993.d.ts"
+  },
+  "module_11256.ts": {
+    "newName": "BarrelExport44292.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_11667.ts": {
+    "newName": "WhitespaceCharacters.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_11667.d.ts"
+  },
+  "module_1187.ts": {
+    "newName": "WebKitVersionDetector.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_1187.d.ts"
+  },
+  "module_1190.ts": {
+    "newName": "Iterator2.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_1190.d.ts"
+  },
+  "module_12551.ts": {
+    "newName": "PropertyDescriptor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_12551.d.ts"
+  },
+  "module_1276.ts": {
+    "newName": "PAssemblyProcessor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_1276.d.ts"
+  },
+  "module_12883.ts": {
+    "newName": "RegisterManager.ts",
+    "description": "Register HSConstants globally",
+    "renamed": true,
+    "pairedWith": "module_12883.d.ts"
+  },
+  "module_12944.ts": {
+    "newName": "PolyfillRegistrationOptions.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_12944.d.ts"
+  },
+  "module_13113.ts": {
+    "newName": "Position3D.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_13113.d.ts"
+  },
+  "module_13270.ts": {
+    "newName": "Function.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_13327.ts": {
+    "newName": "PropertyOptions.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_13327.d.ts"
+  },
+  "module_13818.ts": {
+    "newName": "ToObject.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_14623.ts": {
+    "newName": "DOMIterables.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "DOMIterables"
+    ]
+  },
+  "module_14771.ts": {
+    "newName": "VERSION.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_14771.d.ts"
+  },
+  "module_14805.ts": {
+    "newName": "DOMTokenListPrototypeResult.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_14805.d.ts"
+  },
+  "module_14890.ts": {
+    "newName": "extendObject.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "extendObject"
+    ]
+  },
+  "module_1540.ts": {
+    "newName": "InternalMetadata.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_1540.d.ts"
+  },
+  "module_16257.ts": {
+    "newName": "IsConstructorPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_16257.d.ts"
+  },
+  "module_16950.ts": {
+    "newName": "ParseFloatPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_16950.d.ts"
+  },
+  "module_17029.ts": {
+    "newName": "ObjectTypeChecker.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_17029.d.ts"
+  },
+  "module_17113.ts": {
+    "newName": "for.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_17113.d.ts"
+  },
+  "module_1726.ts": {
+    "newName": "getOwnPropertyDescriptor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_1726.d.ts"
+  },
+  "module_17449.ts": {
+    "newName": "PolyfillConfig.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_17449.d.ts"
+  },
+  "module_1752.ts": {
+    "newName": "ConvertToString.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_17786.ts": {
+    "newName": "Function2.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_17870.ts": {
+    "newName": "PromiseCapability.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_17870.d.ts"
+  },
+  "module_18059.ts": {
+    "newName": "Hole_IO.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_18059.d.ts"
+  },
+  "module_18243.ts": {
+    "newName": "RegExpExecWrapper.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_18243.d.ts"
+  },
+  "module_18347.ts": {
+    "newName": "PropertyDescriptor2.ts",
+    "description": "Defines a property on an object with optional getter/setter built-ins",
+    "renamed": true,
+    "pairedWith": "module_18347.d.ts"
+  },
+  "module_18506.ts": {
+    "newName": "Matrix3DHandler.ts",
+    "description": "Converts angle from degrees to radians with modulo normalization",
+    "renamed": true,
+    "pairedWith": "module_18506.d.ts"
+  },
+  "module_19342.ts": {
+    "newName": "TestClass.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "TestClass"
+    ]
+  },
+  "module_19533.ts": {
+    "newName": "ESModuleMarker.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_19533.d.ts"
+  },
+  "module_19842.ts": {
+    "newName": "MaterialData.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_19842.d.ts"
+  },
+  "module_19883.ts": {
+    "newName": "ArraySliceUtility.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_19883.d.ts"
+  },
+  "module_20147.ts": {
+    "newName": "Module20147.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_20147.d.ts"
+  },
+  "module_20198.ts": {
+    "newName": "Module20198.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_20198.d.ts"
+  },
+  "module_203.ts": {
+    "newName": "UserAgent.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_203.d.ts"
+  },
+  "module_20321.ts": {
+    "newName": "firefoxVersion.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_20321.d.ts"
+  },
+  "module_20352.ts": {
+    "newName": "advanceStringIndex.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "advanceStringIndex"
+    ]
+  },
+  "module_20431.ts": {
+    "newName": "EmptyModule20431.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_20479.ts": {
+    "newName": "HasNativeSymbol.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_20479.d.ts"
+  },
+  "module_20756.ts": {
+    "newName": "getIterator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_20756.d.ts"
+  },
+  "module_21170.ts": {
+    "newName": "PromiseConstructor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_21170.d.ts"
+  },
+  "module_2121.ts": {
+    "newName": "PolyfillDefinitionOptions.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_2121.d.ts"
+  },
+  "module_21253.ts": {
+    "newName": "createPropertyProxy.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "createPropertyProxy"
+    ]
+  },
+  "module_2196.ts": {
+    "newName": "IosDeviceDetection.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_2196.d.ts"
+  },
+  "module_220789.ts": {
+    "newName": "HSPaveSDK.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_220789.d.ts"
+  },
+  "module_22281.ts": {
+    "newName": "PromiseConstructorLike.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_22281.d.ts"
+  },
+  "module_22352.ts": {
+    "newName": "OBJECT_PROTOTYPE_PROPERTIES.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_22352.d.ts"
+  },
+  "module_22451.ts": {
+    "newName": "PropertyDescriptor3.ts",
+    "description": "Copies properties from source object(s) to target object",
+    "renamed": true,
+    "pairedWith": "module_22451.d.ts"
+  },
+  "module_23053.ts": {
+    "newName": "PropertyDescriptorComplianceCheck.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_23053.d.ts"
+  },
+  "module_2314.ts": {
+    "newName": "Function3.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_23183.ts": {
+    "newName": "EmptyModule23183.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_23408.ts": {
+    "newName": "PAssemblyUtil.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_23408.d.ts"
+  },
+  "module_23665.ts": {
+    "newName": "ESModuleMarker2.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_23665.d.ts"
+  },
+  "module_23668.ts": {
+    "newName": "ToPrimitive.ts",
+    "description": "Converts an object to a primitive value.",
+    "renamed": true,
+    "pairedWith": "module_23668.d.ts"
+  },
+  "module_237698.ts": {
+    "newName": "ReExport857121.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_23895.ts": {
+    "newName": "Polyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_23895.d.ts"
+  },
+  "module_23964.ts": {
+    "newName": "StringAtPolyfillOptions.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_23964.d.ts"
+  },
+  "module_2410.ts": {
+    "newName": "PAssemblyRotation.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_2410.d.ts"
+  },
+  "module_24187.ts": {
+    "newName": "SetIntersection.ts",
+    "description": "Returns the intersection of two sets.",
+    "renamed": true,
+    "pairedWith": "module_24187.d.ts"
+  },
+  "module_24200.ts": {
+    "newName": "ToString.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_24469.ts": {
+    "newName": "PBox_IO.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_24469.d.ts"
+  },
+  "module_24866.ts": {
+    "newName": "all.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_24866.d.ts"
+  },
+  "module_249.ts": {
+    "newName": "initializeGlobalNamespaces.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_249.d.ts"
+  },
+  "module_25779.ts": {
+    "newName": "ObjectPool.ts",
+    "description": "Object pool implementation for managing reusable object instances",
+    "renamed": true,
+    "pairedWith": "module_25779.d.ts"
+  },
+  "module_25921.ts": {
+    "newName": "PolyfillPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_25921.d.ts"
+  },
+  "module_25994.ts": {
+    "newName": "StringRepeat.ts",
+    "description": "Repeats a string a specified number of times.",
+    "renamed": true,
+    "pairedWith": "module_25994.d.ts"
+  },
+  "module_26429.ts": {
+    "newName": "EquationConstraint.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "EquationConstraint",
+      "ParsedExpression"
+    ]
+  },
+  "module_26502.ts": {
+    "newName": "makeObj.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "makeObj"
+    ]
+  },
+  "module_26551.ts": {
+    "newName": "ArrayReversePolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_26551.d.ts"
+  },
+  "module_26747.ts": {
+    "newName": "LogProcessor.ts",
+    "description": "日志模块类型定义",
+    "renamed": true,
+    "possibleNames": [
+      "LogProcessor",
+      "LogCollector",
+      "LoggerInstance",
+      "LogFunction",
+      "AssertFunction",
+      "log",
+      "assert"
+    ]
+  },
+  "module_27103.ts": {
+    "newName": "DeleteProperty.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_27252.ts": {
+    "newName": "DefinePropertiesModule.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_27252.d.ts"
+  },
+  "module_27496.ts": {
+    "newName": "CreateJSONReplacer.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_28031.ts": {
+    "newName": "BrowserDetection.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_28031.d.ts"
+  },
+  "module_28094.ts": {
+    "newName": "forEach.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "forEach",
+      "map",
+      "filter",
+      "some",
+      "every",
+      "find",
+      "findIndex",
+      "filterReject"
+    ]
+  },
+  "module_28394.ts": {
+    "newName": "Module28394.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_28394.d.ts"
+  },
+  "module_28493.ts": {
+    "newName": "ProcessDetection.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_28493.d.ts"
+  },
+  "module_28670.ts": {
+    "newName": "Vector.ts",
+    "description": "Calculate the length (magnitude) of a vector",
+    "renamed": true,
+    "pairedWith": "module_28670.d.ts"
+  },
+  "module_28808.ts": {
+    "newName": "Module28808.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_28808.d.ts"
+  },
+  "module_28816.ts": {
+    "newName": "Function4.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_2918.ts": {
+    "newName": "FunctionComposition.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_2918.d.ts"
+  },
+  "module_29190.ts": {
+    "newName": "IterateWithCallback.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_29391.ts": {
+    "newName": "Promise.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_29391.d.ts"
+  },
+  "module_30036.ts": {
+    "newName": "IteratorPrototype.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_30036.d.ts"
+  },
+  "module_30325.ts": {
+    "newName": "_WEBPACKEXTERNALMODULE_30325_.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_30521.ts": {
+    "newName": "SetDifference.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_30521.d.ts"
+  },
+  "module_30599.ts": {
+    "newName": "CeilingLightComputer.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_30599.d.ts"
+  },
+  "module_30739.ts": {
+    "newName": "Polyfill2.ts",
+    "description": "Polyfill for String.prototype.startsWith",
+    "renamed": true,
+    "pairedWith": "module_30739.d.ts"
+  },
+  "module_30742.ts": {
+    "newName": "CreateErrorConstructor.ts",
+    "description": "Creates a wrapped error constructor with enhanced functionality",
+    "renamed": true,
+    "possibleNames": [
+      "IsConstructor"
+    ]
+  },
+  "module_30858.ts": {
+    "newName": "removeStackTraceLines.ts",
+    "description": "Removes stack trace lines from an error stack string",
+    "renamed": true,
+    "possibleNames": [
+      "removeStackTraceLines"
+    ]
+  },
+  "module_32111.ts": {
+    "newName": "NATIVE.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_32111.d.ts"
+  },
+  "module_32218.ts": {
+    "newName": "Exports.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_32218.d.ts"
+  },
+  "module_32264.ts": {
+    "newName": "Module32264.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_32264.d.ts"
+  },
+  "module_32310.ts": {
+    "newName": "StringMatchPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_32310.d.ts"
+  },
+  "module_33046.ts": {
+    "newName": "ProfileMetadata.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_33046.d.ts"
+  },
+  "module_33307.ts": {
+    "newName": "hasNativeReduce.ts",
+    "description": "Array.prototype.reduce polyfill implementation",
+    "renamed": true,
+    "pairedWith": "module_33307.d.ts"
+  },
+  "module_34465.ts": {
+    "newName": "PromiseResolve.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_34465.d.ts"
+  },
+  "module_34701.ts": {
+    "newName": "ObjectKeys.ts",
+    "description": "Returns an array of enumerable property names from an object, excluding hidden keys.",
+    "renamed": true,
+    "pairedWith": "module_34701.d.ts"
+  },
+  "module_34732.ts": {
+    "newName": "PAssemblyBody.ts",
+    "description": "Checks if an entity matches a specific assembly type based on ID list",
+    "renamed": true,
+    "pairedWith": "module_34732.d.ts"
+  },
+  "module_34769.ts": {
+    "newName": "PropertyDescriptor4.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_34769.d.ts"
+  },
+  "module_35633.ts": {
+    "newName": "PolyfillExport.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_35633.d.ts"
+  },
+  "module_35665.ts": {
+    "newName": "Point2D.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_35665.d.ts"
+  },
+  "module_35710.ts": {
+    "newName": "GetRegExpFlags.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_36067.ts": {
+    "newName": "Error.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_36067.d.ts"
+  },
+  "module_36178.ts": {
+    "newName": "Polyfill3.ts",
+    "description": "Trims whitespace from both ends of a string",
+    "renamed": true,
+    "pairedWith": "module_36178.d.ts"
+  },
+  "module_36410.ts": {
+    "newName": "IteratorToArray.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_36410.d.ts"
+  },
+  "module_3668.ts": {
+    "newName": "IsConstructor2.ts",
+    "description": "Checks if value is a constructor using Reflect.construct",
+    "renamed": true,
+    "pairedWith": "module_3668.d.ts"
+  },
+  "module_37343.ts": {
+    "newName": "SearchResult.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_37343.d.ts"
+  },
+  "module_37475.ts": {
+    "newName": "SideEffectInitializer.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_37475.d.ts"
+  },
+  "module_38251.ts": {
+    "newName": "SymbolPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_38251.d.ts"
+  },
+  "module_38776.ts": {
+    "newName": "IteratorPolyfill.ts",
+    "description": "Patches a prototype object to add iterator methods and toStringTag",
+    "renamed": true,
+    "pairedWith": "module_38776.d.ts"
+  },
+  "module_39943.ts": {
+    "newName": "RequireObjectCoercible.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_40087.ts": {
+    "newName": "LengthValidator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_40087.d.ts"
+  },
+  "module_4012.ts": {
+    "newName": "Function5.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_40143.ts": {
+    "newName": "isMethodSafeForRegex.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "isMethodSafeForRegex"
+    ]
+  },
+  "module_4061.ts": {
+    "newName": "_WEBPACKEXTERNALMODULE_4061_.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_41086.ts": {
+    "newName": "HoleParameter.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_41086.d.ts"
+  },
+  "module_41500.ts": {
+    "newName": "Segment3DData.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_41500.d.ts"
+  },
+  "module_4155.ts": {
+    "newName": "ArrayIterator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_4155.d.ts"
+  },
+  "module_42020.ts": {
+    "newName": "ObjectAssignPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_42020.d.ts"
+  },
+  "module_42288.ts": {
+    "newName": "ContentType.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_42288.d.ts"
+  },
+  "module_42389.ts": {
+    "newName": "Module42389.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_42389.d.ts"
+  },
+  "module_42612.ts": {
+    "newName": "Module42612.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_42612.d.ts"
+  },
+  "module_42640.ts": {
+    "newName": "polygon.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_42640.d.ts"
+  },
+  "module_43039.ts": {
+    "newName": "CollectionUnion.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_43039.d.ts"
+  },
+  "module_43247.ts": {
+    "newName": "TestArrayMethod.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_43807.ts": {
+    "newName": "SetIsSupersetOf.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_43807.d.ts"
+  },
+  "module_43953.ts": {
+    "newName": "FunctionExtractor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_43953.d.ts"
+  },
+  "module_43989.ts": {
+    "newName": "ParseFloatPolyfill2.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_43989.d.ts"
+  },
+  "module_44122.ts": {
+    "newName": "Polyfill4.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_44122.d.ts"
+  },
+  "module_44292.ts": {
+    "newName": "initMetaManager.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "initMetaManager"
+    ]
+  },
+  "module_44873.ts": {
+    "newName": "IMesh.ts",
+    "description": "Retrieves mesh data from cache by key",
+    "renamed": true,
+    "pairedWith": "module_44873.d.ts"
+  },
+  "module_45193.ts": {
+    "newName": "FunctionNameDescriptor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_45193.d.ts"
+  },
+  "module_45381.ts": {
+    "newName": "RegExpMethodPatcher.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_45381.d.ts"
+  },
+  "module_45406.ts": {
+    "newName": "Point3D.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_45406.d.ts"
+  },
+  "module_45424.ts": {
+    "newName": "mergeObject.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "mergeObject"
+    ]
+  },
+  "module_45573.ts": {
+    "newName": "isExtensible.ts",
+    "description": "Checks if an object is extensible (new properties can be added to it).",
+    "renamed": true,
+    "possibleNames": [
+      "isExtensible"
+    ]
+  },
+  "module_45585.ts": {
+    "newName": "RoomInfo.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_45585.d.ts"
+  },
+  "module_45994.ts": {
+    "newName": "IsConstructor3.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_45994.d.ts"
+  },
+  "module_46129.ts": {
+    "newName": "StateUtil.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_46129.d.ts"
+  },
+  "module_46537.ts": {
+    "newName": "PromiseState.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_46537.d.ts"
+  },
+  "module_4676.ts": {
+    "newName": "ArrayUnshiftPolyfill.ts",
+    "description": "Polyfill for Array.prototype.unshift",
+    "renamed": true,
+    "pairedWith": "module_4676.d.ts"
+  },
+  "module_46976.ts": {
+    "newName": "WellKnownSymbols.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_46976.d.ts"
+  },
+  "module_47068.ts": {
+    "newName": "IsConstructorPrototype.ts",
+    "description": "Sets the prototype of an object if the constructor's prototype differs from the expected prototype.",
+    "renamed": true,
+    "pairedWith": "module_47068.d.ts"
+  },
+  "module_47730.ts": {
+    "newName": "CallUtility.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_47730.d.ts"
+  },
+  "module_48056.ts": {
+    "newName": "Array.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_48056.d.ts"
+  },
+  "module_48230.ts": {
+    "newName": "LightingCalculator.ts",
+    "description": "Computes ceiling light positions for a room element",
+    "renamed": true,
+    "pairedWith": "module_48230.d.ts"
+  },
+  "module_48234.ts": {
+    "newName": "ArrayInitializer.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_48234.d.ts"
+  },
+  "module_48926.ts": {
+    "newName": "PSlidingDoor_IO.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_48926.d.ts"
+  },
+  "module_49304.ts": {
+    "newName": "ErrorStackConfigurableCheck.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_49304.d.ts"
+  },
+  "module_49327.ts": {
+    "newName": "LineSegment.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_49327.d.ts"
+  },
+  "module_49394.ts": {
+    "newName": "PSegmentLoft_IO.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_49394.d.ts"
+  },
+  "module_49604.ts": {
+    "newName": "Module49604.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_49604.d.ts"
+  },
+  "module_49608.ts": {
+    "newName": "Module49608.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_49608.d.ts"
+  },
+  "module_4968.ts": {
+    "newName": "IteratorForEach.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_4968.d.ts"
+  },
+  "module_49869.ts": {
+    "newName": "ToPrimitive2.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_49869.d.ts"
+  },
+  "module_49954.ts": {
+    "newName": "ArrayLengthSetter.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_49954.d.ts"
+  },
+  "module_50002.ts": {
+    "newName": "IteratorClose.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_50002.d.ts"
+  },
+  "module_50179.ts": {
+    "newName": "EmptyConstructor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_50179.d.ts"
+  },
+  "module_50312.ts": {
+    "newName": "DOMElementCreator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_50312.d.ts"
+  },
+  "module_51181.ts": {
+    "newName": "DeviceDetection.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_51181.d.ts"
+  },
+  "module_51455.ts": {
+    "newName": "ModuleReExports.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_51455.d.ts"
+  },
+  "module_51545.ts": {
+    "newName": "Module51545.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_52530.ts": {
+    "newName": "isFunction.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "isFunction"
+    ]
+  },
+  "module_52884.ts": {
+    "newName": "SetSymmetricDifference.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_52884.d.ts"
+  },
+  "module_53159.ts": {
+    "newName": "GetOwnPropertyNamesExternalModule.ts",
+    "description": "Gets own property names of an object, with special handling for Window objects.",
+    "renamed": true,
+    "pairedWith": "module_53159.d.ts"
+  },
+  "module_53209.ts": {
+    "newName": "Polyfill5.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_53209.d.ts"
+  },
+  "module_53250.ts": {
+    "newName": "toInteger.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "toInteger"
+    ]
+  },
+  "module_53399.ts": {
+    "newName": "Iterator3.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_53399.d.ts"
+  },
+  "module_53482.ts": {
+    "newName": "PromiseConstructorDetection.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_53482.d.ts"
+  },
+  "module_53557.ts": {
+    "newName": "OpeningLine.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_53557.d.ts"
+  },
+  "module_53735.ts": {
+    "newName": "PromiseFeatureDetection.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_53735.d.ts"
+  },
+  "module_54421.ts": {
+    "newName": "that.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_54421.d.ts"
+  },
+  "module_547.ts": {
+    "newName": "ObjectKeysPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_547.d.ts"
+  },
+  "module_55256.ts": {
+    "newName": "Module55256.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_55256.d.ts"
+  },
+  "module_55287.ts": {
+    "newName": "ToStringTagSupport.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_55287.d.ts"
+  },
+  "module_5538.ts": {
+    "newName": "ValidateNotRegExp.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_55570.ts": {
+    "newName": "SharedKeys.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_55570.d.ts"
+  },
+  "module_55949.ts": {
+    "newName": "Point2D2.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_55949.d.ts"
+  },
+  "module_56276.ts": {
+    "newName": "ClassofModule.ts",
+    "description": "Gets the type tag of a value as a string.",
+    "renamed": true,
+    "pairedWith": "module_56276.d.ts"
+  },
+  "module_57983.ts": {
+    "newName": "tag.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_57983.d.ts"
+  },
+  "module_58206.ts": {
+    "newName": "PolyfillInstallOptions.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_58206.d.ts"
+  },
+  "module_58588.ts": {
+    "newName": "defineGlobalProperty.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_58588.d.ts"
+  },
+  "module_58869.ts": {
+    "newName": "isBrowserEnvironment.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_58869.d.ts"
+  },
+  "module_5932.ts": {
+    "newName": "PAssemblyFilter.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_5932.d.ts"
+  },
+  "module_59468.ts": {
+    "newName": "Iterator4.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_59468.d.ts"
+  },
+  "module_59573.ts": {
+    "newName": "ExternalModule59573.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_59573.d.ts"
+  },
+  "module_60032.ts": {
+    "newName": "CeilingLightComputer2.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_60032.d.ts"
+  },
+  "module_60056.ts": {
+    "newName": "toString.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "toString"
+    ]
+  },
+  "module_60241.ts": {
+    "newName": "isDenoEnvironment.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "isDenoEnvironment"
+    ]
+  },
+  "module_60537.ts": {
+    "newName": "ArrayPushPolyfill.ts",
+    "description": "Checks if native Array.push has overflow bug",
+    "renamed": true,
+    "pairedWith": "module_60537.d.ts"
+  },
+  "module_60715.ts": {
+    "newName": "Polyfill11.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_61227.ts": {
+    "newName": "IteratorPolyfillPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_61227.d.ts"
+  },
+  "module_61259.ts": {
+    "newName": "FunctionBindUtility.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_61259.d.ts"
+  },
+  "module_61392.ts": {
+    "newName": "SetIntersectionPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_61392.d.ts"
+  },
+  "module_61656.ts": {
+    "newName": "isNullish.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "isNullish"
+    ]
+  },
+  "module_61748.ts": {
+    "newName": "InstallErrorStack.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_62016.ts": {
+    "newName": "validateIndex.ts",
+    "description": "Validates that an index does not exceed the maximum safe integer value.",
+    "renamed": true,
+    "possibleNames": [
+      "validateIndex"
+    ]
+  },
+  "module_62073.ts": {
+    "newName": "registerPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_62073.d.ts"
+  },
+  "module_62592.ts": {
+    "newName": "PMolding_IO.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_62592.d.ts"
+  },
+  "module_62709.ts": {
+    "newName": "isLoopValid.ts",
+    "description": "几何相交判断模块",
+    "renamed": true,
+    "pairedWith": "module_62709.d.ts"
+  },
+  "module_63267.ts": {
+    "newName": "Polyfill6.ts",
+    "description": "Polyfill for String.prototype.replace with enhanced RegExp support",
+    "renamed": true,
+    "pairedWith": "module_63267.d.ts"
+  },
+  "module_63675.ts": {
+    "newName": "ValidateArgumentCount.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_6368.ts": {
+    "newName": "PrototypeChecker.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_6368.d.ts"
+  },
+  "module_63855.ts": {
+    "newName": "ObjectDefinePropertySupport.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_63855.d.ts"
+  },
+  "module_64239.ts": {
+    "newName": "Function6.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_646235.ts": {
+    "newName": "RenderOptions.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_646235.d.ts"
+  },
+  "module_65076.ts": {
+    "newName": "TypeValidator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_65076.d.ts"
+  },
+  "module_65144.ts": {
+    "newName": "CoreJSShared.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_65144.d.ts"
+  },
+  "module_65468.ts": {
+    "newName": "SetLike.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_65468.d.ts"
+  },
+  "module_662105.ts": {
+    "newName": "HSCatalogInstance.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_662105.d.ts"
+  },
+  "module_66315.ts": {
+    "newName": "Module66315.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_66484.ts": {
+    "newName": "PropertyDescriptorUtil.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_66484.d.ts"
+  },
+  "module_66547.ts": {
+    "newName": "ObjectGetOwnPropertyNames.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_66547.d.ts"
+  },
+  "module_670669.ts": {
+    "newName": "HSCore.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_670669.d.ts"
+  },
+  "module_67171.ts": {
+    "newName": "Module67171.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_67171.d.ts"
+  },
+  "module_67711.ts": {
+    "newName": "NativeWeakMapDetection.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_67711.d.ts"
+  },
+  "module_67977.ts": {
+    "newName": "BindSupport.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_67977.d.ts"
+  },
+  "module_67997.ts": {
+    "newName": "PModelTypes.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_67997.d.ts"
+  },
+  "module_68320.ts": {
+    "newName": "getNewBufferGeometry.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_68320.d.ts"
+  },
+  "module_68396.ts": {
+    "newName": "PolyfillConfigPolyfill.ts",
+    "description": "Polyfill for Array.prototype.includes",
+    "renamed": true,
+    "pairedWith": "module_68396.d.ts"
+  },
+  "module_68614.ts": {
+    "newName": "PromiseCapability2.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_68614.d.ts"
+  },
+  "module_68801.ts": {
+    "newName": "Set.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_68801.d.ts"
+  },
+  "module_69278.ts": {
+    "newName": "BROKEN_CARET.ts",
+    "description": "Detects RegExp 'y' (sticky) flag support and known implementation issues",
+    "renamed": true,
+    "pairedWith": "module_69278.d.ts"
+  },
+  "module_69448.ts": {
+    "newName": "MappedIterator.ts",
+    "description": "Creates a mapped iterator that transforms each value using the provided mapper function.",
+    "renamed": true,
+    "pairedWith": "module_69448.d.ts"
+  },
+  "module_69650.ts": {
+    "newName": "Function7.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_6975.ts": {
+    "newName": "StoppedIteration.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "StoppedIteration"
+    ]
+  },
+  "module_70168.ts": {
+    "newName": "set.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_70168.d.ts"
+  },
+  "module_70537.ts": {
+    "newName": "IteratorHelper.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_70537.d.ts"
+  },
+  "module_70546.ts": {
+    "newName": "Queue.ts",
+    "description": "Adds an item to the end of the queue",
+    "renamed": true,
+    "pairedWith": "module_70546.d.ts"
+  },
+  "module_70598.ts": {
+    "newName": "Module70598.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_70598.d.ts"
+  },
+  "module_70665.ts": {
+    "newName": "CabinetMoldingEnum.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_70665.d.ts"
+  },
+  "module_71154.ts": {
+    "newName": "PropertyCreator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_71154.d.ts"
+  },
+  "module_71763.ts": {
+    "newName": "ConstructorValidator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_71763.d.ts"
+  },
+  "module_71881.ts": {
+    "newName": "MergeSort.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_71881.d.ts"
+  },
+  "module_7263.ts": {
+    "newName": "functionBinder.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_7263.d.ts"
+  },
+  "module_72839.ts": {
+    "newName": "ValidationUtilities.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_72839.d.ts"
+  },
+  "module_73016.ts": {
+    "newName": "BrowserPropertyDescriptorSupport.ts",
+    "description": "Checks if Object.defineProperty works correctly on DOM elements.",
+    "renamed": true,
+    "pairedWith": "module_73016.d.ts"
+  },
+  "module_73115.ts": {
+    "newName": "Polyfill7.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_73115.d.ts"
+  },
+  "module_73133.ts": {
+    "newName": "CheckSetMethod.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_73343.ts": {
+    "newName": "Util.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_73400.ts": {
+    "newName": "PromiseConstructorPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_73400.d.ts"
+  },
+  "module_7380.ts": {
+    "newName": "ArrayUnscopables.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_7380.d.ts"
+  },
+  "module_74774.ts": {
+    "newName": "PropertyIsEnumerablePolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_74774.d.ts"
+  },
+  "module_74823.ts": {
+    "newName": "NumberValueOf.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_74823.d.ts"
+  },
+  "module_74832.ts": {
+    "newName": "Iterator5.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_74832.d.ts"
+  },
+  "module_74894.ts": {
+    "newName": "PromiseCapabilityFactory.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_74894.d.ts"
+  },
+  "module_75673.ts": {
+    "newName": "CollectionSet.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_75762.ts": {
+    "newName": "ArraySpeciesCreate.ts",
+    "description": "Gets the appropriate array constructor for creating derivative arrays.",
+    "renamed": true,
+    "pairedWith": "module_75762.d.ts"
+  },
+  "module_76028.ts": {
+    "newName": "MicrotaskQueue.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_76028.d.ts"
+  },
+  "module_76178.ts": {
+    "newName": "LineSeg.ts",
+    "description": "Check if this line segment crosses another line segment",
+    "renamed": true,
+    "pairedWith": "module_76178.d.ts"
+  },
+  "module_76305.ts": {
+    "newName": "start.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_76305.d.ts"
+  },
+  "module_77.ts": {
+    "newName": "csgBoolean.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "csgBoolean",
+      "brepToCsg"
+    ]
+  },
+  "module_77064.ts": {
+    "newName": "RequireObjectCoercible2.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_7712.ts": {
+    "newName": "SetPrototypeOf.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_7712.d.ts"
+  },
+  "module_77805.ts": {
+    "newName": "install.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_77805.d.ts"
+  },
+  "module_77996.ts": {
+    "newName": "resolveZoweeOriginData.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "resolveZoweeOriginData",
+      "Position",
+      "ProcessedData"
+    ]
+  },
+  "module_78918.ts": {
+    "newName": "codeAt.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_78918.d.ts"
+  },
+  "module_79169.ts": {
+    "newName": "GeometryClipperUtil.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_79169.d.ts"
+  },
+  "module_79227.ts": {
+    "newName": "exportModule.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "exportModule",
+      "PropertyDescriptor"
+    ]
+  },
+  "module_79248.ts": {
+    "newName": "CreateTypedArray.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_79467.ts": {
+    "newName": "reduce.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_79467.d.ts"
+  },
+  "module_79723.ts": {
+    "newName": "RetryOptions.ts",
+    "description": "Retry an async function up to a specified number of times",
+    "renamed": true,
+    "pairedWith": "module_79723.d.ts"
+  },
+  "module_79900.ts": {
+    "newName": "CeilingLightCalculator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_79900.d.ts"
+  },
+  "module_79901.ts": {
+    "newName": "Point.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_79901.d.ts"
+  },
+  "module_79957.ts": {
+    "newName": "SpotLightComputer.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_79957.d.ts"
+  },
+  "module_80601.ts": {
+    "newName": "WindowHole_IO.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_80601.d.ts"
+  },
+  "module_80880.ts": {
+    "newName": "IS_PURE.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_80880.d.ts"
+  },
+  "module_81258.ts": {
+    "newName": "Iterator6.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_81258.d.ts"
+  },
+  "module_8130.ts": {
+    "newName": "RGBAColor.ts",
+    "description": "Finds the nearest temperature color mapping for a given temperature value.",
+    "renamed": true,
+    "possibleNames": [
+      "RGBAColor",
+      "nearestTemperature"
+    ]
+  },
+  "module_81455.ts": {
+    "newName": "CeilingLightComputer3.ts",
+    "description": "Computes ceiling light positions based on element dimensions and rotation",
+    "renamed": true,
+    "pairedWith": "module_81455.d.ts"
+  },
+  "module_81482.ts": {
+    "newName": "GlobalObject.ts",
+    "description": "Checks if the provided value is a valid global object",
+    "renamed": true,
+    "pairedWith": "module_81482.d.ts"
+  },
+  "module_81711.ts": {
+    "newName": "ExternalModule81711.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_81711.d.ts"
+  },
+  "module_81741.ts": {
+    "newName": "Module81741.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_81741.d.ts"
+  },
+  "module_81884.ts": {
+    "newName": "JSONDecycle.ts",
+    "description": "Converts an object with circular references into a JSON-serializable structure",
+    "renamed": true,
+    "pairedWith": "module_81884.d.ts"
+  },
+  "module_81945.ts": {
+    "newName": "Module81945.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_82711.ts": {
+    "newName": "ProtoObject.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_82711.d.ts"
+  },
+  "module_82745.ts": {
+    "newName": "Function8.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_82843.ts": {
+    "newName": "SetSymmetricDifference2.ts",
+    "description": "Performs symmetric difference operation on a Set.",
+    "renamed": true,
+    "pairedWith": "module_82843.d.ts"
+  },
+  "module_83246.ts": {
+    "newName": "StringConversion.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_83246.d.ts"
+  },
+  "module_83434.ts": {
+    "newName": "PropertyDescriptorPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_83434.d.ts"
+  },
+  "module_83448.ts": {
+    "newName": "Function9.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_83630.ts": {
+    "newName": "SetUnionPolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_83630.d.ts"
+  },
+  "module_84100.ts": {
+    "newName": "SetRecord.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_84100.d.ts"
+  },
+  "module_84236.ts": {
+    "newName": "Module84236.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_84236.d.ts"
+  },
+  "module_85311.ts": {
+    "newName": "RegExpFlagsGetter.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_85311.d.ts"
+  },
+  "module_85383.ts": {
+    "newName": "PolyfillRegExp.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_85383.d.ts"
+  },
+  "module_8569.ts": {
+    "newName": "ReExport20198.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_86352.ts": {
+    "newName": "Iterator7.ts",
+    "description": "Polyfill for Iterator.prototype.find method",
+    "renamed": true,
+    "pairedWith": "module_86352.d.ts"
+  },
+  "module_86511.ts": {
+    "newName": "getSubstitution.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "getSubstitution"
+    ]
+  },
+  "module_86753.ts": {
+    "newName": "FlatLightComputer.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_86753.d.ts"
+  },
+  "module_86761.ts": {
+    "newName": "IsArray.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_86812.ts": {
+    "newName": "InternalState.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_86812.d.ts"
+  },
+  "module_87067.ts": {
+    "newName": "LightCalculator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_87067.d.ts"
+  },
+  "module_87524.ts": {
+    "newName": "Function10.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_87836.ts": {
+    "newName": "includes.ts",
+    "description": "Array search utilities for indexOf and includes operations",
+    "renamed": true,
+    "pairedWith": "module_87836.d.ts"
+  },
+  "module_8812.ts": {
+    "newName": "ObjectGetPrototypeOf.ts",
+    "description": "Gets the prototype of an object with fallback for older environments",
+    "renamed": true,
+    "pairedWith": "module_8812.d.ts"
+  },
+  "module_88318.ts": {
+    "newName": "REGEXDOTALLFAILURE.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_88442.ts": {
+    "newName": "ReflectOwnKeys.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_88442.d.ts"
+  },
+  "module_89090.ts": {
+    "newName": "Polyfill8.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_89090.d.ts"
+  },
+  "module_89675.ts": {
+    "newName": "Process.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_89675.d.ts"
+  },
+  "module_8985.ts": {
+    "newName": "EnhancedWeakMap.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_8985.d.ts"
+  },
+  "module_899.ts": {
+    "newName": "PrototypeValidator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_899.d.ts"
+  },
+  "module_90223.ts": {
+    "newName": "ArrayBufferExtensibilityCheck.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_90223.d.ts"
+  },
+  "module_90252.ts": {
+    "newName": "BaseLight.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_90252.d.ts"
+  },
+  "module_90762.ts": {
+    "newName": "arraySlice.ts",
+    "description": "Extracts a slice of an array-like object into a new array.",
+    "renamed": true,
+    "possibleNames": [
+      "arraySlice"
+    ]
+  },
+  "module_9087.ts": {
+    "newName": "PropertyAccessor.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_9087.d.ts"
+  },
+  "module_91006.ts": {
+    "newName": "EmptyModule91006.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_91334.ts": {
+    "newName": "SetDifferencePolyfill.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_91334.d.ts"
+  },
+  "module_9169.ts": {
+    "newName": "IteratorProtocolChecker.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_9169.d.ts"
+  },
+  "module_92141.ts": {
+    "newName": "OpeningLightComputer.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_92141.d.ts"
+  },
+  "module_92726.ts": {
+    "newName": "Module92726.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_92826.ts": {
+    "newName": "ModuleExports.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_92826.d.ts"
+  },
+  "module_93222.ts": {
+    "newName": "instances.ts",
+    "description": "Sets the @@species property on a constructor to return itself.",
+    "renamed": true,
+    "possibleNames": [
+      "instances",
+      "IsConstructor"
+    ]
+  },
+  "module_93596.ts": {
+    "newName": "Point3D2.ts",
+    "description": "Convert degrees to radians",
+    "renamed": true,
+    "pairedWith": "module_93596.d.ts"
+  },
+  "module_9418.ts": {
+    "newName": "name.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_9418.d.ts"
+  },
+  "module_94351.ts": {
+    "newName": "InspectSource.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_94351.d.ts"
+  },
+  "module_94448.ts": {
+    "newName": "Iterator8.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_94448.d.ts"
+  },
+  "module_94743.ts": {
+    "newName": "AsFunctionOrThrow.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_95648.ts": {
+    "newName": "Polyfill9.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_95648.d.ts"
+  },
+  "module_95704.ts": {
+    "newName": "Webos.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_95704.d.ts"
+  },
+  "module_95888.ts": {
+    "newName": "FunctionApply.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_95888.d.ts"
+  },
+  "module_96028.ts": {
+    "newName": "isArrayIterator.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_96028.d.ts"
+  },
+  "module_96346.ts": {
+    "newName": "ToIndexedObject.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_96346.d.ts"
+  },
+  "module_96714.ts": {
+    "newName": "ReExport57678.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Final batch analysis"
+  },
+  "module_97104.ts": {
+    "newName": "Module97104.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_97104.d.ts"
+  },
+  "module_97303.ts": {
+    "newName": "ClassOf.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_97303.d.ts"
+  },
+  "module_97345.ts": {
+    "newName": "EulerOperations.ts",
+    "description": "Make Vertex, Shell, Face - Creates a new vertex, shell, and face",
+    "renamed": true,
+    "pairedWith": "module_97345.d.ts"
+  },
+  "module_97691.ts": {
+    "newName": "IsSubsetOf.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_98126.ts": {
+    "newName": "hasNativeSymbolSupport.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_98126.d.ts"
+  },
+  "module_98320.ts": {
+    "newName": "RedefineFunctionOptions.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_98320.d.ts"
+  },
+  "module_98324.ts": {
+    "newName": "HasOwn.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_98324.d.ts"
+  },
+  "module_98745.ts": {
+    "newName": "toLength.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "toLength"
+    ]
+  },
+  "module_99622.ts": {
+    "newName": "IsConstructorFactory.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_99622.d.ts"
+  },
+  "module_99684.ts": {
+    "newName": "BoundUtil.ts",
+    "description": "Get local bound outline points for an entity",
+    "renamed": true,
+    "pairedWith": "module_99684.d.ts"
+  },
+  "module_99868.ts": {
+    "newName": "patchedExec.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_99868.d.ts"
+  },
+  "module_add.ts": {
+    "newName": "QueueEnqueue.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_all.ts": {
+    "newName": "Polyfill10.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_all.d.ts"
+  },
+  "module_at.ts": {
+    "newName": "ArrayAt.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_delete.ts": {
+    "newName": "CollectionDelete.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_enforce.ts": {
+    "newName": "ValueEnforce.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_f.ts": {
+    "newName": "F.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_get.ts": {
+    "newName": "ObjectGet.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_getterfor.ts": {
+    "newName": "TypeError.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_getterfor.d.ts"
+  },
+  "module_has.ts": {
+    "newName": "CollectionHas.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_keys.ts": {
+    "newName": "ModuleKeys.ts",
+    "description": "",
+    "renamed": true,
+    "pairedWith": "module_keys.d.ts"
+  },
+  "module_run.ts": {
+    "newName": "TaskRunner.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Manual mapping for simple file names"
+  },
+  "module_set.ts": {
+    "newName": "Metadata.ts",
+    "description": "",
+    "renamed": true,
+    "reason": "Re-analyzed with improved logic"
+  },
+  "module_top.ts": {
+    "newName": "filterGeometry.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "filterGeometry"
+    ]
+  },
+  "module_value.ts": {
+    "newName": "Polygon.ts",
+    "description": "",
+    "renamed": true,
+    "possibleNames": [
+      "Polygon",
+      "TessellatorContext"
+    ]
+  }
+}

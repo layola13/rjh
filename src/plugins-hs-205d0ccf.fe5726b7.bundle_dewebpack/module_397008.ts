@@ -1,0 +1,1 @@
+export default "assets/check_wall_closed.c7df1a33.svg";

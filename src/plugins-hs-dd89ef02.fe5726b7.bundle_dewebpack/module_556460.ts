@@ -1,0 +1,1 @@
+export default "assets/applywallboardtoroom.da17c988.svg";

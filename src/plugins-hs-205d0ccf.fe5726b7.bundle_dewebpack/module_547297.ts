@@ -1,0 +1,1 @@
+export default new URL("assets/zoomin.c6d18952.svg", import.meta.url).href;

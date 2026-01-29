@@ -1,0 +1,1 @@
+export default "assets/drop_up.e755b271.svg";

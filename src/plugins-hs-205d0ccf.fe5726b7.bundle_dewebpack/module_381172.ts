@@ -1,0 +1,1 @@
+export default "assets/view_render_result.8c4a57e0.svg";

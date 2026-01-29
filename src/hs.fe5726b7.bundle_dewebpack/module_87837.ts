@@ -1,0 +1,1 @@
+export default "assets/arrow_for_orbit_view_ngm.ffa6511a.svg";

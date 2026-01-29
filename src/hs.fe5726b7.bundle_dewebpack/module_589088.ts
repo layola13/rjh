@@ -1,0 +1,4 @@
+import styles from './styles.module.css';
+
+export * from './styles.module.css';
+export default styles;

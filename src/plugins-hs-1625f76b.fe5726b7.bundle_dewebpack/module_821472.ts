@@ -1,0 +1,1 @@
+export default "assets/model_old_active_fp.edc6c6df.svg";

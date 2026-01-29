@@ -1,0 +1,1 @@
+export default "assets/defaultRes_es3.0cde6430.t3d";

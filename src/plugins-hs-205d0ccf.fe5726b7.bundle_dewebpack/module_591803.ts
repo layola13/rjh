@@ -1,0 +1,1 @@
+export default "assets/fp_mirror_vertical.91a38a9a.svg";

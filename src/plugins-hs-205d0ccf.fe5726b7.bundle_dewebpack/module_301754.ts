@@ -1,0 +1,1 @@
+export default "assets/favAdded.dc831e61.svg";

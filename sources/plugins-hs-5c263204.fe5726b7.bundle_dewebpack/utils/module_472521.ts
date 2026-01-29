@@ -1,0 +1,1 @@
+export default "assets/poor-small.7547e74c.gif";

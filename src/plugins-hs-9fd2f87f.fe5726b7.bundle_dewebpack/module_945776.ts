@@ -1,0 +1,1 @@
+export default "assets/material_select_outline_hover.d6ef41ec.svg";

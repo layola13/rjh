@@ -1,0 +1,1 @@
+export default "assets/flue.2c2cada9.svg";

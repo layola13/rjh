@@ -1,0 +1,1 @@
+export default "assets/gypsum_wall_loadbearing_pattern.ac548b0e.svg";

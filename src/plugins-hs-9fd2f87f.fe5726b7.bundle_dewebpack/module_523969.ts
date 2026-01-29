@@ -1,0 +1,1 @@
+export default "assets/popup_arc.fd48252a.gif";

@@ -1,0 +1,1 @@
+export default "assets/customized_featurewall.7fed690a.svg";

@@ -1,0 +1,1 @@
+export default "assets/fliproom.e9466eca.svg";

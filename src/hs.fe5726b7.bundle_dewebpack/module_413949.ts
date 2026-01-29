@@ -1,0 +1,1 @@
+export default "assets/cursor_fuzhuxian.70e2929d.svg";

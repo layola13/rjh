@@ -1,0 +1,1 @@
+export default "assets/uploadfailed.6130e195.svg";

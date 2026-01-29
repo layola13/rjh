@@ -1,0 +1,1 @@
+export default "assets/hatch_2.8547ae36.jpg";

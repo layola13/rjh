@@ -1,0 +1,1 @@
+export default "assets/warning.33fddf6e.svg";

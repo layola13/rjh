@@ -1,0 +1,1 @@
+export default "assets/save_customized_model.aa0c10f5.svg";

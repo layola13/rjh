@@ -1,0 +1,1 @@
+export default "assets/cornice_height.c21a50a2.svg";

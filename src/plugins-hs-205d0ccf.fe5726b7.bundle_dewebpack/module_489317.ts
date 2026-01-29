@@ -1,0 +1,1 @@
+export default "assets/render_resize_widget_hide.4f820e68.svg";

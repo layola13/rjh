@@ -1,0 +1,1 @@
+export default "assets/wall_decoration_advanced1.2e382591.svg";

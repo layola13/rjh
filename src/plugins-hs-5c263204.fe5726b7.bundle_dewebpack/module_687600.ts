@@ -1,0 +1,1 @@
+export default "/assets/moveviewtip.d2cce0b9.png";

@@ -1,0 +1,1 @@
+export default "assets/ungroup.10273555.svg";

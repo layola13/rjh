@@ -1,0 +1,1 @@
+export { FloorplanStat } from './FloorplanStat';

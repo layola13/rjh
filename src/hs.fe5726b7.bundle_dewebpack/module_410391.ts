@@ -1,0 +1,1 @@
+export default "assets/resuck_icon.19ef1c12.svg";

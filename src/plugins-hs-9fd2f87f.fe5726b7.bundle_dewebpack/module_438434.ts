@@ -1,0 +1,1 @@
+export default "assets/arc.0a9da7c2.svg";

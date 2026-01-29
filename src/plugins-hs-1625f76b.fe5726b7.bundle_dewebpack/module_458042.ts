@@ -1,0 +1,1 @@
+export default "assets/context_menu_roomtype.b11d1e72.svg";

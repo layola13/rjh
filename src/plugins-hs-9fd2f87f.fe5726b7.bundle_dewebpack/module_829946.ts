@@ -1,0 +1,1 @@
+export default "assets/autoceilingpropertybar.d527f91a.svg";

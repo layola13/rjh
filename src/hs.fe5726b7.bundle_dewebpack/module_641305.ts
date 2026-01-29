@@ -1,0 +1,1 @@
+export default "assets/default_avatar.fd001ea2.png";

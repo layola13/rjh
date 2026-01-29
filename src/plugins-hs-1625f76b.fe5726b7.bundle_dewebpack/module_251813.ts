@@ -1,0 +1,1 @@
+export default "assets/model_tips.f9cb6efd.svg";

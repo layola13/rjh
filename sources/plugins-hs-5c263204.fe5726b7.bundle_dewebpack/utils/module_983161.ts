@@ -1,0 +1,1 @@
+export default "assets/select-check.200226e9.png";

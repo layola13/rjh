@@ -1,0 +1,10 @@
+const styles = `
+.teaching-ability-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 3000;
+}
+`;
+
+export default styles;

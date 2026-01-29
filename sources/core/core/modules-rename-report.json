@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "timestamp": "2026-01-26T01:30:55.987Z",
+    "totalFiles": 715,
+    "successfullyRenamed": 715,
+    "keptOriginal": 0,
+    "declarationFiles": 360,
+    "implementationFiles": 355
+  },
+  "categories": {
+    "meaningfulNames": 640,
+    "emptyModules": 6,
+    "reExports": 6,
+    "barrelExports": 2,
+    "fallbackNames": 61
+  },
+  "examples": {
+    "meaningfulNames": [
+      {
+        "old": "module_10501.d.ts",
+        "new": "IsConstructor.d.ts",
+        "desc": "Error constructor polyfill with cause support"
+      },
+      {
+        "old": "module_10973.d.ts",
+        "new": "Position.d.ts",
+        "desc": "灯光计算模块 - L型衣柜灯光布局策略"
+      },
+      {
+        "old": "module_10993.d.ts",
+        "new": "Iterator.d.ts",
+        "desc": "Iterator.prototype.reduce() 方法的类型定义"
+      },
+      {
+        "old": "module_11667.d.ts",
+        "new": "WhitespaceCharacters.d.ts",
+        "desc": "White space characters collection"
+      },
+      {
+        "old": "module_1187.d.ts",
+        "new": "WebKitVersionDetector.d.ts",
+        "desc": "WebKit 版本检测模块"
+      }
+    ],
+    "emptyModules": [
+      {
+        "old": "module_20431.d.ts",
+        "new": "EmptyModule20431.d.ts"
+      },
+      {
+        "old": "module_23183.d.ts",
+        "new": "EmptyModule23183.d.ts"
+      },
+      {
+        "old": "module_91006.d.ts",
+        "new": "EmptyModule91006.d.ts"
+      }
+    ],
+    "reExports": [
+      {
+        "old": "module_237698.d.ts",
+        "new": "ReExport857121.d.ts"
+      },
+      {
+        "old": "module_8569.d.ts",
+        "new": "ReExport20198.d.ts"
+      },
+      {
+        "old": "module_96714.d.ts",
+        "new": "ReExport57678.d.ts"
+      }
+    ],
+    "barrelExports": [
+      {
+        "old": "module_11256.d.ts",
+        "new": "BarrelExport44292.d.ts"
+      },
+      {
+        "old": "module_11256.ts",
+        "new": "BarrelExport44292.ts"
+      }
+    ],
+    "fallbackNames": [
+      {
+        "old": "module_14890.d.ts",
+        "new": "Module14890.d.ts"
+      },
+      {
+        "old": "module_20147.d.ts",
+        "new": "Module20147.d.ts"
+      },
+      {
+        "old": "module_20198.d.ts",
+        "new": "Module20198.d.ts"
+      }
+    ]
+  },
+  "statistics": {
+    "renameRate": "100.00%",
+    "meaningfulNameRate": "89.51%"
+  }
+}

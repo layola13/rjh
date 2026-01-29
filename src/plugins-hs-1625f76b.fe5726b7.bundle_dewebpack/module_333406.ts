@@ -1,0 +1,1 @@
+export default "assets/lock.fddef3a2.svg";

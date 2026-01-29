@@ -1,0 +1,1 @@
+export default "assets/rotate90_normal.1145309a.svg";

@@ -1,0 +1,1 @@
+export default "assets/rect_tool.1a56a267.svg";

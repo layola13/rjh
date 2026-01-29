@@ -1,0 +1,1 @@
+export default "assets/draw_room.5993b9c1.svg";

@@ -1,0 +1,1 @@
+export default "assets/zoomin.c6d18952.svg";

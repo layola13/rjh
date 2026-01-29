@@ -1,0 +1,1 @@
+export default "assets/jiyoujia.7a107909.png";

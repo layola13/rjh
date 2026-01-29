@@ -1,0 +1,1 @@
+export default "assets/badge_master.4cd60f8f.svg";

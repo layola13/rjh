@@ -1,0 +1,1 @@
+export default "assets/minipreview.f1702373.png";

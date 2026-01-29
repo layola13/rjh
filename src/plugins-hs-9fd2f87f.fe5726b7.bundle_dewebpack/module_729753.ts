@@ -1,0 +1,1 @@
+export default "assets/popup_lightslot.906c60a0.gif";

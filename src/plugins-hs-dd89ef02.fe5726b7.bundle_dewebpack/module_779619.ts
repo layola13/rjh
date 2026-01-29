@@ -1,0 +1,1 @@
+export default "/assets/cornice_to_ceiling.a3025609.svg";

@@ -1,0 +1,1 @@
+// No source code to convert - the provided file only contains Webpack bundle metadata comments without actual implementation code.

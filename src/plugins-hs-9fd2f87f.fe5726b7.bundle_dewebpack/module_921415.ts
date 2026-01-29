@@ -1,0 +1,1 @@
+export default "assets/orthogonality.70be6cbe.svg";

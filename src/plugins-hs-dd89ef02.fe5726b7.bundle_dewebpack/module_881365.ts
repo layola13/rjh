@@ -1,0 +1,1 @@
+export default "assets/ceilingadvanced.cba3eb49.svg";

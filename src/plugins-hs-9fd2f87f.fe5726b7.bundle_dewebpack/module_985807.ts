@@ -1,0 +1,1 @@
+export default "assets/extrusion.e0cac146.svg";

@@ -1,0 +1,1 @@
+export default "assets/group.2732f41c.svg";

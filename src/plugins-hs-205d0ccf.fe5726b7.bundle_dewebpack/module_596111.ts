@@ -1,0 +1,1 @@
+export default "assets/draw_region.db4ce1a9.svg";

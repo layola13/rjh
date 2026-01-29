@@ -1,0 +1,1 @@
+export default "assets/favRemove.c5a33bba.svg";

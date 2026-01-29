@@ -1,0 +1,1 @@
+export default "assets/lock.efd4182d.svg";

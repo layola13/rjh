@@ -1,0 +1,1 @@
+export default "assets/city.f9587438.svg";

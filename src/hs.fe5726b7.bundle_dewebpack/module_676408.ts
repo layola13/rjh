@@ -1,0 +1,1 @@
+export default "assets/public.c3be558a.svg";

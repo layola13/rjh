@@ -1,0 +1,1 @@
+export default "assets/auto-recommend-hover.0e6d12f9.svg";

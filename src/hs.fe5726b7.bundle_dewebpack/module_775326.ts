@@ -1,0 +1,1 @@
+export default "assets/solidPoint.e2365973.svg";

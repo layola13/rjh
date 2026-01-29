@@ -1,0 +1,1 @@
+export default "assets/floorplan_logo_200dpi.e61b2adb.png";

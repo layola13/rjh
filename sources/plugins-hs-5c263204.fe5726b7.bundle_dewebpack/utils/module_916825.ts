@@ -1,0 +1,1 @@
+export default "assets/feedback-camera.b4dbf720.svg";

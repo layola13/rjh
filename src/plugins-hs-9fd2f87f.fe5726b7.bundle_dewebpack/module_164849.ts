@@ -1,0 +1,1 @@
+export default "/assets/dialog_wall.355174b6.svg";

@@ -1,0 +1,1 @@
+export default "assets/materialreplaceenter.38376639.svg";

@@ -1,0 +1,1 @@
+export default "assets/holepocket.a1b62e66.svg";

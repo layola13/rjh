@@ -1,0 +1,1 @@
+export default "assets/free_drawing.8adaff45.svg";

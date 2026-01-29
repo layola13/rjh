@@ -1,0 +1,1 @@
+export default "assets/product_list.00cd2473.svg";

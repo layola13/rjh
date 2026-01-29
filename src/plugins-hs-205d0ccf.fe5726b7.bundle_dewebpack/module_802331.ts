@@ -1,0 +1,1 @@
+export default "assets/draw_wall_centerline.aa599984.svg";

@@ -1,0 +1,1 @@
+export default "assets/roaming.b74d9343.svg";

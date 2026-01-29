@@ -1,0 +1,1 @@
+export default "/assets/opendesignloading.7fcea7e9.gif";

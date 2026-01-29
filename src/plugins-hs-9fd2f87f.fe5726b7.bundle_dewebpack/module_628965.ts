@@ -1,0 +1,1 @@
+export default "assets/yakouleft_active.cb155479.svg";

@@ -1,0 +1,1 @@
+export default "assets/positiontip.0de078cb.png";

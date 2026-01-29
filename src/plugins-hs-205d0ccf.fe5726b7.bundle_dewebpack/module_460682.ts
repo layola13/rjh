@@ -1,0 +1,1 @@
+export default "assets/delete_underlay.a0d89610.svg";

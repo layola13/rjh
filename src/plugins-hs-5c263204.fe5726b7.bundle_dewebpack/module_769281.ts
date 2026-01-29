@@ -1,0 +1,1 @@
+export default "assets/score.9fb1987e.png";

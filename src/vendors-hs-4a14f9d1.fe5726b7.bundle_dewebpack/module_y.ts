@@ -1,0 +1,1 @@
+(year: number): number => year + 1900

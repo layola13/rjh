@@ -1,0 +1,1 @@
+export default "assets/replace_material1.e1b52d71.svg";

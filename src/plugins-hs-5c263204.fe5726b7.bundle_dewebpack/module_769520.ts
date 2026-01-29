@@ -1,0 +1,1 @@
+export default "/assets/logotitle.d512448d.png";

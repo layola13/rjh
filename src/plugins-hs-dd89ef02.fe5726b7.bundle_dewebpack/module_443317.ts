@@ -1,0 +1,1 @@
+export default "assets/endpoint.f350277d.svg";

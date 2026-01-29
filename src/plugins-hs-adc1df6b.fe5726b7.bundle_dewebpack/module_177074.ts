@@ -1,0 +1,1 @@
+export default "assets/videotutorial_hover.b9da48d0.svg";

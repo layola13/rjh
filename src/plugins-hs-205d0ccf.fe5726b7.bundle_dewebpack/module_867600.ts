@@ -1,0 +1,1 @@
+export default "assets/img_bg_gongnengjiaocheng_max.4e7d37af.png";

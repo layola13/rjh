@@ -1,0 +1,1 @@
+export default "assets/copilotbg.322e7477.png";

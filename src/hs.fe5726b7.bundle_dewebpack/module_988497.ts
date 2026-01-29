@@ -1,0 +1,1 @@
+export default "assets/wooden_floor_pattern.f4207aaf.png";

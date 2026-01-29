@@ -1,0 +1,1 @@
+export default "assets/filterhover.51172f4a.svg";

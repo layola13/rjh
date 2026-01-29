@@ -1,0 +1,1 @@
+export default "assets/triangle.afcb4919.svg";

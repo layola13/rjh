@@ -1,0 +1,1 @@
+export default "assets/case.96ea9b07.svg";

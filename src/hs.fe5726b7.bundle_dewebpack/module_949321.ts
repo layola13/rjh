@@ -1,0 +1,1 @@
+export default "assets/sun.dff7086f.png";

@@ -1,0 +1,1 @@
+export default "assets/report_close.63d63917.svg";

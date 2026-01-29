@@ -1,0 +1,1 @@
+export default "assets/resize_hover.0994e501.png";

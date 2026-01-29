@@ -1,0 +1,1 @@
+export default "assets/normalfirstperson.01c46b50.svg";

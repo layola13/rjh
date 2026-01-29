@@ -1,0 +1,1 @@
+export default "assets/cam_tilt_correction_on.ada40d99.jpg";

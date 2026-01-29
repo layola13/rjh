@@ -1,0 +1,1 @@
+export default "assets/right.77b40cea.svg";

@@ -1,0 +1,1 @@
+export default "assets/furniture.c92b8ad2.png";

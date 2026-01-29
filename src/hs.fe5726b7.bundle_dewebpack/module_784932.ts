@@ -1,0 +1,1 @@
+export default "assets/suck_normal.24196886.svg";

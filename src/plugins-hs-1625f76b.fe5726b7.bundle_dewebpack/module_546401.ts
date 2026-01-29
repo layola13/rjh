@@ -1,0 +1,1 @@
+export default "assets/noModel.9df2dc84.svg";

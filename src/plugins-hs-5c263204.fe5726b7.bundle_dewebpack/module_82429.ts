@@ -1,0 +1,1 @@
+export default "assets/dot.fe0e1d18.png";

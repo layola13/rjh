@@ -1,0 +1,1 @@
+export default "assets/earth.470a4284.svg";

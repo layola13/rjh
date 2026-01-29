@@ -1,0 +1,1 @@
+export default "assets/render_resize_widget_expand.a6e9d305.svg";

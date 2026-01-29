@@ -1,0 +1,1 @@
+export default "assets/polygon_tool.5decedb9.svg";

@@ -1,0 +1,1 @@
+export default "assets/flipY.dcf83e26.svg";

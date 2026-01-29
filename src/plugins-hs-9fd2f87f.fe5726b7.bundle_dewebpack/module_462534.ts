@@ -1,0 +1,1 @@
+export default "assets/withcontent.22bd6568.png";

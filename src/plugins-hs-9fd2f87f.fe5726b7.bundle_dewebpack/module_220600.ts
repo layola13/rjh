@@ -1,0 +1,1 @@
+export default "assets/orthogonality_hover.ff675658.svg";

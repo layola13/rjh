@@ -1,0 +1,1 @@
+export default `${__webpack_public_path__}assets/ungroup.68bbd61f.svg`;

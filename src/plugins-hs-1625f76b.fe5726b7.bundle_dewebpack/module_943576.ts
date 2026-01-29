@@ -1,0 +1,1 @@
+export default "assets/original_material_texture.4add8753.svg";

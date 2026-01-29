@@ -1,0 +1,1 @@
+const result = formatTime(date.tm_min, 2);

@@ -1,0 +1,1 @@
+export default "assets/torus_shape.4c648454.jpg";

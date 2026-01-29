@@ -1,0 +1,1 @@
+export default "assets/resource_zh_TW.064c1c6e.json";

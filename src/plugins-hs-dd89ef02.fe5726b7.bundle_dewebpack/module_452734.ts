@@ -1,0 +1,1 @@
+export default "assets/bgopposite.f0031108.jpg";

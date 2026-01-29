@@ -1,0 +1,1 @@
+export default "assets/3dtext.b9da7cab.svg";

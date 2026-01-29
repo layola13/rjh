@@ -1,0 +1,1 @@
+export default "assets/icon_team.1367dac4.svg";

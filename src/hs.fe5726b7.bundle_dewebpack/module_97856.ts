@@ -1,0 +1,1 @@
+export default "assets/redforbidden.51a852d3.svg";

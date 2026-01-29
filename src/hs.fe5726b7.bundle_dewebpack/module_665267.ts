@@ -1,0 +1,1 @@
+export default "assets/freedrawwall.f4ed7bd3.svg";

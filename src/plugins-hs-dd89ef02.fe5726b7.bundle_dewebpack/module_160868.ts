@@ -1,0 +1,1 @@
+export default "assets/plane.a5090980.svg";

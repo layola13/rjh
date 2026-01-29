@@ -1,0 +1,1 @@
+export default "assets/concrete_loadbearing_pattern.26c998c6.svg";

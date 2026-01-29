@@ -1,0 +1,1 @@
+export default "assets/right_delete.a3e2ccf7.svg";

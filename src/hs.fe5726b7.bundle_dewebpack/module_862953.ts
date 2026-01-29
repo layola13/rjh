@@ -1,0 +1,1 @@
+export default "assets/forbiden.b055d0f9.svg";

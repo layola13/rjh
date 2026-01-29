@@ -1,0 +1,1 @@
+export default "assets/hs_moxingku_morentu.f50e88e1.png";

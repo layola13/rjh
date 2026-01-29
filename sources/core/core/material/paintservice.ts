@@ -1,0 +1,1 @@
+export { PaintService } from '../rendering/material/PaintService';

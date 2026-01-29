@@ -1,0 +1,1 @@
+export default "assets/loading.bc57806a.svg";

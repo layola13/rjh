@@ -1,0 +1,1 @@
+export default "assets/snap_from.c1adae6d.svg";

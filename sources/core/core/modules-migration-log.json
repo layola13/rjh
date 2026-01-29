@@ -1,0 +1,4311 @@
+{
+  "moveRecord": {
+    "4061.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/4061.d.ts",
+      "category": "types"
+    },
+    "Add.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Add.d.ts",
+      "category": "types"
+    },
+    "Array.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Array.d.ts",
+      "category": "types"
+    },
+    "Array.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Array.ts",
+      "category": "core_functions"
+    },
+    "ArrayAt.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArrayAt.d.ts",
+      "category": "types"
+    },
+    "ArrayAt.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayAt.ts",
+      "category": "core_functions"
+    },
+    "ArrayBufferExtensibilityCheck.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArrayBufferExtensibilityCheck.d.ts",
+      "category": "types"
+    },
+    "ArrayBufferExtensibilityCheck.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayBufferExtensibilityCheck.ts",
+      "category": "core_functions"
+    },
+    "ArrayInitializer.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArrayInitializer.d.ts",
+      "category": "types"
+    },
+    "ArrayInitializer.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayInitializer.ts",
+      "category": "core_functions"
+    },
+    "ArrayIterator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayIterator.d.ts",
+      "category": "core_functions"
+    },
+    "ArrayIterator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayIterator.ts",
+      "category": "core_functions"
+    },
+    "ArrayIterator2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayIterator2.d.ts",
+      "category": "core_functions"
+    },
+    "ArrayLengthSetter.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArrayLengthSetter.d.ts",
+      "category": "types"
+    },
+    "ArrayLengthSetter.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayLengthSetter.ts",
+      "category": "core_functions"
+    },
+    "ArrayPushPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayPushPolyfill.d.ts",
+      "category": "utils"
+    },
+    "ArrayPushPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayPushPolyfill.ts",
+      "category": "utils"
+    },
+    "ArrayReversePolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArrayReversePolyfill.d.ts",
+      "category": "types"
+    },
+    "ArrayReversePolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayReversePolyfill.ts",
+      "category": "utils"
+    },
+    "ArraySliceUtility.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArraySliceUtility.d.ts",
+      "category": "types"
+    },
+    "ArraySliceUtility.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArraySliceUtility.ts",
+      "category": "utils"
+    },
+    "ArraySpeciesCreate.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArraySpeciesCreate.d.ts",
+      "category": "types"
+    },
+    "ArraySpeciesCreate.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArraySpeciesCreate.ts",
+      "category": "core_functions"
+    },
+    "ArrayUnscopables.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ArrayUnscopables.d.ts",
+      "category": "types"
+    },
+    "ArrayUnscopables.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayUnscopables.ts",
+      "category": "core_functions"
+    },
+    "ArrayUnshiftPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayUnshiftPolyfill.d.ts",
+      "category": "utils"
+    },
+    "ArrayUnshiftPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ArrayUnshiftPolyfill.ts",
+      "category": "utils"
+    },
+    "AsFunctionOrThrow.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/AsFunctionOrThrow.ts",
+      "category": "utils"
+    },
+    "BROKEN_CARET.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/BROKEN_CARET.d.ts",
+      "category": "types"
+    },
+    "BROKEN_CARET.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/BROKEN_CARET.ts",
+      "category": "utils"
+    },
+    "BarrelExport44292.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/BarrelExport44292.d.ts",
+      "category": "types"
+    },
+    "BarrelExport44292.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/BarrelExport44292.ts",
+      "category": "utils"
+    },
+    "BaseLight.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/BaseLight.d.ts",
+      "category": "lighting"
+    },
+    "BaseLight.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/BaseLight.ts",
+      "category": "lighting"
+    },
+    "BindSupport.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/BindSupport.d.ts",
+      "category": "types"
+    },
+    "BindSupport.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/BindSupport.ts",
+      "category": "utils"
+    },
+    "BoundUtil.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/BoundUtil.d.ts",
+      "category": "geometry"
+    },
+    "BoundUtil.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/BoundUtil.ts",
+      "category": "geometry"
+    },
+    "BoundingBox.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/BoundingBox.d.ts",
+      "category": "geometry"
+    },
+    "BrowserDetection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/BrowserDetection.d.ts",
+      "category": "types"
+    },
+    "BrowserDetection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/BrowserDetection.ts",
+      "category": "utils"
+    },
+    "BrowserPropertyDescriptorSupport.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/BrowserPropertyDescriptorSupport.d.ts",
+      "category": "types"
+    },
+    "BrowserPropertyDescriptorSupport.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/BrowserPropertyDescriptorSupport.ts",
+      "category": "utils"
+    },
+    "CORRECTPREVENTEXTENSIONS.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CORRECTPREVENTEXTENSIONS.d.ts",
+      "category": "types"
+    },
+    "CabinetMoldingEnum.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CabinetMoldingEnum.d.ts",
+      "category": "types"
+    },
+    "CabinetMoldingEnum.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CabinetMoldingEnum.ts",
+      "category": "types"
+    },
+    "CallUtility.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CallUtility.d.ts",
+      "category": "types"
+    },
+    "CallUtility.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CallUtility.ts",
+      "category": "utils"
+    },
+    "CeilingLightCalculator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightCalculator.d.ts",
+      "category": "lighting"
+    },
+    "CeilingLightCalculator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightCalculator.ts",
+      "category": "lighting"
+    },
+    "CeilingLightComputer.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightComputer.d.ts",
+      "category": "lighting"
+    },
+    "CeilingLightComputer.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightComputer.ts",
+      "category": "lighting"
+    },
+    "CeilingLightComputer2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightComputer2.d.ts",
+      "category": "lighting"
+    },
+    "CeilingLightComputer2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightComputer2.ts",
+      "category": "lighting"
+    },
+    "CeilingLightComputer3.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightComputer3.d.ts",
+      "category": "lighting"
+    },
+    "CeilingLightComputer3.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/CeilingLightComputer3.ts",
+      "category": "lighting"
+    },
+    "CheckRegExpDotAllSupport.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CheckRegExpDotAllSupport.d.ts",
+      "category": "types"
+    },
+    "CheckSetMethod.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CheckSetMethod.ts",
+      "category": "utils"
+    },
+    "ClassOf.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ClassOf.d.ts",
+      "category": "types"
+    },
+    "ClassOf.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ClassOf.ts",
+      "category": "utils"
+    },
+    "ClassofModule.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ClassofModule.d.ts",
+      "category": "types"
+    },
+    "ClassofModule.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ClassofModule.ts",
+      "category": "utils"
+    },
+    "CollectionDelete.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CollectionDelete.ts",
+      "category": "core_functions"
+    },
+    "CollectionHas.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CollectionHas.d.ts",
+      "category": "types"
+    },
+    "CollectionHas.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CollectionHas.ts",
+      "category": "core_functions"
+    },
+    "CollectionSet.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CollectionSet.d.ts",
+      "category": "types"
+    },
+    "CollectionSet.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CollectionSet.ts",
+      "category": "core_functions"
+    },
+    "CollectionSet2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CollectionSet2.d.ts",
+      "category": "types"
+    },
+    "CollectionUnion.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CollectionUnion.d.ts",
+      "category": "types"
+    },
+    "CollectionUnion.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CollectionUnion.ts",
+      "category": "core_functions"
+    },
+    "ConstructorValidator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ConstructorValidator.d.ts",
+      "category": "types"
+    },
+    "ConstructorValidator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ConstructorValidator.ts",
+      "category": "utils"
+    },
+    "ContentType.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ContentType.d.ts",
+      "category": "types"
+    },
+    "ContentType.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ContentType.ts",
+      "category": "types"
+    },
+    "ConvertToString.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ConvertToString.ts",
+      "category": "core_functions"
+    },
+    "CoreJSShared.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CoreJSShared.d.ts",
+      "category": "types"
+    },
+    "CoreJSShared.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CoreJSShared.ts",
+      "category": "utils"
+    },
+    "CreateErrorConstructor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CreateErrorConstructor.ts",
+      "category": "core_functions"
+    },
+    "CreateJSONReplacer.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CreateJSONReplacer.ts",
+      "category": "utils"
+    },
+    "CreateStringNumberReplacer.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/CreateStringNumberReplacer.d.ts",
+      "category": "core_functions"
+    },
+    "CreateTypedArray.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/CreateTypedArray.ts",
+      "category": "types"
+    },
+    "CsgBoolean.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/CsgBoolean.d.ts",
+      "category": "kernel"
+    },
+    "DOMElementCreator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/DOMElementCreator.d.ts",
+      "category": "types"
+    },
+    "DOMElementCreator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/DOMElementCreator.ts",
+      "category": "utils"
+    },
+    "DOMIterables.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/DOMIterables.ts",
+      "category": "utils"
+    },
+    "DOMTokenListPrototypeResult.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/DOMTokenListPrototypeResult.d.ts",
+      "category": "types"
+    },
+    "DOMTokenListPrototypeResult.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/DOMTokenListPrototypeResult.ts",
+      "category": "types"
+    },
+    "DefinePropertiesModule.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/DefinePropertiesModule.d.ts",
+      "category": "types"
+    },
+    "DefinePropertiesModule.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/DefinePropertiesModule.ts",
+      "category": "utils"
+    },
+    "DeleteProperty.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/DeleteProperty.ts",
+      "category": "utils"
+    },
+    "DetectNamedCaptureGroupBug.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/DetectNamedCaptureGroupBug.d.ts",
+      "category": "types"
+    },
+    "DeviceDetection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/DeviceDetection.d.ts",
+      "category": "types"
+    },
+    "DeviceDetection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/DeviceDetection.ts",
+      "category": "utils"
+    },
+    "ESModuleMarker.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ESModuleMarker.d.ts",
+      "category": "types"
+    },
+    "ESModuleMarker.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ESModuleMarker.ts",
+      "category": "utils"
+    },
+    "ESModuleMarker2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ESModuleMarker2.d.ts",
+      "category": "types"
+    },
+    "ESModuleMarker2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ESModuleMarker2.ts",
+      "category": "utils"
+    },
+    "EmptyConstructor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/EmptyConstructor.d.ts",
+      "category": "types"
+    },
+    "EmptyConstructor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/EmptyConstructor.ts",
+      "category": "utils"
+    },
+    "EmptyModule20431.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/EmptyModule20431.d.ts",
+      "category": "types"
+    },
+    "EmptyModule20431.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/EmptyModule20431.ts",
+      "category": "utils"
+    },
+    "EmptyModule23183.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/EmptyModule23183.d.ts",
+      "category": "types"
+    },
+    "EmptyModule23183.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/EmptyModule23183.ts",
+      "category": "utils"
+    },
+    "EmptyModule91006.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/EmptyModule91006.d.ts",
+      "category": "types"
+    },
+    "EmptyModule91006.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/EmptyModule91006.ts",
+      "category": "utils"
+    },
+    "Enforce.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Enforce.d.ts",
+      "category": "types"
+    },
+    "EnhancedWeakMap.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/EnhancedWeakMap.d.ts",
+      "category": "types"
+    },
+    "EnhancedWeakMap.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/EnhancedWeakMap.ts",
+      "category": "utils"
+    },
+    "EquationConstraint.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/EquationConstraint.ts",
+      "category": "kernel"
+    },
+    "EquationVariable.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/EquationVariable.d.ts",
+      "category": "types"
+    },
+    "Error.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Error.d.ts",
+      "category": "types"
+    },
+    "Error.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Error.ts",
+      "category": "core_functions"
+    },
+    "ErrorConstructorFactory.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ErrorConstructorFactory.d.ts",
+      "category": "types"
+    },
+    "ErrorStackConfigurableCheck.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ErrorStackConfigurableCheck.d.ts",
+      "category": "types"
+    },
+    "ErrorStackConfigurableCheck.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ErrorStackConfigurableCheck.ts",
+      "category": "core_functions"
+    },
+    "EulerOperations.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/EulerOperations.d.ts",
+      "category": "kernel"
+    },
+    "EulerOperations.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/EulerOperations.ts",
+      "category": "kernel"
+    },
+    "Exports.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Exports.d.ts",
+      "category": "types"
+    },
+    "Exports.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Exports.ts",
+      "category": "utils"
+    },
+    "ExternalModule.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ExternalModule.d.ts",
+      "category": "types"
+    },
+    "ExternalModule59573.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ExternalModule59573.d.ts",
+      "category": "types"
+    },
+    "ExternalModule59573.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ExternalModule59573.ts",
+      "category": "utils"
+    },
+    "ExternalModule81711.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ExternalModule81711.d.ts",
+      "category": "types"
+    },
+    "ExternalModule81711.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ExternalModule81711.ts",
+      "category": "utils"
+    },
+    "F.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/F.ts",
+      "category": "utils"
+    },
+    "FlatLightComputer.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/FlatLightComputer.d.ts",
+      "category": "lighting"
+    },
+    "FlatLightComputer.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/FlatLightComputer.ts",
+      "category": "lighting"
+    },
+    "FrozenStorage.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/FrozenStorage.d.ts",
+      "category": "types"
+    },
+    "Function.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function.ts",
+      "category": "utils"
+    },
+    "Function10.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function10.ts",
+      "category": "core_functions"
+    },
+    "Function2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function2.ts",
+      "category": "core_functions"
+    },
+    "Function3.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function3.ts",
+      "category": "core_functions"
+    },
+    "Function4.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function4.ts",
+      "category": "core_functions"
+    },
+    "Function5.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function5.ts",
+      "category": "core_functions"
+    },
+    "Function6.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function6.ts",
+      "category": "core_functions"
+    },
+    "Function7.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function7.ts",
+      "category": "core_functions"
+    },
+    "Function8.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function8.ts",
+      "category": "core_functions"
+    },
+    "Function9.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Function9.ts",
+      "category": "core_functions"
+    },
+    "FunctionApply.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/FunctionApply.d.ts",
+      "category": "types"
+    },
+    "FunctionApply.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/FunctionApply.ts",
+      "category": "utils"
+    },
+    "FunctionBindUtility.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/FunctionBindUtility.d.ts",
+      "category": "types"
+    },
+    "FunctionBindUtility.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/FunctionBindUtility.ts",
+      "category": "utils"
+    },
+    "FunctionComposition.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/FunctionComposition.d.ts",
+      "category": "types"
+    },
+    "FunctionComposition.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/FunctionComposition.ts",
+      "category": "utils"
+    },
+    "FunctionExtractor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/FunctionExtractor.d.ts",
+      "category": "types"
+    },
+    "FunctionExtractor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/FunctionExtractor.ts",
+      "category": "utils"
+    },
+    "FunctionNameDescriptor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/FunctionNameDescriptor.d.ts",
+      "category": "types"
+    },
+    "FunctionNameDescriptor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/FunctionNameDescriptor.ts",
+      "category": "utils"
+    },
+    "GeometryClipperUtil.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/GeometryClipperUtil.d.ts",
+      "category": "geometry"
+    },
+    "GeometryClipperUtil.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/GeometryClipperUtil.ts",
+      "category": "geometry"
+    },
+    "GeometryFilter.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/GeometryFilter.d.ts",
+      "category": "geometry"
+    },
+    "GetBuiltin.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/GetBuiltin.d.ts",
+      "category": "types"
+    },
+    "GetLightInfo.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/GetLightInfo.d.ts",
+      "category": "lighting"
+    },
+    "GetOwnPropertyDescriptor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/GetOwnPropertyDescriptor.d.ts",
+      "category": "types"
+    },
+    "GetOwnPropertyNamesExternalModule.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/GetOwnPropertyNamesExternalModule.d.ts",
+      "category": "types"
+    },
+    "GetOwnPropertyNamesExternalModule.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/GetOwnPropertyNamesExternalModule.ts",
+      "category": "utils"
+    },
+    "GetRegExpFlags.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/GetRegExpFlags.ts",
+      "category": "utils"
+    },
+    "GetSubstitution.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/GetSubstitution.d.ts",
+      "category": "types"
+    },
+    "GlobalObject.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/GlobalObject.d.ts",
+      "category": "types"
+    },
+    "GlobalObject.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/GlobalObject.ts",
+      "category": "core_functions"
+    },
+    "HSCatalogInstance.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/HSCatalogInstance.d.ts",
+      "category": "types"
+    },
+    "HSCatalogInstance.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/HSCatalogInstance.ts",
+      "category": "parametric"
+    },
+    "HSCore.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/HSCore.d.ts",
+      "category": "types"
+    },
+    "HSCore.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/HSCore.ts",
+      "category": "utils"
+    },
+    "HSPaveSDK.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/HSPaveSDK.d.ts",
+      "category": "types"
+    },
+    "HSPaveSDK.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/HSPaveSDK.ts",
+      "category": "utils"
+    },
+    "HasNativeSymbol.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/HasNativeSymbol.d.ts",
+      "category": "types"
+    },
+    "HasNativeSymbol.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/HasNativeSymbol.ts",
+      "category": "utils"
+    },
+    "HasOwn.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/HasOwn.d.ts",
+      "category": "types"
+    },
+    "HasOwn.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/HasOwn.ts",
+      "category": "utils"
+    },
+    "HoleParameter.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/HoleParameter.d.ts",
+      "category": "types"
+    },
+    "HoleParameter.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/HoleParameter.ts",
+      "category": "kernel"
+    },
+    "Hole_IO.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Hole_IO.d.ts",
+      "category": "types"
+    },
+    "Hole_IO.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Hole_IO.ts",
+      "category": "utils"
+    },
+    "IMesh.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/IMesh.d.ts",
+      "category": "geometry"
+    },
+    "IMesh.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/IMesh.ts",
+      "category": "geometry"
+    },
+    "IS_PURE.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IS_PURE.d.ts",
+      "category": "types"
+    },
+    "IS_PURE.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IS_PURE.ts",
+      "category": "utils"
+    },
+    "InspectSource.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/InspectSource.d.ts",
+      "category": "types"
+    },
+    "InspectSource.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/InspectSource.ts",
+      "category": "utils"
+    },
+    "InstallErrorStack.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/InstallErrorStack.ts",
+      "category": "core_functions"
+    },
+    "InternalMetadata.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/InternalMetadata.d.ts",
+      "category": "types"
+    },
+    "InternalMetadata.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/InternalMetadata.ts",
+      "category": "utils"
+    },
+    "InternalState.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/InternalState.d.ts",
+      "category": "types"
+    },
+    "InternalState.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/InternalState.ts",
+      "category": "utils"
+    },
+    "InternalState2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/InternalState2.d.ts",
+      "category": "types"
+    },
+    "IosDeviceDetection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IosDeviceDetection.d.ts",
+      "category": "types"
+    },
+    "IosDeviceDetection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IosDeviceDetection.ts",
+      "category": "utils"
+    },
+    "IsArray.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IsArray.ts",
+      "category": "core_functions"
+    },
+    "IsCallable.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsCallable.d.ts",
+      "category": "types"
+    },
+    "IsConstructor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsConstructor.d.ts",
+      "category": "types"
+    },
+    "IsConstructor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/IsConstructor.ts",
+      "category": "parametric"
+    },
+    "IsConstructor2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsConstructor2.d.ts",
+      "category": "types"
+    },
+    "IsConstructor2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IsConstructor2.ts",
+      "category": "utils"
+    },
+    "IsConstructor3.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsConstructor3.d.ts",
+      "category": "types"
+    },
+    "IsConstructor3.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IsConstructor3.ts",
+      "category": "utils"
+    },
+    "IsConstructorFactory.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsConstructorFactory.d.ts",
+      "category": "types"
+    },
+    "IsConstructorFactory.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IsConstructorFactory.ts",
+      "category": "utils"
+    },
+    "IsConstructorPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IsConstructorPolyfill.d.ts",
+      "category": "utils"
+    },
+    "IsConstructorPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IsConstructorPolyfill.ts",
+      "category": "utils"
+    },
+    "IsConstructorPrototype.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsConstructorPrototype.d.ts",
+      "category": "types"
+    },
+    "IsConstructorPrototype.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsConstructorPrototype.ts",
+      "category": "types"
+    },
+    "IsDModel.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsDModel.d.ts",
+      "category": "types"
+    },
+    "IsDenoEnvironment.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsDenoEnvironment.d.ts",
+      "category": "types"
+    },
+    "IsSubsetOf.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IsSubsetOf.d.ts",
+      "category": "types"
+    },
+    "IsSubsetOf.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IsSubsetOf.ts",
+      "category": "utils"
+    },
+    "Iterate.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterate.d.ts",
+      "category": "types"
+    },
+    "IterateUntilResult.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IterateUntilResult.d.ts",
+      "category": "types"
+    },
+    "IterateWithCallback.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IterateWithCallback.ts",
+      "category": "utils"
+    },
+    "Iterator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator.d.ts",
+      "category": "types"
+    },
+    "Iterator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator.ts",
+      "category": "core_functions"
+    },
+    "Iterator2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator2.d.ts",
+      "category": "types"
+    },
+    "Iterator2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator2.ts",
+      "category": "core_functions"
+    },
+    "Iterator3.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator3.d.ts",
+      "category": "types"
+    },
+    "Iterator3.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator3.ts",
+      "category": "core_functions"
+    },
+    "Iterator4.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator4.d.ts",
+      "category": "types"
+    },
+    "Iterator4.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator4.ts",
+      "category": "core_functions"
+    },
+    "Iterator5.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator5.d.ts",
+      "category": "types"
+    },
+    "Iterator5.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator5.ts",
+      "category": "core_functions"
+    },
+    "Iterator6.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator6.d.ts",
+      "category": "types"
+    },
+    "Iterator6.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator6.ts",
+      "category": "core_functions"
+    },
+    "Iterator7.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator7.d.ts",
+      "category": "types"
+    },
+    "Iterator7.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator7.ts",
+      "category": "core_functions"
+    },
+    "Iterator8.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Iterator8.d.ts",
+      "category": "types"
+    },
+    "Iterator8.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Iterator8.ts",
+      "category": "core_functions"
+    },
+    "IteratorClose.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IteratorClose.d.ts",
+      "category": "types"
+    },
+    "IteratorClose.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorClose.ts",
+      "category": "core_functions"
+    },
+    "IteratorForEach.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IteratorForEach.d.ts",
+      "category": "types"
+    },
+    "IteratorForEach.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorForEach.ts",
+      "category": "core_functions"
+    },
+    "IteratorHelper.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorHelper.d.ts",
+      "category": "utils"
+    },
+    "IteratorHelper.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorHelper.ts",
+      "category": "utils"
+    },
+    "IteratorMethods.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IteratorMethods.d.ts",
+      "category": "types"
+    },
+    "IteratorPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IteratorPolyfill.d.ts",
+      "category": "types"
+    },
+    "IteratorPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorPolyfill.ts",
+      "category": "utils"
+    },
+    "IteratorPolyfillPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorPolyfillPolyfill.d.ts",
+      "category": "utils"
+    },
+    "IteratorPolyfillPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorPolyfillPolyfill.ts",
+      "category": "utils"
+    },
+    "IteratorProtocolChecker.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IteratorProtocolChecker.d.ts",
+      "category": "types"
+    },
+    "IteratorProtocolChecker.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorProtocolChecker.ts",
+      "category": "utils"
+    },
+    "IteratorPrototype.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IteratorPrototype.d.ts",
+      "category": "types"
+    },
+    "IteratorPrototype.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/IteratorPrototype.ts",
+      "category": "types"
+    },
+    "IteratorToArray.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorToArray.d.ts",
+      "category": "core_functions"
+    },
+    "IteratorToArray.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/IteratorToArray.ts",
+      "category": "core_functions"
+    },
+    "JSONDecycle.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/JSONDecycle.d.ts",
+      "category": "types"
+    },
+    "JSONDecycle.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/JSONDecycle.ts",
+      "category": "utils"
+    },
+    "LengthValidator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/LengthValidator.d.ts",
+      "category": "types"
+    },
+    "LengthValidator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/LengthValidator.ts",
+      "category": "utils"
+    },
+    "LightCalculator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/LightCalculator.d.ts",
+      "category": "lighting"
+    },
+    "LightCalculator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/LightCalculator.ts",
+      "category": "lighting"
+    },
+    "LightingCalculator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/LightingCalculator.d.ts",
+      "category": "lighting"
+    },
+    "LightingCalculator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/LightingCalculator.ts",
+      "category": "lighting"
+    },
+    "LineSeg.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/LineSeg.d.ts",
+      "category": "types"
+    },
+    "LineSeg.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/LineSeg.ts",
+      "category": "geometry"
+    },
+    "LineSegment.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/LineSegment.d.ts",
+      "category": "types"
+    },
+    "LineSegment.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/LineSegment.ts",
+      "category": "lighting"
+    },
+    "LogProcessor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/LogProcessor.ts",
+      "category": "utils"
+    },
+    "MappedIterator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/MappedIterator.d.ts",
+      "category": "types"
+    },
+    "MappedIterator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/MappedIterator.ts",
+      "category": "core_functions"
+    },
+    "MaterialData.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/rendering/MaterialData.d.ts",
+      "category": "rendering"
+    },
+    "MaterialData.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/rendering/MaterialData.ts",
+      "category": "rendering"
+    },
+    "MaterialManager.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/rendering/MaterialManager.d.ts",
+      "category": "rendering"
+    },
+    "Matrix3DHandler.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Matrix3DHandler.d.ts",
+      "category": "types"
+    },
+    "Matrix3DHandler.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Matrix3DHandler.ts",
+      "category": "geometry"
+    },
+    "MergeSort.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/MergeSort.d.ts",
+      "category": "types"
+    },
+    "MergeSort.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/algorithms/MergeSort.ts",
+      "category": "algorithms"
+    },
+    "Metadata.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Metadata.ts",
+      "category": "utils"
+    },
+    "MicrotaskQueue.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/MicrotaskQueue.d.ts",
+      "category": "types"
+    },
+    "MicrotaskQueue.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/MicrotaskQueue.ts",
+      "category": "utils"
+    },
+    "Module14890.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module14890.d.ts",
+      "category": "types"
+    },
+    "Module20147.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module20147.d.ts",
+      "category": "types"
+    },
+    "Module20147.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module20147.ts",
+      "category": "core_functions"
+    },
+    "Module20198.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module20198.d.ts",
+      "category": "types"
+    },
+    "Module20198.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module20198.ts",
+      "category": "core_functions"
+    },
+    "Module20352.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module20352.d.ts",
+      "category": "types"
+    },
+    "Module2314.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module2314.d.ts",
+      "category": "types"
+    },
+    "Module28394.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module28394.d.ts",
+      "category": "types"
+    },
+    "Module28394.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module28394.ts",
+      "category": "core_functions"
+    },
+    "Module28808.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module28808.d.ts",
+      "category": "types"
+    },
+    "Module28808.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module28808.ts",
+      "category": "core_functions"
+    },
+    "Module32264.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module32264.d.ts",
+      "category": "types"
+    },
+    "Module32264.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module32264.ts",
+      "category": "core_functions"
+    },
+    "Module35710.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module35710.d.ts",
+      "category": "types"
+    },
+    "Module4012.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module4012.d.ts",
+      "category": "types"
+    },
+    "Module42389.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module42389.d.ts",
+      "category": "types"
+    },
+    "Module42389.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module42389.ts",
+      "category": "core_functions"
+    },
+    "Module42612.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module42612.d.ts",
+      "category": "types"
+    },
+    "Module42612.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module42612.ts",
+      "category": "core_functions"
+    },
+    "Module45573.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module45573.d.ts",
+      "category": "types"
+    },
+    "Module49604.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module49604.d.ts",
+      "category": "types"
+    },
+    "Module49604.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module49604.ts",
+      "category": "core_functions"
+    },
+    "Module49608.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module49608.d.ts",
+      "category": "types"
+    },
+    "Module49608.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module49608.ts",
+      "category": "core_functions"
+    },
+    "Module51545.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module51545.ts",
+      "category": "core_functions"
+    },
+    "Module53250.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module53250.d.ts",
+      "category": "types"
+    },
+    "Module55256.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module55256.d.ts",
+      "category": "types"
+    },
+    "Module55256.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module55256.ts",
+      "category": "core_functions"
+    },
+    "Module5538.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module5538.d.ts",
+      "category": "types"
+    },
+    "Module60056.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module60056.d.ts",
+      "category": "types"
+    },
+    "Module62016.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module62016.d.ts",
+      "category": "types"
+    },
+    "Module63675.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module63675.d.ts",
+      "category": "types"
+    },
+    "Module64239.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module64239.d.ts",
+      "category": "types"
+    },
+    "Module66315.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module66315.ts",
+      "category": "core_functions"
+    },
+    "Module67171.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module67171.d.ts",
+      "category": "types"
+    },
+    "Module67171.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module67171.ts",
+      "category": "core_functions"
+    },
+    "Module69650.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module69650.d.ts",
+      "category": "types"
+    },
+    "Module70598.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module70598.d.ts",
+      "category": "types"
+    },
+    "Module70598.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module70598.ts",
+      "category": "core_functions"
+    },
+    "Module73133.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module73133.d.ts",
+      "category": "types"
+    },
+    "Module79248.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module79248.d.ts",
+      "category": "types"
+    },
+    "Module81741.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module81741.d.ts",
+      "category": "types"
+    },
+    "Module81741.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module81741.ts",
+      "category": "core_functions"
+    },
+    "Module81945.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module81945.ts",
+      "category": "core_functions"
+    },
+    "Module82745.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module82745.d.ts",
+      "category": "types"
+    },
+    "Module84236.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module84236.d.ts",
+      "category": "types"
+    },
+    "Module84236.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module84236.ts",
+      "category": "core_functions"
+    },
+    "Module87524.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module87524.d.ts",
+      "category": "types"
+    },
+    "Module92726.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module92726.d.ts",
+      "category": "types"
+    },
+    "Module92726.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module92726.ts",
+      "category": "core_functions"
+    },
+    "Module93222.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module93222.d.ts",
+      "category": "types"
+    },
+    "Module97104.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module97104.d.ts",
+      "category": "types"
+    },
+    "Module97104.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Module97104.ts",
+      "category": "core_functions"
+    },
+    "Module98745.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Module98745.d.ts",
+      "category": "types"
+    },
+    "ModuleExports.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ModuleExports.d.ts",
+      "category": "types"
+    },
+    "ModuleExports.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ModuleExports.ts",
+      "category": "utils"
+    },
+    "ModuleF.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ModuleF.d.ts",
+      "category": "types"
+    },
+    "ModuleKeys.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ModuleKeys.d.ts",
+      "category": "types"
+    },
+    "ModuleKeys.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ModuleKeys.ts",
+      "category": "utils"
+    },
+    "ModuleReExports.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ModuleReExports.d.ts",
+      "category": "types"
+    },
+    "ModuleReExports.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ModuleReExports.ts",
+      "category": "utils"
+    },
+    "NATIVE.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/NATIVE.d.ts",
+      "category": "types"
+    },
+    "NATIVE.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/NATIVE.ts",
+      "category": "utils"
+    },
+    "NativeWeakMapDetection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/NativeWeakMapDetection.d.ts",
+      "category": "types"
+    },
+    "NativeWeakMapDetection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/NativeWeakMapDetection.ts",
+      "category": "utils"
+    },
+    "NumberValueOf.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/NumberValueOf.d.ts",
+      "category": "types"
+    },
+    "NumberValueOf.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/NumberValueOf.ts",
+      "category": "core_functions"
+    },
+    "OBJECT_PROTOTYPE_PROPERTIES.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/OBJECT_PROTOTYPE_PROPERTIES.d.ts",
+      "category": "types"
+    },
+    "OBJECT_PROTOTYPE_PROPERTIES.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/OBJECT_PROTOTYPE_PROPERTIES.ts",
+      "category": "types"
+    },
+    "ObjectAssignPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectAssignPolyfill.d.ts",
+      "category": "types"
+    },
+    "ObjectAssignPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectAssignPolyfill.ts",
+      "category": "utils"
+    },
+    "ObjectDefinePropertySupport.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectDefinePropertySupport.d.ts",
+      "category": "types"
+    },
+    "ObjectDefinePropertySupport.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectDefinePropertySupport.ts",
+      "category": "utils"
+    },
+    "ObjectGet.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectGet.d.ts",
+      "category": "types"
+    },
+    "ObjectGet.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectGet.ts",
+      "category": "core_functions"
+    },
+    "ObjectGetOwnPropertyNames.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectGetOwnPropertyNames.d.ts",
+      "category": "types"
+    },
+    "ObjectGetOwnPropertyNames.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectGetOwnPropertyNames.ts",
+      "category": "core_functions"
+    },
+    "ObjectGetPrototypeOf.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectGetPrototypeOf.d.ts",
+      "category": "types"
+    },
+    "ObjectGetPrototypeOf.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectGetPrototypeOf.ts",
+      "category": "types"
+    },
+    "ObjectKeys.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectKeys.d.ts",
+      "category": "types"
+    },
+    "ObjectKeys.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectKeys.ts",
+      "category": "core_functions"
+    },
+    "ObjectKeysPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectKeysPolyfill.d.ts",
+      "category": "types"
+    },
+    "ObjectKeysPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectKeysPolyfill.ts",
+      "category": "utils"
+    },
+    "ObjectMerge.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectMerge.d.ts",
+      "category": "types"
+    },
+    "ObjectPool.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectPool.d.ts",
+      "category": "types"
+    },
+    "ObjectPool.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectPool.ts",
+      "category": "core_functions"
+    },
+    "ObjectTypeChecker.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ObjectTypeChecker.d.ts",
+      "category": "types"
+    },
+    "ObjectTypeChecker.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ObjectTypeChecker.ts",
+      "category": "utils"
+    },
+    "OpeningLightComputer.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/OpeningLightComputer.d.ts",
+      "category": "lighting"
+    },
+    "OpeningLightComputer.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/OpeningLightComputer.ts",
+      "category": "lighting"
+    },
+    "OpeningLine.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/OpeningLine.d.ts",
+      "category": "types"
+    },
+    "OpeningLine.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/OpeningLine.ts",
+      "category": "geometry"
+    },
+    "PAssemblyBody.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyBody.d.ts",
+      "category": "parametric"
+    },
+    "PAssemblyBody.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyBody.ts",
+      "category": "parametric"
+    },
+    "PAssemblyFilter.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PAssemblyFilter.d.ts",
+      "category": "types"
+    },
+    "PAssemblyFilter.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyFilter.ts",
+      "category": "parametric"
+    },
+    "PAssemblyProcessor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyProcessor.d.ts",
+      "category": "parametric"
+    },
+    "PAssemblyProcessor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyProcessor.ts",
+      "category": "parametric"
+    },
+    "PAssemblyRotation.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyRotation.d.ts",
+      "category": "parametric"
+    },
+    "PAssemblyRotation.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyRotation.ts",
+      "category": "parametric"
+    },
+    "PAssemblyUtil.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyUtil.d.ts",
+      "category": "parametric"
+    },
+    "PAssemblyUtil.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PAssemblyUtil.ts",
+      "category": "parametric"
+    },
+    "PBox_IO.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PBox_IO.d.ts",
+      "category": "types"
+    },
+    "PBox_IO.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PBox_IO.ts",
+      "category": "parametric"
+    },
+    "PModelTypes.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PModelTypes.d.ts",
+      "category": "types"
+    },
+    "PModelTypes.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PModelTypes.ts",
+      "category": "parametric"
+    },
+    "PMolding_IO.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PMolding_IO.d.ts",
+      "category": "parametric"
+    },
+    "PMolding_IO.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/PMolding_IO.ts",
+      "category": "parametric"
+    },
+    "PSegmentLoft_IO.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/PSegmentLoft_IO.d.ts",
+      "category": "kernel"
+    },
+    "PSegmentLoft_IO.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/PSegmentLoft_IO.ts",
+      "category": "kernel"
+    },
+    "PSlidingDoor_IO.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PSlidingDoor_IO.d.ts",
+      "category": "types"
+    },
+    "PSlidingDoor_IO.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/PSlidingDoor_IO.ts",
+      "category": "kernel"
+    },
+    "ParseFloatPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ParseFloatPolyfill.d.ts",
+      "category": "utils"
+    },
+    "ParseFloatPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ParseFloatPolyfill.ts",
+      "category": "utils"
+    },
+    "ParseFloatPolyfill2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ParseFloatPolyfill2.d.ts",
+      "category": "types"
+    },
+    "ParseFloatPolyfill2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ParseFloatPolyfill2.ts",
+      "category": "utils"
+    },
+    "Path.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Path.d.ts",
+      "category": "types"
+    },
+    "Point.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Point.d.ts",
+      "category": "types"
+    },
+    "Point.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Point.ts",
+      "category": "geometry"
+    },
+    "Point2D.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Point2D.d.ts",
+      "category": "geometry"
+    },
+    "Point2D.ts": {
+      "moved": false,
+      "reason": "exists",
+      "targetPath": "source/core/geometry/Point2D.ts",
+      "category": "geometry"
+    },
+    "Point2D2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Point2D2.d.ts",
+      "category": "geometry"
+    },
+    "Point2D2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Point2D2.ts",
+      "category": "geometry"
+    },
+    "Point3D.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Point3D.d.ts",
+      "category": "geometry"
+    },
+    "Point3D.ts": {
+      "moved": false,
+      "reason": "exists",
+      "targetPath": "source/core/geometry/Point3D.ts",
+      "category": "geometry"
+    },
+    "Point3D2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Point3D2.d.ts",
+      "category": "geometry"
+    },
+    "Point3D2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Point3D2.ts",
+      "category": "geometry"
+    },
+    "PointOnEdgeResult.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/PointOnEdgeResult.d.ts",
+      "category": "geometry"
+    },
+    "Polyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill.d.ts",
+      "category": "utils"
+    },
+    "Polyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill.ts",
+      "category": "utils"
+    },
+    "Polyfill10.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill10.d.ts",
+      "category": "types"
+    },
+    "Polyfill10.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill10.ts",
+      "category": "utils"
+    },
+    "Polyfill11.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill11.d.ts",
+      "category": "types"
+    },
+    "Polyfill11.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill11.ts",
+      "category": "utils"
+    },
+    "Polyfill12.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill12.d.ts",
+      "category": "types"
+    },
+    "Polyfill13.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill13.d.ts",
+      "category": "types"
+    },
+    "Polyfill14.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill14.d.ts",
+      "category": "types"
+    },
+    "Polyfill2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill2.d.ts",
+      "category": "types"
+    },
+    "Polyfill2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill2.ts",
+      "category": "utils"
+    },
+    "Polyfill3.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill3.d.ts",
+      "category": "types"
+    },
+    "Polyfill3.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill3.ts",
+      "category": "utils"
+    },
+    "Polyfill4.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill4.d.ts",
+      "category": "utils"
+    },
+    "Polyfill4.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill4.ts",
+      "category": "utils"
+    },
+    "Polyfill5.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill5.d.ts",
+      "category": "types"
+    },
+    "Polyfill5.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill5.ts",
+      "category": "utils"
+    },
+    "Polyfill6.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill6.d.ts",
+      "category": "types"
+    },
+    "Polyfill6.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill6.ts",
+      "category": "utils"
+    },
+    "Polyfill7.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill7.d.ts",
+      "category": "types"
+    },
+    "Polyfill7.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill7.ts",
+      "category": "utils"
+    },
+    "Polyfill8.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill8.d.ts",
+      "category": "types"
+    },
+    "Polyfill8.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill8.ts",
+      "category": "utils"
+    },
+    "Polyfill9.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Polyfill9.d.ts",
+      "category": "types"
+    },
+    "Polyfill9.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Polyfill9.ts",
+      "category": "utils"
+    },
+    "PolyfillConfig.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillConfig.d.ts",
+      "category": "utils"
+    },
+    "PolyfillConfig.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillConfig.ts",
+      "category": "utils"
+    },
+    "PolyfillConfigPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillConfigPolyfill.d.ts",
+      "category": "utils"
+    },
+    "PolyfillConfigPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillConfigPolyfill.ts",
+      "category": "utils"
+    },
+    "PolyfillDefinitionOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PolyfillDefinitionOptions.d.ts",
+      "category": "types"
+    },
+    "PolyfillDefinitionOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillDefinitionOptions.ts",
+      "category": "utils"
+    },
+    "PolyfillExport.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PolyfillExport.d.ts",
+      "category": "types"
+    },
+    "PolyfillExport.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillExport.ts",
+      "category": "utils"
+    },
+    "PolyfillInstallOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillInstallOptions.d.ts",
+      "category": "utils"
+    },
+    "PolyfillInstallOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillInstallOptions.ts",
+      "category": "utils"
+    },
+    "PolyfillPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PolyfillPolyfill.d.ts",
+      "category": "types"
+    },
+    "PolyfillPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillPolyfill.ts",
+      "category": "utils"
+    },
+    "PolyfillRegExp.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillRegExp.d.ts",
+      "category": "utils"
+    },
+    "PolyfillRegExp.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillRegExp.ts",
+      "category": "utils"
+    },
+    "PolyfillRegistrationOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillRegistrationOptions.d.ts",
+      "category": "utils"
+    },
+    "PolyfillRegistrationOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PolyfillRegistrationOptions.ts",
+      "category": "utils"
+    },
+    "Polygon.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Polygon.ts",
+      "category": "geometry"
+    },
+    "Position.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Position.d.ts",
+      "category": "types"
+    },
+    "Position.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/Position.ts",
+      "category": "lighting"
+    },
+    "Position3D.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Position3D.d.ts",
+      "category": "types"
+    },
+    "Position3D.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/Position3D.ts",
+      "category": "lighting"
+    },
+    "Process.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Process.d.ts",
+      "category": "types"
+    },
+    "Process.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Process.ts",
+      "category": "utils"
+    },
+    "ProcessDetection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ProcessDetection.d.ts",
+      "category": "types"
+    },
+    "ProcessDetection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ProcessDetection.ts",
+      "category": "utils"
+    },
+    "ProfileMetadata.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ProfileMetadata.d.ts",
+      "category": "types"
+    },
+    "ProfileMetadata.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/ProfileMetadata.ts",
+      "category": "kernel"
+    },
+    "Promise.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Promise.d.ts",
+      "category": "types"
+    },
+    "Promise.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Promise.ts",
+      "category": "core_functions"
+    },
+    "PromiseCapability.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseCapability.d.ts",
+      "category": "types"
+    },
+    "PromiseCapability.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseCapability.ts",
+      "category": "core_functions"
+    },
+    "PromiseCapability2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseCapability2.d.ts",
+      "category": "types"
+    },
+    "PromiseCapability2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseCapability2.ts",
+      "category": "core_functions"
+    },
+    "PromiseCapabilityFactory.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseCapabilityFactory.d.ts",
+      "category": "types"
+    },
+    "PromiseCapabilityFactory.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseCapabilityFactory.ts",
+      "category": "core_functions"
+    },
+    "PromiseConstructor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseConstructor.d.ts",
+      "category": "types"
+    },
+    "PromiseConstructor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseConstructor.ts",
+      "category": "core_functions"
+    },
+    "PromiseConstructorDetection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseConstructorDetection.d.ts",
+      "category": "types"
+    },
+    "PromiseConstructorDetection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseConstructorDetection.ts",
+      "category": "utils"
+    },
+    "PromiseConstructorLike.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseConstructorLike.d.ts",
+      "category": "types"
+    },
+    "PromiseConstructorLike.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseConstructorLike.ts",
+      "category": "core_functions"
+    },
+    "PromiseConstructorPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseConstructorPolyfill.d.ts",
+      "category": "types"
+    },
+    "PromiseConstructorPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseConstructorPolyfill.ts",
+      "category": "utils"
+    },
+    "PromiseFeatureDetection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseFeatureDetection.d.ts",
+      "category": "types"
+    },
+    "PromiseFeatureDetection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseFeatureDetection.ts",
+      "category": "utils"
+    },
+    "PromiseResolve.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseResolve.d.ts",
+      "category": "types"
+    },
+    "PromiseResolve.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseResolve.ts",
+      "category": "core_functions"
+    },
+    "PromiseState.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PromiseState.d.ts",
+      "category": "types"
+    },
+    "PromiseState.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PromiseState.ts",
+      "category": "core_functions"
+    },
+    "PropertyAccessor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyAccessor.d.ts",
+      "category": "types"
+    },
+    "PropertyAccessor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyAccessor.ts",
+      "category": "utils"
+    },
+    "PropertyCreator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyCreator.d.ts",
+      "category": "types"
+    },
+    "PropertyCreator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyCreator.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyDescriptor.d.ts",
+      "category": "types"
+    },
+    "PropertyDescriptor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptor.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptor2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyDescriptor2.d.ts",
+      "category": "types"
+    },
+    "PropertyDescriptor2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptor2.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptor3.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyDescriptor3.d.ts",
+      "category": "types"
+    },
+    "PropertyDescriptor3.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptor3.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptor4.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyDescriptor4.d.ts",
+      "category": "types"
+    },
+    "PropertyDescriptor4.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptor4.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptorComplianceCheck.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyDescriptorComplianceCheck.d.ts",
+      "category": "types"
+    },
+    "PropertyDescriptorComplianceCheck.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptorComplianceCheck.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptorPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptorPolyfill.d.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptorPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptorPolyfill.ts",
+      "category": "utils"
+    },
+    "PropertyDescriptorUtil.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyDescriptorUtil.d.ts",
+      "category": "types"
+    },
+    "PropertyDescriptorUtil.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyDescriptorUtil.ts",
+      "category": "utils"
+    },
+    "PropertyIsEnumerablePolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyIsEnumerablePolyfill.d.ts",
+      "category": "types"
+    },
+    "PropertyIsEnumerablePolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyIsEnumerablePolyfill.ts",
+      "category": "utils"
+    },
+    "PropertyOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PropertyOptions.d.ts",
+      "category": "types"
+    },
+    "PropertyOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PropertyOptions.ts",
+      "category": "utils"
+    },
+    "ProtoObject.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ProtoObject.d.ts",
+      "category": "types"
+    },
+    "ProtoObject.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ProtoObject.ts",
+      "category": "core_functions"
+    },
+    "PrototypeChecker.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PrototypeChecker.d.ts",
+      "category": "types"
+    },
+    "PrototypeChecker.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PrototypeChecker.ts",
+      "category": "utils"
+    },
+    "PrototypeValidator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/PrototypeValidator.d.ts",
+      "category": "types"
+    },
+    "PrototypeValidator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/PrototypeValidator.ts",
+      "category": "utils"
+    },
+    "Queue.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Queue.d.ts",
+      "category": "types"
+    },
+    "Queue.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Queue.ts",
+      "category": "utils"
+    },
+    "QueueEnqueue.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/QueueEnqueue.ts",
+      "category": "utils"
+    },
+    "REGEXDOTALLFAILURE.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/REGEXDOTALLFAILURE.ts",
+      "category": "utils"
+    },
+    "RGBAColor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RGBAColor.ts",
+      "category": "utils"
+    },
+    "ReExport20198.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ReExport20198.d.ts",
+      "category": "types"
+    },
+    "ReExport20198.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ReExport20198.ts",
+      "category": "utils"
+    },
+    "ReExport57678.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ReExport57678.d.ts",
+      "category": "types"
+    },
+    "ReExport57678.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ReExport57678.ts",
+      "category": "utils"
+    },
+    "ReExport857121.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ReExport857121.d.ts",
+      "category": "types"
+    },
+    "ReExport857121.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ReExport857121.ts",
+      "category": "utils"
+    },
+    "RedefineFunctionOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/RedefineFunctionOptions.d.ts",
+      "category": "types"
+    },
+    "RedefineFunctionOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RedefineFunctionOptions.ts",
+      "category": "utils"
+    },
+    "ReflectOwnKeys.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ReflectOwnKeys.d.ts",
+      "category": "types"
+    },
+    "ReflectOwnKeys.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ReflectOwnKeys.ts",
+      "category": "utils"
+    },
+    "RegExpExecWrapper.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/RegExpExecWrapper.d.ts",
+      "category": "types"
+    },
+    "RegExpExecWrapper.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RegExpExecWrapper.ts",
+      "category": "utils"
+    },
+    "RegExpFlagsGetter.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/RegExpFlagsGetter.d.ts",
+      "category": "types"
+    },
+    "RegExpFlagsGetter.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RegExpFlagsGetter.ts",
+      "category": "utils"
+    },
+    "RegExpMethodPatcher.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/RegExpMethodPatcher.d.ts",
+      "category": "types"
+    },
+    "RegExpMethodPatcher.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RegExpMethodPatcher.ts",
+      "category": "utils"
+    },
+    "RegisterManager.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/RegisterManager.d.ts",
+      "category": "types"
+    },
+    "RegisterManager.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RegisterManager.ts",
+      "category": "utils"
+    },
+    "RenderOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/rendering/RenderOptions.d.ts",
+      "category": "rendering"
+    },
+    "RenderOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/rendering/RenderOptions.ts",
+      "category": "rendering"
+    },
+    "RequireObjectCoercible.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RequireObjectCoercible.ts",
+      "category": "core_functions"
+    },
+    "RequireObjectCoercible2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RequireObjectCoercible2.ts",
+      "category": "core_functions"
+    },
+    "RetryOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/RetryOptions.d.ts",
+      "category": "types"
+    },
+    "RetryOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/RetryOptions.ts",
+      "category": "utils"
+    },
+    "RoomInfo.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/RoomInfo.d.ts",
+      "category": "types"
+    },
+    "RoomInfo.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/RoomInfo.ts",
+      "category": "geometry"
+    },
+    "SearchResult.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SearchResult.d.ts",
+      "category": "types"
+    },
+    "SearchResult.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/algorithms/SearchResult.ts",
+      "category": "algorithms"
+    },
+    "Segment3DData.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Segment3DData.d.ts",
+      "category": "types"
+    },
+    "Segment3DData.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Segment3DData.ts",
+      "category": "geometry"
+    },
+    "Set.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Set.d.ts",
+      "category": "types"
+    },
+    "Set.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Set.ts",
+      "category": "utils"
+    },
+    "SetDifference.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetDifference.d.ts",
+      "category": "types"
+    },
+    "SetDifference.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetDifference.ts",
+      "category": "utils"
+    },
+    "SetDifferencePolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetDifferencePolyfill.d.ts",
+      "category": "utils"
+    },
+    "SetDifferencePolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetDifferencePolyfill.ts",
+      "category": "utils"
+    },
+    "SetIntersection.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetIntersection.d.ts",
+      "category": "types"
+    },
+    "SetIntersection.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetIntersection.ts",
+      "category": "utils"
+    },
+    "SetIntersectionPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetIntersectionPolyfill.d.ts",
+      "category": "utils"
+    },
+    "SetIntersectionPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetIntersectionPolyfill.ts",
+      "category": "utils"
+    },
+    "SetIsSupersetOf.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetIsSupersetOf.d.ts",
+      "category": "types"
+    },
+    "SetIsSupersetOf.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetIsSupersetOf.ts",
+      "category": "utils"
+    },
+    "SetLike.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetLike.d.ts",
+      "category": "types"
+    },
+    "SetLike.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetLike.ts",
+      "category": "utils"
+    },
+    "SetPrototypeOf.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetPrototypeOf.d.ts",
+      "category": "types"
+    },
+    "SetPrototypeOf.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetPrototypeOf.ts",
+      "category": "types"
+    },
+    "SetRecord.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetRecord.d.ts",
+      "category": "types"
+    },
+    "SetRecord.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetRecord.ts",
+      "category": "utils"
+    },
+    "SetSymmetricDifference.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetSymmetricDifference.d.ts",
+      "category": "types"
+    },
+    "SetSymmetricDifference.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetSymmetricDifference.ts",
+      "category": "utils"
+    },
+    "SetSymmetricDifference2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SetSymmetricDifference2.d.ts",
+      "category": "types"
+    },
+    "SetSymmetricDifference2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetSymmetricDifference2.ts",
+      "category": "utils"
+    },
+    "SetUnionPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetUnionPolyfill.d.ts",
+      "category": "utils"
+    },
+    "SetUnionPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SetUnionPolyfill.ts",
+      "category": "utils"
+    },
+    "SharedKeys.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SharedKeys.d.ts",
+      "category": "types"
+    },
+    "SharedKeys.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SharedKeys.ts",
+      "category": "utils"
+    },
+    "SideEffectInitializer.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SideEffectInitializer.d.ts",
+      "category": "types"
+    },
+    "SideEffectInitializer.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SideEffectInitializer.ts",
+      "category": "utils"
+    },
+    "SpotLightComputer.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/SpotLightComputer.d.ts",
+      "category": "lighting"
+    },
+    "SpotLightComputer.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/SpotLightComputer.ts",
+      "category": "lighting"
+    },
+    "StateUtil.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StateUtil.d.ts",
+      "category": "utils"
+    },
+    "StateUtil.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StateUtil.ts",
+      "category": "utils"
+    },
+    "StoppedIteration.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StoppedIteration.ts",
+      "category": "utils"
+    },
+    "StringAtPolyfillOptions.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StringAtPolyfillOptions.d.ts",
+      "category": "utils"
+    },
+    "StringAtPolyfillOptions.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StringAtPolyfillOptions.ts",
+      "category": "utils"
+    },
+    "StringConversion.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/StringConversion.d.ts",
+      "category": "types"
+    },
+    "StringConversion.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StringConversion.ts",
+      "category": "core_functions"
+    },
+    "StringMatchPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/StringMatchPolyfill.d.ts",
+      "category": "types"
+    },
+    "StringMatchPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StringMatchPolyfill.ts",
+      "category": "utils"
+    },
+    "StringRepeat.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/StringRepeat.d.ts",
+      "category": "types"
+    },
+    "StringRepeat.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/StringRepeat.ts",
+      "category": "core_functions"
+    },
+    "SymbolPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/SymbolPolyfill.d.ts",
+      "category": "types"
+    },
+    "SymbolPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/SymbolPolyfill.ts",
+      "category": "utils"
+    },
+    "TaskRunner.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/TaskRunner.d.ts",
+      "category": "types"
+    },
+    "TaskRunner.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/TaskRunner.ts",
+      "category": "utils"
+    },
+    "TestArrayMethod.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/TestArrayMethod.ts",
+      "category": "utils"
+    },
+    "TestClass.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/TestClass.ts",
+      "category": "utils"
+    },
+    "ToIndexedObject.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ToIndexedObject.d.ts",
+      "category": "types"
+    },
+    "ToIndexedObject.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ToIndexedObject.ts",
+      "category": "core_functions"
+    },
+    "ToObject.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ToObject.ts",
+      "category": "core_functions"
+    },
+    "ToObjectRequired.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ToObjectRequired.d.ts",
+      "category": "types"
+    },
+    "ToPrimitive.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ToPrimitive.d.ts",
+      "category": "types"
+    },
+    "ToPrimitive.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ToPrimitive.ts",
+      "category": "utils"
+    },
+    "ToPrimitive2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ToPrimitive2.d.ts",
+      "category": "types"
+    },
+    "ToPrimitive2.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ToPrimitive2.ts",
+      "category": "utils"
+    },
+    "ToString.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ToString.d.ts",
+      "category": "types"
+    },
+    "ToString.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ToString.ts",
+      "category": "core_functions"
+    },
+    "ToStringTagSupport.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ToStringTagSupport.d.ts",
+      "category": "types"
+    },
+    "ToStringTagSupport.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ToStringTagSupport.ts",
+      "category": "utils"
+    },
+    "Transaction.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Transaction.d.ts",
+      "category": "types"
+    },
+    "TypeError.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/TypeError.d.ts",
+      "category": "types"
+    },
+    "TypeError.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/TypeError.ts",
+      "category": "types"
+    },
+    "TypeValidator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/TypeValidator.d.ts",
+      "category": "types"
+    },
+    "TypeValidator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/TypeValidator.ts",
+      "category": "utils"
+    },
+    "UserAgent.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/UserAgent.d.ts",
+      "category": "types"
+    },
+    "UserAgent.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/UserAgent.ts",
+      "category": "utils"
+    },
+    "Util.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util.d.ts",
+      "category": "types"
+    },
+    "Util.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Util.ts",
+      "category": "utils"
+    },
+    "Util10.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util10.d.ts",
+      "category": "types"
+    },
+    "Util11.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util11.d.ts",
+      "category": "types"
+    },
+    "Util12.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util12.d.ts",
+      "category": "types"
+    },
+    "Util13.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util13.d.ts",
+      "category": "types"
+    },
+    "Util14.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util14.d.ts",
+      "category": "types"
+    },
+    "Util15.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util15.d.ts",
+      "category": "types"
+    },
+    "Util16.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util16.d.ts",
+      "category": "types"
+    },
+    "Util17.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util17.d.ts",
+      "category": "types"
+    },
+    "Util2.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util2.d.ts",
+      "category": "types"
+    },
+    "Util3.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util3.d.ts",
+      "category": "types"
+    },
+    "Util4.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util4.d.ts",
+      "category": "types"
+    },
+    "Util5.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util5.d.ts",
+      "category": "types"
+    },
+    "Util6.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util6.d.ts",
+      "category": "types"
+    },
+    "Util7.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util7.d.ts",
+      "category": "types"
+    },
+    "Util8.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util8.d.ts",
+      "category": "types"
+    },
+    "Util9.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Util9.d.ts",
+      "category": "types"
+    },
+    "VERSION.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/VERSION.d.ts",
+      "category": "types"
+    },
+    "VERSION.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/VERSION.ts",
+      "category": "utils"
+    },
+    "ValidateArgumentCount.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ValidateArgumentCount.ts",
+      "category": "utils"
+    },
+    "ValidateNotRegExp.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ValidateNotRegExp.ts",
+      "category": "utils"
+    },
+    "ValidationUtilities.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ValidationUtilities.d.ts",
+      "category": "types"
+    },
+    "ValidationUtilities.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ValidationUtilities.ts",
+      "category": "utils"
+    },
+    "ValueEnforce.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/ValueEnforce.ts",
+      "category": "utils"
+    },
+    "ValueExtractor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/ValueExtractor.d.ts",
+      "category": "types"
+    },
+    "Vector.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Vector.d.ts",
+      "category": "geometry"
+    },
+    "Vector.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/Vector.ts",
+      "category": "geometry"
+    },
+    "WebKitVersionDetector.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/WebKitVersionDetector.d.ts",
+      "category": "types"
+    },
+    "WebKitVersionDetector.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/WebKitVersionDetector.ts",
+      "category": "utils"
+    },
+    "Webos.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/Webos.d.ts",
+      "category": "types"
+    },
+    "Webos.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/Webos.ts",
+      "category": "utils"
+    },
+    "WellKnownSymbols.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/WellKnownSymbols.d.ts",
+      "category": "types"
+    },
+    "WellKnownSymbols.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/WellKnownSymbols.ts",
+      "category": "utils"
+    },
+    "WhitespaceCharacters.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/WhitespaceCharacters.d.ts",
+      "category": "types"
+    },
+    "WhitespaceCharacters.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/WhitespaceCharacters.ts",
+      "category": "utils"
+    },
+    "WindowHole_IO.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/WindowHole_IO.d.ts",
+      "category": "types"
+    },
+    "WindowHole_IO.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/WindowHole_IO.ts",
+      "category": "geometry"
+    },
+    "_WEBPACKEXTERNALMODULE_30325_.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/_WEBPACKEXTERNALMODULE_30325_.ts",
+      "category": "utils"
+    },
+    "_WEBPACKEXTERNALMODULE_4061_.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/_WEBPACKEXTERNALMODULE_4061_.ts",
+      "category": "utils"
+    },
+    "_esModule.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/_esModule.d.ts",
+      "category": "types"
+    },
+    "advanceStringIndex.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/advanceStringIndex.ts",
+      "category": "core_functions"
+    },
+    "all.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/all.d.ts",
+      "category": "types"
+    },
+    "all.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/all.ts",
+      "category": "utils"
+    },
+    "arraySlice.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/arraySlice.ts",
+      "category": "core_functions"
+    },
+    "codeAt.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/codeAt.d.ts",
+      "category": "types"
+    },
+    "codeAt.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/codeAt.ts",
+      "category": "utils"
+    },
+    "createPropertyProxy.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/createPropertyProxy.ts",
+      "category": "utils"
+    },
+    "csgBoolean.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/csgBoolean.ts",
+      "category": "kernel"
+    },
+    "defineGlobalProperty.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/defineGlobalProperty.d.ts",
+      "category": "types"
+    },
+    "defineGlobalProperty.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/defineGlobalProperty.ts",
+      "category": "utils"
+    },
+    "exportModule.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/exportModule.ts",
+      "category": "utils"
+    },
+    "extendObject.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/extendObject.ts",
+      "category": "core_functions"
+    },
+    "filterGeometry.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/filterGeometry.ts",
+      "category": "geometry"
+    },
+    "firefoxVersion.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/firefoxVersion.d.ts",
+      "category": "types"
+    },
+    "firefoxVersion.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/firefoxVersion.ts",
+      "category": "utils"
+    },
+    "for.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/for.d.ts",
+      "category": "types"
+    },
+    "for.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/lighting/for.ts",
+      "category": "lighting"
+    },
+    "forEach.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/forEach.ts",
+      "category": "utils"
+    },
+    "functionBinder.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/functionBinder.d.ts",
+      "category": "types"
+    },
+    "functionBinder.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/functionBinder.ts",
+      "category": "utils"
+    },
+    "getIterator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/getIterator.d.ts",
+      "category": "types"
+    },
+    "getIterator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/getIterator.ts",
+      "category": "core_functions"
+    },
+    "getNewBufferGeometry.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/getNewBufferGeometry.d.ts",
+      "category": "geometry"
+    },
+    "getNewBufferGeometry.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/getNewBufferGeometry.ts",
+      "category": "geometry"
+    },
+    "getOwnPropertyDescriptor.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/getOwnPropertyDescriptor.d.ts",
+      "category": "types"
+    },
+    "getOwnPropertyDescriptor.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/getOwnPropertyDescriptor.ts",
+      "category": "utils"
+    },
+    "getSubstitution.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/getSubstitution.ts",
+      "category": "utils"
+    },
+    "hasNativeReduce.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/hasNativeReduce.d.ts",
+      "category": "types"
+    },
+    "hasNativeReduce.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/hasNativeReduce.ts",
+      "category": "utils"
+    },
+    "hasNativeSymbolSupport.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/hasNativeSymbolSupport.d.ts",
+      "category": "types"
+    },
+    "hasNativeSymbolSupport.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/hasNativeSymbolSupport.ts",
+      "category": "utils"
+    },
+    "includes.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/includes.d.ts",
+      "category": "types"
+    },
+    "includes.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/includes.ts",
+      "category": "utils"
+    },
+    "initMetaManager.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/initMetaManager.ts",
+      "category": "utils"
+    },
+    "initializeGlobalNamespaces.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/initializeGlobalNamespaces.d.ts",
+      "category": "types"
+    },
+    "initializeGlobalNamespaces.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/initializeGlobalNamespaces.ts",
+      "category": "utils"
+    },
+    "install.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/install.d.ts",
+      "category": "types"
+    },
+    "install.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/install.ts",
+      "category": "utils"
+    },
+    "instances.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/parametric/instances.ts",
+      "category": "parametric"
+    },
+    "isArrayIterator.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isArrayIterator.d.ts",
+      "category": "core_functions"
+    },
+    "isArrayIterator.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isArrayIterator.ts",
+      "category": "core_functions"
+    },
+    "isBrowserEnvironment.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/isBrowserEnvironment.d.ts",
+      "category": "types"
+    },
+    "isBrowserEnvironment.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isBrowserEnvironment.ts",
+      "category": "utils"
+    },
+    "isDenoEnvironment.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isDenoEnvironment.ts",
+      "category": "utils"
+    },
+    "isExtensible.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isExtensible.ts",
+      "category": "utils"
+    },
+    "isFunction.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isFunction.ts",
+      "category": "utils"
+    },
+    "isLoopValid.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/isLoopValid.d.ts",
+      "category": "types"
+    },
+    "isLoopValid.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/kernel/isLoopValid.ts",
+      "category": "kernel"
+    },
+    "isMethodSafeForRegex.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isMethodSafeForRegex.ts",
+      "category": "utils"
+    },
+    "isNullish.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/isNullish.ts",
+      "category": "utils"
+    },
+    "makeObj.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/makeObj.ts",
+      "category": "utils"
+    },
+    "mergeObject.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/mergeObject.ts",
+      "category": "core_functions"
+    },
+    "name.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/name.d.ts",
+      "category": "types"
+    },
+    "name.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/name.ts",
+      "category": "utils"
+    },
+    "patchedExec.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/patchedExec.d.ts",
+      "category": "types"
+    },
+    "patchedExec.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/patchedExec.ts",
+      "category": "utils"
+    },
+    "polygon.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/polygon.d.ts",
+      "category": "types"
+    },
+    "polygon.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/polygon.ts",
+      "category": "geometry"
+    },
+    "reduce.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/reduce.d.ts",
+      "category": "types"
+    },
+    "reduce.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/reduce.ts",
+      "category": "utils"
+    },
+    "registerPolyfill.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/registerPolyfill.d.ts",
+      "category": "utils"
+    },
+    "registerPolyfill.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/registerPolyfill.ts",
+      "category": "utils"
+    },
+    "removeStackTraceLines.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/removeStackTraceLines.ts",
+      "category": "utils"
+    },
+    "resolveZoweeOriginData.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/geometry/resolveZoweeOriginData.ts",
+      "category": "geometry"
+    },
+    "set.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/set.d.ts",
+      "category": "types"
+    },
+    "set.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/set.ts",
+      "category": "utils"
+    },
+    "start.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/start.d.ts",
+      "category": "types"
+    },
+    "start.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/start.ts",
+      "category": "utils"
+    },
+    "tag.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/tag.d.ts",
+      "category": "types"
+    },
+    "tag.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/tag.ts",
+      "category": "utils"
+    },
+    "that.d.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/types/that.d.ts",
+      "category": "types"
+    },
+    "that.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/that.ts",
+      "category": "utils"
+    },
+    "toInteger.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/toInteger.ts",
+      "category": "utils"
+    },
+    "toLength.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/toLength.ts",
+      "category": "utils"
+    },
+    "toString.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/toString.ts",
+      "category": "core_functions"
+    },
+    "validateIndex.ts": {
+      "moved": true,
+      "method": "fs",
+      "targetPath": "source/core/utils/validateIndex.ts",
+      "category": "utils"
+    }
+  },
+  "results": {
+    "moved": 713,
+    "skipped": 2,
+    "errors": 0
+  },
+  "stats": {
+    "types": 311,
+    "core_functions": 92,
+    "utils": 221,
+    "lighting": 25,
+    "geometry": 32,
+    "kernel": 11,
+    "parametric": 16,
+    "rendering": 5,
+    "algorithms": 2
+  },
+  "timestamp": "2026-01-26T04:52:14.501Z"
+}

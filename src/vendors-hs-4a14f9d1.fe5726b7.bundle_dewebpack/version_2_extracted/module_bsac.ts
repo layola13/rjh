@@ -1,0 +1,23 @@
+interface Point {
+  x: number;
+  y: number;
+}
+
+function toStringBase(point: Point): string {
+  return `(${point.x};${point.y})`;
+}
+
+function toString(point: Point): string {
+  const result = point.toString();
+  return result === "[object Object]" ? toStringBase(point) : result;
+}
+
+function compare(pointA: Point, pointB: Point): number {
+  return pointA.y === pointB.y ? pointA.x - pointB.x : pointA.y - pointB.y;
+}
+
+function equals(pointA: Point, pointB: Point): boolean {
+  return pointA.x === pointB.x && pointA.y === pointB.y;
+}
+
+export { toString, toStringBase, compare, equals };

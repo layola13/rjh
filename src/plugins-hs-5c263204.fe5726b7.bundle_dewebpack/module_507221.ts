@@ -1,0 +1,1 @@
+export default "assets/design.b8db7387.png";

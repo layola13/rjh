@@ -1,0 +1,1 @@
+export default "assets/mouse_left_button_translation.a7f61e99.gif";

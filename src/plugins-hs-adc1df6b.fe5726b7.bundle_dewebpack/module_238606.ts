@@ -1,0 +1,1 @@
+export default "assets/video_ysjj.54a5d2b9.svg";

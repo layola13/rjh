@@ -1,0 +1,1 @@
+export default "/assets/customized_ceiling.5ca1028f.svg";

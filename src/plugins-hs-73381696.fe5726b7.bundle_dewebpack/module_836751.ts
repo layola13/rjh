@@ -1,0 +1,1 @@
+export default "assets/staricon_blue.63d6e374.svg";

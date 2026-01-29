@@ -1,0 +1,1 @@
+export default "assets/ai.3893c590.png";

@@ -1,0 +1,1 @@
+export default "assets/personalizedmodel.af96e4fe.png";

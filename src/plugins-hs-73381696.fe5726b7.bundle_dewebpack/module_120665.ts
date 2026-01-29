@@ -1,0 +1,1 @@
+export default "assets/column_square.0ee15bb6.svg";

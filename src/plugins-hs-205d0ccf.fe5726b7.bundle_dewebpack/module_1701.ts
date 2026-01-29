@@ -1,0 +1,1 @@
+export default "assets/bg_lingtu_2.da8a5c17.png";

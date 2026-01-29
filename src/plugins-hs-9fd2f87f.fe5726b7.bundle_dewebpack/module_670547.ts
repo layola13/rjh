@@ -1,0 +1,1 @@
+export default "assets/planeprojection.e19e2be7.svg";

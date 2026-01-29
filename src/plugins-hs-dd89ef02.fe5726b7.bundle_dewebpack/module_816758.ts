@@ -1,0 +1,1 @@
+export default "assets/normalrcp.00d37fbc.svg";
