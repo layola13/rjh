@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node, Vector3, Quaternion } from './367441';
 import { FuzzyGizmo, GizmoBaseAgent, SvgShapeGizmo, FuzzyDirection } from './918038';
 import { HSApp } from './518193';

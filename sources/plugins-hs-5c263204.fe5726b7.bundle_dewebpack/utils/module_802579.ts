@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface Group {
   // Define based on your application's Group structure
   [key: string]: unknown;

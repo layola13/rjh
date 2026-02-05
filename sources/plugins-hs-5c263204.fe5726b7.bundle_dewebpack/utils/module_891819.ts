@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ContentLift, ContentLiftController } from './ContentLift';
 
 interface LightEntity {

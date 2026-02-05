@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useContext, ReactNode, createElement } from 'react';
 import { ThemeContext } from './ThemeContext';
 

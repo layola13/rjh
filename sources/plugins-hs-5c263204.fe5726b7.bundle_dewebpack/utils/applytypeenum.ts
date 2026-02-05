@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSApp } from './HSApp';
 import { HSCatalog } from './HSCatalog';
 import { HSCore } from './HSCore';

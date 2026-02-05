@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CoordinateAxis } from './CoordinateAxis';
 
 export default class LightCoordinateAxis extends CoordinateAxis {

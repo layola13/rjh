@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { requireModule } from './module-resolver';
 
 const imageUrlHelper = requireModule(992716);

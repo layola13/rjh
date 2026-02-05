@@ -8,3 +8,6 @@ node_modules/
 convert.ts
 src5/
 src2/
+src_*/
+src/
+sources/

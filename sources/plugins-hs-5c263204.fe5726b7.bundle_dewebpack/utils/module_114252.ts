@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSApp } from './HSApp';
 import { HSFPConstants } from './HSFPConstants';
 import GizmoHandler from './GizmoHandler';

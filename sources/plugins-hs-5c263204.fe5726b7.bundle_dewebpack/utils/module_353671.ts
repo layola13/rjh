@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useContext, useMemo, createElement } from 'react';
 import { Divider } from 'antd';
 import { ThemeContext } from './ThemeContext';

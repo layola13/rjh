@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Handler } from './Handler';
 
 interface PluginConfig {

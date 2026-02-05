@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { default as imageUrl } from './image-106806';
 
 interface CSSModule {

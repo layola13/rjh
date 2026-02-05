@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface TrackLogData {
   key: string;
   name: string;

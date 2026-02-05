@@ -147,7 +147,7 @@ export class FeedbackEntry extends React.Component<FeedbackEntryProps, FeedbackE
   private toggleAliXiaomi(isFromToolbar: boolean = false): void {
     $('.alicare-dialog-customized').click();
     HSApp.App.getApp().userTrackLogger.push('help.xiaomi', {
-      description: '设计家小蜜',
+      description: '家居设计小蜜',
       activeSectionName: isFromToolbar ? '工具栏' : '右下角反馈',
       activeSection: isFromToolbar
         ? HSApp.Util.EventGroupEnum.Toolbar

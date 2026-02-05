@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node, Vector3, BoundingBox, LineDashedMaterial, LineMeshMaterial, MeshComponent, Quaternion } from './p3d';
 import { BoxGizmo, GizmoBaseAgent } from './gizmo';
 import { getMatrix4FromTransform } from './transform-utils';

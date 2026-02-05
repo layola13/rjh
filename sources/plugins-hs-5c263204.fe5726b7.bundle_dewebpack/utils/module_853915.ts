@@ -1,3 +1,4 @@
+// @ts-nocheck
 const CSS_CONTENT = `.dialogue {
             \n width: 100%;
             \n padding: 0px 8px;

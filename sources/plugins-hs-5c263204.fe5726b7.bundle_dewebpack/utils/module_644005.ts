@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ScaleContext, ScaleDirectionType, WallBoardScale } from './scale-utils';
 import { Gizmo } from './gizmo-base';
 import { ChildGizmo } from './child-gizmo';

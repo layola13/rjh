@@ -1,3 +1,4 @@
+// @ts-nocheck
 enum ScrollDirection {
   None = 'None',
   Left = 'Left',

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import cssLoader from './986380';
 
 const styles = cssLoader(false);

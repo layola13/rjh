@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default class MaterialReplacementHelper {
   static getCanReplaceSameMaterialModels(
     targetModel: HSCore.Model.NCustomizedModelMolding | HSCore.Model.BaseModel,

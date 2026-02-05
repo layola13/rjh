@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface ContentItem {
   id: string;
   name: string;

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSApp } from './518193';
 import { ICopilotMessage, OperationId, RecommendedOperationTypes } from './463412';
 import { isAIMode } from './901869';

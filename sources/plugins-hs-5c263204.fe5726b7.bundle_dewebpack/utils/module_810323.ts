@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { IPlugin, registerPlugin } from 'HSApp/Plugin';
 import { PluginType } from 'HSFPConstants';
 

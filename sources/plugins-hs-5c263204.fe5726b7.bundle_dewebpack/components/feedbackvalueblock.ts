@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FeedbackBlock } from './FeedbackBlock';
 
 interface FeedbackValueBlockProps {

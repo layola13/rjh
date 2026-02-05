@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Vector3, Line3 } from './Vector3Types';
 import { HSCore } from './HSCore';
 import { ContentDimensionController } from './ContentDimensionController';

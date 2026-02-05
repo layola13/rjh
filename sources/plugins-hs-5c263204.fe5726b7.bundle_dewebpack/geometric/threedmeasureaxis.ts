@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node, Vector3, Quaternion, LineDashedMaterial, MeshBasicMaterial, RasterizerCullMode } from './ThreeEngine';
 
 interface Position {

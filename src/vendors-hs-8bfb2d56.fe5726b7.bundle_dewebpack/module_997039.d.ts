@@ -1,5 +1,5 @@
 /**
- * 设计家平台配置模块
+ * 家居设计平台配置模块
  * 包含业务代码、环境配置、OSS存储路径及MTOP/TOP接口配置
  */
 
@@ -58,7 +58,7 @@ export interface Config {
 }
 
 /**
- * 设计家平台生产环境配置
+ * 家居设计平台生产环境配置
  * 包含OSS存储、CDN加速及API网关配置
  */
 export const config: Config = {

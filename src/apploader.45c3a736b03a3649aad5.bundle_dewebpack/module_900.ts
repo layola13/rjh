@@ -27,7 +27,7 @@ export default function createLoginPopup(container: HTMLElement, loginUrl?: stri
  </a>
  </div>
  <div class="right">
- <div class="title">欢迎来到居然设计家</div>
+ <div class="title">欢迎来到家居设计</div>
  <button class="taobao-loginBtn">
  工作台帐号登录
  </button>

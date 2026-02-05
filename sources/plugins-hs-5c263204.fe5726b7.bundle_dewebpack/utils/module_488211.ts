@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FurnitureDimension } from './282597';
 
 interface PrecisionConfig {

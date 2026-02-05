@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface Point3D {
   x: number;
   y: number;

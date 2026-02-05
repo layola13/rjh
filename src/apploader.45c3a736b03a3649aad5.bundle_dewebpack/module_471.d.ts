@@ -11,7 +11,7 @@
 type BizType = 'global' | string;
 
 /**
- * 阿里设计家用户信息
+ * 阿里家居设计用户信息
  */
 interface AdskUserInfo {
   /** 会员ID */
@@ -109,7 +109,7 @@ export default class AnalyticsService {
   /** 用户信息缓存 */
   private userInfo: UserInfo;
 
-  /** 阿里设计家用户信息 */
+  /** 阿里家居设计用户信息 */
   private adskUser: AdskUserInfo;
 
   /**
@@ -132,7 +132,7 @@ export default class AnalyticsService {
   sendPV(): void;
 
   /**
-   * 设置阿里设计家用户信息
+   * 设置阿里家居设计用户信息
    * @param user - 用户信息对象
    */
   setAdskUser(user: AdskUserInfo): void;

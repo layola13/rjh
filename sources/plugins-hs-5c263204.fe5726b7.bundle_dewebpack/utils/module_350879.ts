@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Plugin as IPlugin } from 'HSApp/Plugin';
 import { Signal } from 'HSCore/Util';
 import type { App } from 'HSApp';

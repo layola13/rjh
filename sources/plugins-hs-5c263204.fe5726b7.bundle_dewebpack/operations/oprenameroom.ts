@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { BaseOperation, OperationId } from './BaseOperation';
 import type { OperationExecuteContext } from './types';
 

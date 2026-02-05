@@ -51,10 +51,10 @@ export interface ApplicationConfig {
   /** 单点登录服务器 */
   EZHOME_SIGNIN_SERVER: string;
 
-  /** 设计家API服务器 */
+  /** 家居设计API服务器 */
   EZHOME_SSJ_API_SERVER: string;
 
-  /** 设计家BOM（物料清单）API服务器 */
+  /** 家居设计BOM（物料清单）API服务器 */
   EZHOME_SSJ_BOM_API_SERVER: string;
 
   /** 是否启用帮助中心语言切换 */
@@ -207,9 +207,9 @@ export interface WallOpeningProductMap {
 export interface EaApiHostConfig {
   /** 渲染任务管理服务器（企业版） */
   EZHOME_RENDER_JOB_MANAGEMENT_SERVER: string;
-  /** 设计家API服务器（企业版） */
+  /** 家居设计API服务器（企业版） */
   EZHOME_SSJ_API_SERVER: string;
-  /** 设计家BOM API服务器（企业版） */
+  /** 家居设计BOM API服务器（企业版） */
   EZHOME_SSJ_BOM_API_SERVER: string;
   /** 自动样式服务器（企业版） */
   EZHOME_AUTOSTYLER_SERVER: string;

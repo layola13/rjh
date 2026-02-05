@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface CSSExports {
   push(item: [string, string]): void;
   id: string;

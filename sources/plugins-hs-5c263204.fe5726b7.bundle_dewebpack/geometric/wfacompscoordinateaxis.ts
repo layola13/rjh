@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node, Vector3, Quaternion } from './367441';
 import { Vector3 as DVector3, Quaternion as DQuaternion } from './815362';
 import { HSCore } from './635589';

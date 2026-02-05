@@ -60,6 +60,6 @@ interface AppConfig {
 
 /**
  * 应用配置对象
- * 包含设计家应用的预发布环境配置
+ * 包含家居设计应用的预发布环境配置
  */
 export const config: AppConfig;

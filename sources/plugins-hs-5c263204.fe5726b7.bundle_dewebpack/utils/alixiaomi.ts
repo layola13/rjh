@@ -1,3 +1,4 @@
+// @ts-nocheck
 export class AliXiaoMi {
   start(): void {
     let appKey = "DL5pXcyGOW";

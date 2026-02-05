@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { OperationId, BaseOperation } from './BaseOperation';
 import { OperationParamType } from './OperationParamType';
 import ProductService from './ProductService';

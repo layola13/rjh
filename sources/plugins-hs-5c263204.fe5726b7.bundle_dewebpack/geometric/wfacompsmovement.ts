@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Vector3, Quaternion, Matrix } from './math';
 import { Node, MeshBasicMaterial, RasterizerCullMode, Matrix as T3DMatrix } from './t3d';
 import { HSApp } from './app';

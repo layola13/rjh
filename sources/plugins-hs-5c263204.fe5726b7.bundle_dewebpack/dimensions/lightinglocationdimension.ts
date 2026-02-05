@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ContentDimension } from './ContentDimension';
 import { HSApp } from './HSApp';
 

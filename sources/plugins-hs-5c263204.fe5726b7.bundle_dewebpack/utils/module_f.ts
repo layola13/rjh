@@ -1,3 +1,4 @@
+// @ts-nocheck
 if (r || n.return === null || n.return === undefined) {
   n.return?.();
 }

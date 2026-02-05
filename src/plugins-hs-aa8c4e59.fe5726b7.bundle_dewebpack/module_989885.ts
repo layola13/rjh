@@ -187,7 +187,7 @@ export default class AutostylerUtil {
         name: '套餐',
         values: [{
           id: '7f537d66-58de-11e8-9c2d-fa7ae01bbebc',
-          value: '云设计家选品库'
+          value: '云家居设计选品库'
         }]
       };
     }

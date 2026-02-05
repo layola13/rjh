@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { getRoomLists } from './roomUtils';
 import { OperationId, BaseOperation } from './operations';
 

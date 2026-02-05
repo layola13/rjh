@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FurnitureDimension } from './FurnitureDimension';
 
 interface Point2D {

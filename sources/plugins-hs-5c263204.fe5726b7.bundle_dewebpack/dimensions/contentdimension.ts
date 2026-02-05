@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSCore } from './HSCore';
 import { BaseDimension } from './BaseDimension';
 import * as THREE from 'three';

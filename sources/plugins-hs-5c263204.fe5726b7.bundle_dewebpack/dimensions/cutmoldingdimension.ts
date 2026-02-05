@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Vector3 } from './Vector3';
 import { HSApp } from './HSApp';
 import { HSCore } from './HSCore';

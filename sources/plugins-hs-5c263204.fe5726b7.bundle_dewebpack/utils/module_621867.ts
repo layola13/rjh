@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSApp } from './518193';
 import CmdAddGroup from './125963';
 import CmdRemoveGroup from './124190';

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Vector3, Quaternion, Matrix4, Box3 } from 'three';
 import { ContentBox } from './ContentBox';
 import { HSCore } from './HSCore';

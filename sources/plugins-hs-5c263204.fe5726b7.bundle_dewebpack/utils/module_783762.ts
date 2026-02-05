@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Application } from './types/Application';
 import { Canvas } from './types/Canvas';
 import { CommandEvent } from './types/CommandEvent';

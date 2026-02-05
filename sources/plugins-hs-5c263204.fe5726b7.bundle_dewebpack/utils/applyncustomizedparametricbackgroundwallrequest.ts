@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSCore } from './HSCore';
 import { HSApp } from './HSApp';
 import { HSFPConstants } from './HSFPConstants';

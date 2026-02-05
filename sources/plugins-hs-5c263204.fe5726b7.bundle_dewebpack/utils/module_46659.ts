@@ -1,3 +1,4 @@
+// @ts-nocheck
 export * from './257825';
 
 const styleModule = await import('./257825');

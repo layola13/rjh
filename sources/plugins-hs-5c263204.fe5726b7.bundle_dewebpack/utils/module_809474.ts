@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CoordinateAxis } from './CoordinateAxis';
 
 interface TubePickOffset {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSApp } from './518193';
 
 interface Point2D {

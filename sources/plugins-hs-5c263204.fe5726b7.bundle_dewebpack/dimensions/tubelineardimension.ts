@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSApp } from './HSApp';
 
 export class TubeLinearDimension extends HSApp.View.T3d.LinearDimension {

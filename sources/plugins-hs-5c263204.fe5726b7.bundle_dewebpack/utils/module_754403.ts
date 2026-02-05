@@ -1,3 +1,4 @@
+// @ts-nocheck
 export * from './370162';
 
 import styles from './370162';

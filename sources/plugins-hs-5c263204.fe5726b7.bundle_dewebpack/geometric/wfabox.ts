@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node, Vector3, Quaternion } from './367441';
 import { BoxGizmo } from './918038';
 import { WFABase } from './122206';

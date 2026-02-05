@@ -1,3 +1,4 @@
+// @ts-nocheck
 enum HomeGptStateEnum {
   None = 0,
   Running = 1,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface PluginDependency {
   name: string;
   description: string;

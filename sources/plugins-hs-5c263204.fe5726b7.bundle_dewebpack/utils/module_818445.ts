@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Vector2 } from 'three';
 
 interface SideRange {

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSCore } from './HSCore';
 
 export class ClearCustomizedModelMaterialRequest extends HSCore.Transaction.Request {

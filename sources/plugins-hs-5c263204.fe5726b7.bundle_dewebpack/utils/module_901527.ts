@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ContentMovement, ContentMovementController } from './ContentMovement';
 
 interface Content {

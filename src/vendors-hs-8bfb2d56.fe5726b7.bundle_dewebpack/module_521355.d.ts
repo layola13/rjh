@@ -1,11 +1,11 @@
 /**
- * 设计家平台配置模块
+ * 家居设计平台配置模块
  * @module Config
  */
 
 /**
  * 应用配置接口
- * 定义了设计家平台的核心配置项
+ * 定义了家居设计平台的核心配置项
  */
 export interface AppConfig {
   /**
@@ -59,6 +59,6 @@ export interface AppConfig {
 
 /**
  * 应用配置实例
- * 包含设计家平台生产环境的所有配置项
+ * 包含家居设计平台生产环境的所有配置项
  */
 export declare const config: AppConfig;

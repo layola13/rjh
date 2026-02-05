@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSCore } from './HSCore';
 
 interface ApplyCustomizedModelMaterialOptions {

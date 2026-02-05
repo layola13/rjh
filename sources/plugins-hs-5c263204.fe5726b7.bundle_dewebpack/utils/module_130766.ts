@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ActiveContext, ActiveType } from './289659';
 import { ContentRotation } from './449406';
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { HSApp } from './HSApp';
 import { HSCore } from './HSCore';
 import FeedbackHandler from './FeedbackHandler';

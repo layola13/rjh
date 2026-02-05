@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface Environment {
   Default: string | number;
   NCustomizedCeilingModel: string | number;

@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface Member {
   group: Group | null;
   isFlagOff(flag: number): boolean;

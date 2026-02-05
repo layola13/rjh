@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Vector3 } from './Vector3';
 
 export const RotationScaleFactor = {

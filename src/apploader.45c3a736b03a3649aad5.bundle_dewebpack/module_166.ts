@@ -72,7 +72,7 @@ const config: AppConfig = {
   DEPLOY_3D_RES_BUCKET: "cn-prod-3d-shejijia-com",
   HINT_ON_NULL_VERSION: "null-version",
   HINT_ON_LOGIN_ERROR: "login-error",
-  DEFAULT_TITLE: "居然设计家AI设计平台-室内装修效果图在线AI设计",
+  DEFAULT_TITLE: "家居设计AI设计平台-室内装修效果图在线AI设计",
   DEFAULT_FAV_ICON: "https://3d-assets.shejijia.com/v2/image/logo/homestyler.ico",
   DEFAULT_LOADING_IMG: "https://3d-assets.shejijia.com/v2/image/logo/loading_no_word_newfp.gif",
   DEFAULT_LOADING_DESCRIPTION: "— 为居设计，用心造家 —",

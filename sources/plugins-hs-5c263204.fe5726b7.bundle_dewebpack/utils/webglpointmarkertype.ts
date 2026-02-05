@@ -1,3 +1,4 @@
+// @ts-nocheck
 export enum WebGLPointMarkerType {
   // Add specific enum values based on HSApp.View.T3d.PointMarkerType definition
 }

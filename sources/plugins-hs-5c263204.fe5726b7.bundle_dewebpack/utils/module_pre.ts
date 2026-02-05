@@ -1,3 +1,4 @@
+// @ts-nocheck
 async function modulePre(element: unknown): Promise<boolean> {
   await element.next();
   await delay(10);

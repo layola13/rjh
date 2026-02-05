@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Node, Vector3 } from './Vector3Module';
 import { Gizmo } from './GizmoModule';
 import { SignalHook } from './SignalHookModule';

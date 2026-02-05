@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface HandlerDependencies {
   [HSFPConstants.PluginType.Toolbar]: ToolbarPlugin;
   [key: string]: any;

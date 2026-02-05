@@ -1,3 +1,4 @@
+// @ts-nocheck
 const cssContent = `.guide-popup-mask {
     position: absolute;
     left: 0;

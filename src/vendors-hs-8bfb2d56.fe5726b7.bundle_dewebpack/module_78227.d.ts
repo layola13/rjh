@@ -1,5 +1,5 @@
 /**
- * 设计家应用配置模块
+ * 家居设计应用配置模块
  * @module config
  */
 
@@ -59,7 +59,7 @@ export interface AppConfig {
 }
 
 /**
- * 设计家应用配置对象
+ * 家居设计应用配置对象
  * 包含所有环境和服务的配置信息
  */
 export declare const config: AppConfig;

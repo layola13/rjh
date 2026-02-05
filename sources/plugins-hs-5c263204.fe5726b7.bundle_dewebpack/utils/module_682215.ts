@@ -1,3 +1,4 @@
+// @ts-nocheck
 interface SnappingData {
   type: string;
   snapLine: any[];

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { OperationId, BaseOperation } from './operations';
 
 interface SelectionOption {

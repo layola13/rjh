@@ -142,7 +142,7 @@ class AnalyticsTracker {
         source,
         clientVersion,
         publishVersion: window.publishVersion,
-        environment: '设计家',
+        environment: '家居设计',
         ...hsInfo
       };
     } else {
@@ -151,7 +151,7 @@ class AnalyticsTracker {
         uid: this.adskUser.uid,
         source,
         clientVersion,
-        environment: '设计家',
+        environment: '家居设计',
         envDomain: env ?? '',
         publishVersion: window.publishVersion
       };

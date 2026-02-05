@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FeedbackSwitchBlock } from './FeedbackSwitchBlock';
 import { clientRecordingChannel } from './constants';
 

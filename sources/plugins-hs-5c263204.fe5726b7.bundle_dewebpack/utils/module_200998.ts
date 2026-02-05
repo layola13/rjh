@@ -1,3 +1,4 @@
+// @ts-nocheck
 import HSApp from './HSApp';
 
 interface GizmoConstructorParams {

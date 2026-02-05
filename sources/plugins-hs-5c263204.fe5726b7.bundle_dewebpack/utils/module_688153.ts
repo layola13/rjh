@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Vector3, Quaternion, Node, MeshComponent, MeshBasicMaterial, LineBasicMaterial } from './path-to-your-3d-library';
 
 interface MeshData {

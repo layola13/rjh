@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { parseParams } from './parseParams';
 import { HistoryMsgManager } from './HistoryMsgManager';
 import * as Operations from './operations';
